@@ -1,53 +1,409 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dai-seminar on DinAmicI</title><link>https://www.dinamici.org/categories/dai-seminar/</link><description>Recent content in dai-seminar on DinAmicI</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Tue, 25 May 2021 08:33:27 +0000</lastBuildDate><atom:link href="https://www.dinamici.org/categories/dai-seminar/index.xml" rel="self" type="application/rss+xml"/><item><title>Kasun Fernando (University of Toronto, Canada)</title><link>https://www.dinamici.org/dai-seminars/kasun-fernando-university-of-toronto-canada/</link><pubDate>Tue, 25 May 2021 08:33:27 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/kasun-fernando-university-of-toronto-canada/</guid><description/></item><item><title>Mauro Artigiani (Universidad del Rosario, Colombia)</title><link>https://www.dinamici.org/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/</link><pubDate>Tue, 25 May 2021 08:31:10 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/</guid><description/></item><item><title>Matteo Tanzi (New York University, USA)</title><link>https://www.dinamici.org/dai-seminars/matteo-tanzi-new-york-university-usa/</link><pubDate>Tue, 25 May 2021 08:28:30 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/matteo-tanzi-new-york-university-usa/</guid><description>Speaker: Matteo Tanzi (New York University, USA)
-Title: Random-like properties of chaotic forcing
-Abstract: We prove that skew systems with a sufficiently expanding base have &amp;ldquo;approximate&amp;rdquo; statistical properties similar to random ergodic Markov chains. For example, they exhibit approximate exponential decay of correlations, meaning that the exponential rate is observed modulo a controlled error. The fiber maps are only assumed to be Lipschitz regular and to depend on the base in a way that guarantees diffusive behaviour on the vertical component.</description></item><item><title>Umberto Zannier (Scuola Normale Superiore, Italy)</title><link>https://www.dinamici.org/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/</link><pubDate>Thu, 29 Apr 2021 08:40:46 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/</guid><description>Speaker: Umberto Zannier (Scuola Normale Superiore, Italy)
-Title: Torsion values of sections, elliptical billiards and diophantine problems in dynamics
-Abstract: After a very brief review of basics on elliptic curves and their families, we shall consider &amp;ldquo;sections&amp;rdquo; of such families, and especially their &amp;ldquo;torsion values&amp;rdquo;. For instance, what can be said of the complex numbers b for which [latex](2, \sqrt{2(2-b)})[/latex] is torsion on the Legendre curve [latex]y^2=x(x-1)(x-b)[/latex]? In particular, we shall recall results of &amp;ldquo;Manin-Mumford type&amp;rdquo; and focus to illustrate some applications to elliptical billiards.</description></item><item><title>Selim Ghazouani (Université d’Orsay, France)</title><link>https://www.dinamici.org/dai-seminars/selim-ghazouani-universite-dorsay-france/</link><pubDate>Fri, 16 Apr 2021 21:04:47 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/selim-ghazouani-universite-dorsay-france/</guid><description>Speaker: Selim Ghazouani (Université d’Orsay, France)
-Title: Piecewise affine homeomorphisms of the circle and dilation surfaces
-Abstract: In this talk I will consider the following question: if one picks a piecewise affine map of the circle &amp;ldquo;at random”, what dynamical behaviour are we likely to observe? The case of standard circle diffeomorphisms has been studied by Herman in the 80s; in this emblematic case the problem can be reduced to theorems close to KAM theory.</description></item><item><title>Tanja Schindler (Scuola Normale Superiore, Italy)</title><link>https://www.dinamici.org/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/</link><pubDate>Thu, 08 Apr 2021 22:04:06 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/</guid><description>Speaker: Tanja Schindler (Scuola Normale Superiore, Italy)
-Title: Almost sure asymptotic behaviour of Birkhoff sums for infinite measure-preserving dynamical systems
-Abstract: We are interested in the limit behaviour of Birkhoff sums over an infinite sigma-finite measure space. If the observable is integrable then &amp;ndash; by a classical theorem by Aaronson &amp;ndash; there exists no sequence of real numbers such that the Birkhoff sum normed by this sequence converges almost surely to 1.</description></item><item><title>Eva Miranda (Universitat Politècnica de Catalunya) and Daniel Peralta-Salas (Instituto de Ciencias Matemáticas, Spain)</title><link>https://www.dinamici.org/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/</link><pubDate>Wed, 24 Mar 2021 09:39:26 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/</guid><description>Speakers: Eva Miranda (Universitat Politècnica de Catalunya), Daniel Peralta-Salas (Instituto de Ciencias Matemáticas, Spain)
-Title: Looking at Euler flows through a contact mirror: Universality and Turing completeness
-Abstract: The dynamics of an inviscid and incompressible fluid flow on a Riemannian manifold is governed by the Euler equations. Recently, Tao launched a programme to address the global existence problem for the Euler and Navier Stokes equations based on the concept of universality.</description></item><item><title>Álvaro del Pino Gómez (Utrecht University, The Netherlands)</title><link>https://www.dinamici.org/dai-seminars/alvaro-del-pino-gomez/</link><pubDate>Mon, 08 Mar 2021 15:14:43 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/alvaro-del-pino-gomez/</guid><description>Speaker: Álvaro del Pino Gómez (Utrecht University, The Netherlands)
-Title: Billiards in subriemannian geometry
-Abstract: When one considers manifolds with boundary, billiard dynamics are the natural analogue of standard geodesic dynamics. Namely, instead of having geodesics escape at the boundary, we force them back into the manifold using the reflection law. In other dynamical settings, similar constructions are possible: In 2006, B. Khesin and S. Tabachnikov initiated the study of billiards in the semiriemannian setting, studying the integrability of various tables.</description></item><item><title>Alessandro Della Corte (Università di Camerino, Italy)</title><link>https://www.dinamici.org/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/</link><pubDate>Tue, 23 Feb 2021 16:22:09 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/</guid><description>Speaker: Alessandro Della Corte (Università di Camerino, Italy)
-Title: The simplest erasing substitution
-Abstract: The symbolic action of a substitution on the binary expansion generates naturally an interval map. In case of erasing substitutions, the map is typically Baire-1 and not Darboux. As a model case, we consider what is arguably the simplest erasing substitution, mapping 0s to the empty word and 1s to 0 or 1 depending on the parity.</description></item><item><title>Paolo Giulietti (Università di Pisa, Italy)</title><link>https://www.dinamici.org/dai-seminars/paolo-giulietti-universita-di-pisa-italy/</link><pubDate>Wed, 17 Feb 2021 15:15:05 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/paolo-giulietti-universita-di-pisa-italy/</guid><description>Speaker: Paolo Giulietti (Università di Pisa, Italy)
-Title: Infinite mixing for accessible skew products
-Abstract: I will present some decay of correlations results on skew products which are locally accessible. The results rely on the study of a twisted transfer operator and could be generalized to many other situations. I will also present numerical counterparts to such results.
-NOTE: The seminar will be streamed live on our YouTube channel then saved there.</description></item><item><title>Gary Froyland (University of New South Wales, Australia)</title><link>https://www.dinamici.org/dai-seminars/gary-froyland-university-of-new-south-wales-australia/</link><pubDate>Tue, 26 Jan 2021 12:12:10 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/gary-froyland-university-of-new-south-wales-australia/</guid><description>Speaker: Gary Froyland (University of New South Wales, Australia)
-Title: The dynamic ocean
-Abstract: The circulation of our oceans strongly influences climate, weather and biology. Our ocean currents are dynamic, and fluctuate to varying extents. I will introduce data-driven numerical tools that can tease apart dynamic components of the ocean, with information sourced from ocean drifters, satellite imagery, and ocean models. These components, their lifecycles, and their response to external forcing, help us to build a dynamic picture of our ocean.</description></item><item><title>Misha Bialy (Tel Aviv University, Israel)</title><link>https://www.dinamici.org/dai-seminars/mischa-bialy-tel-aviv-university-israel/</link><pubDate>Tue, 26 Jan 2021 08:29:01 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/mischa-bialy-tel-aviv-university-israel/</guid><description>Speaker: **Misha Bialy ** (Tel Aviv University, Israel)
-Title: Birkhoff-Poritsky conjecture for centrally-symmetric billiards
-Abstract: In this talk I shall discuss Birkhoff-Poritsky conjecture for centrally-symmetric C^2-smooth convex planar billiards. We assume that the domain A between the invariant curve of 4-periodic orbits and the boundary of the phase cylinder is foliated by C^0-invariant curves. Under this assumption we prove that the billiard curve is an ellipse. Other versions of Birkhoff-Poritsky conjecture follow from this result.</description></item><item><title>Michele Gianfelice (Università della Calabria, Italy)</title><link>https://www.dinamici.org/dai-seminars/michele-gianfelice-universita-della-calabria-italy/</link><pubDate>Mon, 11 Jan 2021 13:27:47 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/michele-gianfelice-universita-della-calabria-italy/</guid><description>Speaker: Michele Gianfelice (Università della Calabria, Italy)
-Title: Stochastic stability of classical Lorenz flow under impulsive type forcing
-Abstract: Inspired by the problem of modeling the so called anthropogenic forcing in climatology, e.g. the effects of the emissions of greenhouse gases in the atmosphere, we introduce a novel type of random perturbation for the classical Lorenz flow and prove its stochastic stability. The perturbation acts on the system in an impulsive way, hence is not of diffusive type.</description></item><item><title>Andrea Venturelli (Université d’Avignon, France)</title><link>https://www.dinamici.org/dai-seminars/andrea-venturelli-universite-davignon-france/</link><pubDate>Thu, 07 Jan 2021 09:00:26 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/andrea-venturelli-universite-davignon-france/</guid><description>Speaker: Andrea Venturelli (Université d’Avignon, France)
-Title: Hyperbolic motion in the Newtonian N-body problem with arbitrary limit shape
-Abstract: We prove for the N-body problem the existence of hyperbolic motions for any prescribed limit shape and any given initial configuration of the bodies. The energy level h&amp;gt;0 of the motion can also be chosen arbitrarily. Our approach is based on the construction of a global viscosity solutions for the Hamilton-Jacobi equation H(x,du(x))=h.</description></item><item><title>Anna Miriam Benini (Università di Parma, Italy)</title><link>https://www.dinamici.org/dai-seminars/miriam-benini-universita-di-parma-italy/</link><pubDate>Thu, 12 Nov 2020 14:07:49 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/miriam-benini-universita-di-parma-italy/</guid><description>Speaker: Anna Miriam Benini (Università di Parma, Italy)
-Title: Infinite entropy for transcendental entire functions
-Abstract: Defining entropy on noncompact metric spaces is a tricky business, since there are several natural and nonequivalent generalizations of the usual notions of entropy for continuous maps on compact spaces. By defining entropy for transcendental maps on the complex plane as the sup over the entropy restricted to compact forward invariant subsets, we prove that with this definition the entropy of such functions is infinite.</description></item><item><title>Isaia Nisoli (Universidade Federal do Rio de Janeiro, Brazil)</title><link>https://www.dinamici.org/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/</link><pubDate>Wed, 11 Nov 2020 15:00:18 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/</guid><description>Speaker: Isaia Nisoli (Universidade Federal do Rio de Janeiro, Brazil)
-Title: A simple system presenting Noise Induced Order
-Abstract: In this talk I will present a family of one dimensional systems with random additive noise such that, as the noise size increases, the Lyapunov exponent of the stationary measure transitions from positive to negative. This phenomena is known in literature as Noise Induced Order, and was first observed in a model of the Belosouv-Zhabotinsky reaction and its existence was proven only recently by Galatolo-Monge-Nisoli.</description></item><item><title>Carlangelo Liverani (Università di Roma Tor Vergata, Italy)</title><link>https://www.dinamici.org/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/</link><pubDate>Tue, 10 Nov 2020 13:58:20 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/</guid><description>Speaker: Carlangelo Liverani (Università di Roma Tor Vergata, Italy)
-Title: Locating Ruelle-Pollicott resonances
-Abstract: We study the spectrum of transfer operators associated to various dynamical systems. Our aim is to obtain precise information on discrete spectrum. To this end we propose a unitary approach. We consider various settings where new information can be obtained following different branches along the proposed path. These settings include affine expanding Markov maps, uniformly expanding Markov maps, non-uniformly expanding maps, hyperbolic diffeomorphisms.</description></item><item><title>Stefano Marò (Università di Pisa, Italy)</title><link>https://www.dinamici.org/dai-seminars/stefano-maro-university-of-pisa-italy/</link><pubDate>Tue, 03 Nov 2020 21:29:00 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/stefano-maro-university-of-pisa-italy/</guid><description>Speaker: Stefano Marò (Università di Pisa, Italy)
-Title: Chaotic motion in the breathing circle billiard
-Abstract: We consider the free motion of a point particle inside a circular billiard with periodically moving boundary, with the assumption that the collisions of the particle with the boundary are elastic so that the energy of the particle is not preserved. It is known that if the motion of the boundary is regular enough then the energy is bounded due to the existence of invariant curves.</description></item><item><title>Françoise Pène (Université de Bretagne Occidentale, France)</title><link>https://www.dinamici.org/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/</link><pubDate>Thu, 18 Jun 2020 11:00:20 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/</guid><description>Speaker: Françoise Pène (Université de Bretagne Occidentale, France)
-Title: Invariance by induction of the asymptotic variance
-Abstract: It is well known that the integral of an observable is preserved by induction. We are interested here in extensions of this result to moments of order 2 and 3. We have two natural candidates for the second and third order moments: the classical asymptotic variance (given by the Green-Kubo formula) and an analogous quantity of the third order.</description></item><item><title>Andreas Knauf (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)</title><link>https://www.dinamici.org/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/</link><pubDate>Thu, 11 Jun 2020 07:07:48 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/</guid><description>Speaker: Andreas Knauf (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)
-Title: Asymptotic velocity for scattering particles
-Abstract: Partly with Jacques Fejoz, Richard Montgomery, Stefan Fleischer and Manuel Quaschner.
-The past and future of scattering particle systems is partly determined by their asymptotic velocity, that is, the Cesàro limit of the velocity. That this exists for bounded interactions and all initial conditions, is part of a statement sometimes called &amp;lsquo;asymptotic completeness&amp;rsquo;. The same statement does not apply to individual initial conditions in celestial mechanics.</description></item><item><title>Sunrose Shrestha (Tufts University, USA)</title><link>https://www.dinamici.org/dai-seminars/sunrose-shrestha-tufts-university-usa/</link><pubDate>Thu, 04 Jun 2020 13:29:58 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/sunrose-shrestha-tufts-university-usa/</guid><description>Speaker: Sunrose Shrestha (Tufts University, USA)
-Title: The topology and geometry of random square-tiled surfaces
-Abstract: A square-tiled surface (STS) is a branched cover of the standard square torus with branching over exactly one point. They are concrete examples of translation surfaces which are an important class of singular flat metrics on 2-manifolds with applications in Teichmüller theory and polygonal billiards. In this talk we will consider a randomizing model for STSs based on permutation pairs and use it to compute the genus distribution.</description></item><item><title>Marta Maggioni (Universiteit Leiden, Netherlands)</title><link>https://www.dinamici.org/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/</link><pubDate>Wed, 20 May 2020 19:31:13 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/</guid><description>Speaker: Marta Maggioni (Universiteit Leiden, Netherlands)
-Title: Matching for random systems with an application to minimal weight expansions
-Abstract: We consider families of skew-product maps, representing systems evolving in discrete time in which, at each time step, one of a number of transformations is chosen according to an i.i.d process and applied. We extend the notion of matching for such dynamical systems and we show that, for a certain family of piecewise affine random maps of the interval, the property of random matching implies that any invariant density is piecewise constant.</description></item><item><title>Sandro Vaienti (Centre de Physique Théorique, Marseille, France)</title><link>https://www.dinamici.org/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/</link><pubDate>Mon, 04 May 2020 12:24:50 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/</guid><description>Speaker: **Sandro Vaienti ** (Centre de Physique Théorique, Marseille, France)
-Title: Thermodynamic formalism for random weighted covering systems
-Abstract: We develop a quenched thermodynamic formalism for random dynamical systems generated by countably branched, piecewise-monotone mappings of the interval that satisfy a random covering condition.
-Joint with J. Atnip, G. Froyland and C. Gonzalez-Tokman</description></item><item><title>Francesco Cellarosi (Queen's University, Canada)</title><link>https://www.dinamici.org/dai-seminars/28-5-francesco-cellarosi/</link><pubDate>Mon, 04 May 2020 12:22:09 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/28-5-francesco-cellarosi/</guid><description>Speaker: Francesco Cellarosi (Queen&amp;rsquo;s University, Canada)
-Title: Rational Horocycle lifts and the tails of Quadratic Weyl sums
-Abstract: Equidistribution of horocycles on hyperbolic surfaces has been used to dynamically answer several probabilistic questions about number-theoretical objects. In this talk we focus on horocycle lifts, i.e. curves on higher-dimensional manifolds whose projection to the hyperbolic surface is a classical horocycle, and their behaviour under the action of the geodesic flow. It is known that when such horocycle lifts are `generic’, then their push forward via the geodesic flow becomes equidistributed in the ambient manifold.</description></item><item><title>Martin Leguil (Université Paris-Sud 11, France)</title><link>https://www.dinamici.org/dai-seminars/martin-leguil-universite-paris-sud-11-france/</link><pubDate>Mon, 04 May 2020 12:20:21 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/martin-leguil-universite-paris-sud-11-france/</guid><description>Speaker: Martin Leguil (Université Paris-Sud 11, France)
-Title: Some rigidity results for billiards and hyperbolic flows
-Abstract: In a project with P. Bálint, J. De Simoi and V. Kaloshin, we have been studying the inverse problem for a class of open dispersing billiards obtained by removing from the plane a finite number of smooth strictly convex scatterers satisfying a non-eclipse condition. The dynamics of such billiards is hyperbolic (Axiom A), and there is a natural labeling of periodic orbits.</description></item><item><title>Giulio Tiozzo (University of Toronto, Canada)</title><link>https://www.dinamici.org/dai-seminars/giulio-tiozzo-university-of-toronto-canada/</link><pubDate>Mon, 04 May 2020 12:18:03 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/giulio-tiozzo-university-of-toronto-canada/</guid><description>Speaker: Giulio Tiozzo (University of Toronto, Canada)
-Title: Central limit theorems for counting measures in coarse negative curvature
-Abstract: We establish general central limit theorems for an action of a group on a hyperbolic space with respect to counting for the word length in the group.
-In 2013, Chas, Li, and Maskit produced numerical experiments on random closed geodesics on a hyperbolic pair of pants. Namely, they drew uniformly at random conjugacy classes of a given word length, and considered the hyperbolic length of the corresponding closed geodesic on the pair of pants.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dai-seminar on DinAmicI</title><link>https://www.dinamici.org/categories/dai-seminar/</link><description>Recent content in dai-seminar on DinAmicI</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Tue, 25 May 2021 08:33:27 +0000</lastBuildDate><atom:link href="https://www.dinamici.org/categories/dai-seminar/index.xml" rel="self" type="application/rss+xml"/><item><title>Kasun Fernando (University of Toronto, Canada)</title><link>https://www.dinamici.org/dai-seminars/kasun-fernando-university-of-toronto-canada/</link><pubDate>Tue, 25 May 2021 08:33:27 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/kasun-fernando-university-of-toronto-canada/</guid><description/></item><item><title>Mauro Artigiani (Universidad del Rosario, Colombia)</title><link>https://www.dinamici.org/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/</link><pubDate>Tue, 25 May 2021 08:31:10 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/</guid><description/></item><item><title>Matteo Tanzi (New York University, USA)</title><link>https://www.dinamici.org/dai-seminars/matteo-tanzi-new-york-university-usa/</link><pubDate>Tue, 25 May 2021 08:28:30 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/matteo-tanzi-new-york-university-usa/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Matteo Tanzi&lt;/strong> (New York University, USA)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Random-like properties of chaotic forcing&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> We prove that skew systems with a sufficiently expanding
+base have &amp;ldquo;approximate&amp;rdquo; statistical properties similar to random ergodic
+Markov chains. For example, they exhibit approximate exponential decay
+of correlations, meaning that the exponential rate is observed modulo a
+controlled error. The fiber maps are only assumed to be Lipschitz
+regular and to depend on the base in a way that guarantees diffusive
+behaviour on the vertical component. The assumptions do not imply an
+hyperbolic picture and one cannot rely on the spectral properties of the
+transfer operators involved. The approximate nature of the result is the
+inevitable price one pays for having so mild assumptions on the dynamics
+on the vertical component. The error in the approximation is shown to go
+to zero when the expansion of the base tends to infinity.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Umberto Zannier (Scuola Normale Superiore, Italy)</title><link>https://www.dinamici.org/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/</link><pubDate>Thu, 29 Apr 2021 08:40:46 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Umberto Zannier&lt;/strong>  (Scuola Normale Superiore, Italy)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Torsion values of sections, elliptical billiards and
+diophantine problems in dynamics&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> After a very brief review of basics on elliptic curves and
+their families, we shall consider &amp;ldquo;sections&amp;rdquo; of such  families, and
+especially their &amp;ldquo;torsion values&amp;rdquo;.  For instance, what can be said of
+the complex numbers b for which [latex](2, \sqrt{2(2-b)})[/latex]
+is torsion on the Legendre curve [latex]y^2=x(x-1)(x-b)[/latex]? In
+particular, we shall recall results of &amp;ldquo;Manin-Mumford type&amp;rdquo; and focus to
+illustrate some applications to elliptical billiards. Finally, if time
+allows we shall frame these issues as special cases of a general
+question in arithmetic dynamics, which can be treated with different
+methods, depending on the context.&lt;br>
+(Most results refer to work with Pietro Corvaja and David Masser.)&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Selim Ghazouani (Université d’Orsay, France)</title><link>https://www.dinamici.org/dai-seminars/selim-ghazouani-universite-dorsay-france/</link><pubDate>Fri, 16 Apr 2021 21:04:47 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/selim-ghazouani-universite-dorsay-france/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Selim Ghazouani&lt;/strong> (Université d’Orsay, France)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Piecewise affine homeomorphisms of the circle and dilation
+surfaces&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> In this talk I will consider the following question: if one
+picks a piecewise affine map of the circle &amp;ldquo;at random”, what dynamical
+behaviour are we likely to observe? The case of standard circle
+diffeomorphisms has been studied by Herman in the 80s; in this
+emblematic case the problem can be reduced to theorems close to KAM
+theory. For the piecewise affine case, we put forward a geometric
+approach, inspired by methods from both Teichmüller theory and
+hyperbolic geometry.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Tanja Schindler (Scuola Normale Superiore, Italy)</title><link>https://www.dinamici.org/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/</link><pubDate>Thu, 08 Apr 2021 22:04:06 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Tanja Schindler&lt;/strong>  (Scuola Normale Superiore, Italy)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Almost sure asymptotic behaviour of Birkhoff sums for infinite
+measure-preserving dynamical systems&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> We are interested in the limit behaviour of Birkhoff sums
+over an infinite sigma-finite measure space. If the observable is
+integrable then &amp;ndash; by a classical theorem by Aaronson &amp;ndash; there exists no
+sequence of real numbers such that the Birkhoff sum normed by this
+sequence converges almost surely to 1. Under strong mixing conditions on
+the underlying system we prove a generalized strong law of large numbers
+for integrable observables using a truncated sum adding a suitable
+number of terms depending on the point of evaluation. For f not
+integrable we give conditions on f such that the Birkhoff sum normed by
+a sequence of real numbers converges almost surely to 1. Joint work with
+Claudio Bonanno.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Eva Miranda (Universitat Politècnica de Catalunya) and Daniel Peralta-Salas (Instituto de Ciencias Matemáticas, Spain)</title><link>https://www.dinamici.org/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/</link><pubDate>Wed, 24 Mar 2021 09:39:26 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/</guid><description>&lt;p>&lt;em>Speakers:&lt;/em> &lt;strong>Eva Miranda&lt;/strong> (Universitat Politècnica de Catalunya),
+&lt;strong>Daniel Peralta-Salas&lt;/strong> (Instituto de Ciencias Matemáticas, Spain)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Looking at Euler flows through a contact mirror: Universality
+and Turing completeness&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> The dynamics of an inviscid and incompressible fluid flow on
+a Riemannian manifold is governed by the Euler equations. Recently, Tao
+launched a programme to address the global existence problem for the
+Euler and Navier Stokes equations based on the concept of universality.
+Inspired by this proposal, we show that the stationary Euler equations
+exhibit several universality features, In the sense that, any
+non-autonomous flow on a compact manifold can be extended to a smooth
+stationary solution of the Euler equations on some Riemannian manifold
+of possibly higher dimension. These results can be viewed as lending
+support to the intuition that solutions to the Euler equations can be
+extremely complicated in nature. A key point in the proof is looking at
+the h-principle in contact geometry through a contact mirror, unveiled
+by Sullivan, Etnyre and Ghrist more than two decades ago. We end up this
+talk addressing an apparently different question: What kind of physics
+might be non-computational? Using the former universality result, we can
+establish the Turing completeness of the steady Euler flows, i.e., there
+exist solutions that encode a universal Turing machine and, in
+particular, these solutions have undecidable trajectories. But, in view
+of the increase of dimension yielded by our proof, the question is: can
+this be done in dimension 3? We will prove the existence of Turing
+complete fluid flows on a 3-dimensional geometric domain. Our novel
+strategy uses the computational power of symbolic dynamics and the
+contact mirror again.&lt;br>
+This talk is based on joint work with Robert Cardona and Fran Presas
+(&lt;a href="https://arxiv.org/abs/1911.01963">arXiv:1911.01963&lt;/a> and
+&lt;a href="https://arxiv.org/abs/2012.12828">arXiv:2012.12828&lt;/a>).&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Álvaro del Pino Gómez (Utrecht University, The Netherlands)</title><link>https://www.dinamici.org/dai-seminars/alvaro-del-pino-gomez/</link><pubDate>Mon, 08 Mar 2021 15:14:43 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/alvaro-del-pino-gomez/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Álvaro del Pino Gómez&lt;/strong>  (Utrecht University, The
+Netherlands)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Billiards in subriemannian geometry&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> When one considers manifolds with boundary, billiard
+dynamics are the natural analogue of standard geodesic dynamics. Namely,
+instead of having geodesics escape at the boundary, we force them back
+into the manifold using the reflection law. In other dynamical settings,
+similar constructions are possible: In 2006, B. Khesin and S.
+Tabachnikov initiated the study of billiards in the semiriemannian
+setting, studying the integrability of various tables. In recent years
+we have also seen the appearance of several billiard setups of
+symplectic nature. In this talk I will discuss recent work with L.
+Dahinden in which we look at billiards in subriemannian geometry. I will
+sketch how the reflection law arises naturally both from the
+control-theoretical and symplectic perspectives, how the reflection is
+problematic at tangency points between the distribution and the boundary
+of the table, and I will introduce some concrete examples. My ultimate
+goal will be to pose several intriguing open questions.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Alessandro Della Corte (Università di Camerino, Italy)</title><link>https://www.dinamici.org/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/</link><pubDate>Tue, 23 Feb 2021 16:22:09 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Alessandro Della Corte&lt;/strong>  (Università di Camerino, Italy)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>The simplest erasing substitution&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> The symbolic action of a substitution on the binary
+expansion generates naturally an interval map. In case of erasing
+substitutions, the map is typically Baire-1 and not Darboux. As a model
+case, we consider what is arguably the simplest erasing substitution,
+mapping 0s to the empty word and 1s to 0 or 1 depending on the parity.
+The corresponding interval map is shown to have fractal properties
+(bounds are given on the Hausdorff dimension of the fibers) and to
+display rich dynamical behavior, including Devaney chaos, uniform
+distributional chaos of type 1, infinite topological entropy as well as
+the presence of cycles attracting in a finite time every rational.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Paolo Giulietti (Università di Pisa, Italy)</title><link>https://www.dinamici.org/dai-seminars/paolo-giulietti-universita-di-pisa-italy/</link><pubDate>Wed, 17 Feb 2021 15:15:05 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/paolo-giulietti-universita-di-pisa-italy/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Paolo Giulietti&lt;/strong>  (Università di Pisa, Italy)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Infinite mixing for accessible skew products&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> I will present some decay of correlations results on skew
+products which are locally accessible. The results rely on the study of
+a twisted transfer operator and could be generalized to many other
+situations. I will also present numerical counterparts to such results.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Gary Froyland (University of New South Wales, Australia)</title><link>https://www.dinamici.org/dai-seminars/gary-froyland-university-of-new-south-wales-australia/</link><pubDate>Tue, 26 Jan 2021 12:12:10 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/gary-froyland-university-of-new-south-wales-australia/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Gary Froyland&lt;/strong> (University of New South Wales, Australia)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>The dynamic ocean&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> The circulation of our oceans strongly influences climate,
+weather and biology. Our ocean currents are dynamic, and fluctuate to
+varying extents. I will introduce data-driven numerical tools that can
+tease apart dynamic components of the ocean, with information sourced
+from ocean drifters, satellite imagery, and ocean models. These
+components, their lifecycles, and their response to external forcing,
+help us to build a dynamic picture of our ocean.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Misha Bialy (Tel Aviv University, Israel)</title><link>https://www.dinamici.org/dai-seminars/mischa-bialy-tel-aviv-university-israel/</link><pubDate>Tue, 26 Jan 2021 08:29:01 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/mischa-bialy-tel-aviv-university-israel/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> **Misha Bialy ** (Tel Aviv University, Israel)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Birkhoff-Poritsky conjecture for centrally-symmetric billiards&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> In this talk I shall discuss Birkhoff-Poritsky conjecture
+for centrally-symmetric C^2-smooth convex planar billiards. We assume
+that the domain A between the invariant curve of 4-periodic orbits and
+the boundary of the phase cylinder is foliated by C^0-invariant curves.
+Under this assumption we prove that the billiard curve is an ellipse.
+Other versions of Birkhoff-Poritsky conjecture follow from this result.
+For the original Birkhoff-Poritsky formulation we show that if a
+neighborhood of the boundary of billiard domain has a C^1-smooth
+foliation by convex caustics of rotation numbers in the interval (0;
+1/4] then the boundary curve is an ellipse. The main ingredients of the
+proof are: (1) the non-standard generating function for convex
+billiards; (2) the remarkable structure of the invariant curve
+consisting of 4-periodic orbits; and (3) the integral-geometry approach
+initiated by the author for rigidity results of circular billiards.
+Surprisingly, we establish a Hopf-type rigidity for billiards in the
+ellipse. Based on joint work with Andrey E. Mironov (Novosibirsk).&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Michele Gianfelice (Università della Calabria, Italy)</title><link>https://www.dinamici.org/dai-seminars/michele-gianfelice-universita-della-calabria-italy/</link><pubDate>Mon, 11 Jan 2021 13:27:47 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/michele-gianfelice-universita-della-calabria-italy/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Michele Gianfelice&lt;/strong>  (Università della Calabria, Italy)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Stochastic stability of classical Lorenz flow under impulsive
+type forcing&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> Inspired by the problem of modeling the so called
+anthropogenic forcing in climatology, e.g. the effects of the emissions
+of greenhouse gases in the atmosphere, we introduce a novel type of
+random perturbation for the classical Lorenz flow and prove its
+stochastic stability. The perturbation acts on the system in an
+impulsive way, hence is not of diffusive type. Namely, given a
+cross-section M for the unperturbed flow, each time the trajectory of
+the system crosses M the phase velocity field is changed with a new one
+sampled at random from a suitable neighborhood of the unperturbed one.
+The resulting random evolution is therefore described by a piecewise
+deterministic Markov process. The proof of the stochastic stability for
+the unperturbed flow is then carried on working either in the framework
+of the Random Dynamical Systems or in that of semi-Markov processes.
+Joint work with Sandro Vaienti.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Andrea Venturelli (Université d’Avignon, France)</title><link>https://www.dinamici.org/dai-seminars/andrea-venturelli-universite-davignon-france/</link><pubDate>Thu, 07 Jan 2021 09:00:26 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/andrea-venturelli-universite-davignon-france/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Andrea Venturelli&lt;/strong>  (Université d’Avignon, France)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Hyperbolic motion in the Newtonian N-body problem with
+arbitrary limit shape&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> We prove for the N-body problem the existence of hyperbolic
+motions for any prescribed limit shape and any given initial
+configuration of the bodies. The energy level h&amp;gt;0 of the motion can
+also be chosen arbitrarily. Our approach is based on the construction of
+a global viscosity solutions for the Hamilton-Jacobi equation
+H(x,du(x))=h. Our hyperbolic motion is in fact a calibrating curve of
+the viscosity solution. The presented results can also be viewed as a
+new application of Marchal&amp;rsquo;s theorem, whose main use in recent
+literature has been to prove the existence of periodic orbits. Joint
+work with Ezequiel Maderna.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Anna Miriam Benini (Università di Parma, Italy)</title><link>https://www.dinamici.org/dai-seminars/miriam-benini-universita-di-parma-italy/</link><pubDate>Thu, 12 Nov 2020 14:07:49 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/miriam-benini-universita-di-parma-italy/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Anna Miriam Benini&lt;/strong>  (Università di Parma, Italy)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Infinite entropy for transcendental entire functions&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> Defining entropy on noncompact metric spaces is a tricky
+business, since there are several natural and nonequivalent
+generalizations of the usual notions of entropy for continuous maps on
+compact spaces. By defining entropy for transcendental maps on the
+complex plane as the sup over the entropy restricted to compact forward
+invariant subsets, we prove that with this definition the entropy of
+such functions is infinite. The proof relies on covering results which
+are distinctive to holomorphic maps.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Isaia Nisoli (Universidade Federal do Rio de Janeiro, Brazil)</title><link>https://www.dinamici.org/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/</link><pubDate>Wed, 11 Nov 2020 15:00:18 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Isaia Nisoli&lt;/strong>  (Universidade Federal do Rio de Janeiro,
+Brazil)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>A simple system presenting Noise Induced Order&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> In this talk I will present a family of one dimensional
+systems with random additive noise such that, as the noise size
+increases, the Lyapunov exponent of the stationary measure transitions
+from positive to negative. This phenomena is known in literature as
+Noise Induced Order, and was first observed in a model of the
+Belosouv-Zhabotinsky reaction and its existence was proven only recently
+by Galatolo-Monge-Nisoli. In the talk I will show how this phenomena is
+strictly connected with non-uniform hyperbolicity and the coexistence of
+regions of expansion and contraction in phase space; the result is
+attained through a result on the continuity of the Lyapunov exponent of
+the stationary measure with respect to the size of the noise.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Carlangelo Liverani (Università di Roma Tor Vergata, Italy)</title><link>https://www.dinamici.org/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/</link><pubDate>Tue, 10 Nov 2020 13:58:20 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Carlangelo Liverani&lt;/strong>  (Università di Roma Tor Vergata,
+Italy)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Locating Ruelle-Pollicott resonances&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> We study the spectrum of transfer operators associated to
+various dynamical systems. Our aim is to obtain precise information on
+discrete spectrum. To this end we propose a unitary approach. We
+consider various settings where new information can be obtained
+following different branches along the proposed path. These settings
+include affine expanding Markov maps, uniformly expanding Markov maps,
+non-uniformly expanding maps, hyperbolic diffeomorphisms. We believe
+this to be the germ of a general theory. Joint work with O. Butterley
+and N. Kiamari.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Stefano Marò (Università di Pisa, Italy)</title><link>https://www.dinamici.org/dai-seminars/stefano-maro-university-of-pisa-italy/</link><pubDate>Tue, 03 Nov 2020 21:29:00 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/stefano-maro-university-of-pisa-italy/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Stefano Marò&lt;/strong>  (Università di Pisa, Italy)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Chaotic motion in the breathing circle billiard&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> We consider the free motion of a point particle inside a
+circular billiard with periodically moving boundary, with the assumption
+that the collisions of the particle with the boundary are elastic so
+that the energy of the particle is not preserved. It is known that if
+the motion of the boundary is regular enough then the energy is bounded
+due to the existence of invariant curves. We show that it is
+nevertheless possible that the motion of the particle is chaotic, also
+under regularity assumptions for the moving boundary. More precisely, we
+show that there exists a class of functions describing the motion of the
+boundary for which the billiard map admits invariant probability
+measures with positive metric entropy. The proof relies on variational
+techniques based on Aubry-Mather theory. Joint work with Claudio
+Bonanno.&lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions, with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Françoise Pène (Université de Bretagne Occidentale, France)</title><link>https://www.dinamici.org/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/</link><pubDate>Thu, 18 Jun 2020 11:00:20 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Françoise Pène&lt;/strong> (Université de Bretagne Occidentale, France)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Invariance by induction of the asymptotic variance&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> It is well known that the integral of an observable is
+preserved by induction. We are interested here in extensions of this
+result to moments of order 2 and 3. We have two natural candidates for
+the second and third order moments: the classical asymptotic variance
+(given by the Green-Kubo formula) and an analogous quantity of the third
+order. This question arises from the proof of CLT. In some cases, the
+asymptotic variance in the CLT can be expressed on the one hand in terms
+of the classical Green-Kubo formula and on the other hand in terms of
+the Green-Kubo formula for the induced system. Under general assumptions
+(involving transfer operators), we prove that the asymptotic variance is
+preserved by induction and that the natural third order quantity is
+preserved up to an error term. This is joint work with Damien Thomine.&lt;/p></description></item><item><title>Andreas Knauf (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)</title><link>https://www.dinamici.org/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/</link><pubDate>Thu, 11 Jun 2020 07:07:48 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Andreas Knauf&lt;/strong> (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Asymptotic velocity for scattering particles&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> Partly with Jacques Fejoz, Richard Montgomery, Stefan Fleischer and Manuel Quaschner.&lt;/p>
+&lt;p>The past and future of scattering particle systems is partly determined
+by their asymptotic velocity, that is, the Cesàro limit of the velocity.
+That this exists for bounded interactions and all initial conditions, is
+part of a statement sometimes called &amp;lsquo;asymptotic completeness&amp;rsquo;. The same
+statement does not apply to individual initial conditions in celestial
+mechanics. However, at least for up to four particles, nonexistence of
+asymptotic velocity is a measure zero phenomenon. We explain some new
+ideas connected with the proof (Poincaré section techniques for
+wandering sets, non-deterministic particle systems, and walks on a poset
+of set partitions).&lt;/p></description></item><item><title>Sunrose Shrestha (Tufts University, USA)</title><link>https://www.dinamici.org/dai-seminars/sunrose-shrestha-tufts-university-usa/</link><pubDate>Thu, 04 Jun 2020 13:29:58 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/sunrose-shrestha-tufts-university-usa/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Sunrose Shrestha&lt;/strong>  (Tufts University, USA)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>The topology and geometry of random square-tiled surfaces&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> A square-tiled surface (STS) is a branched cover of the
+standard square torus with branching over exactly one point. They are
+concrete examples of translation surfaces which are an important class
+of singular flat metrics on 2-manifolds with applications in Teichmüller
+theory and polygonal billiards. In this talk we will consider a
+randomizing model for STSs based on permutation pairs and use it to
+compute the genus distribution. We also study holonomy vectors
+(Euclidean displacement vectors between cone points) on a random STS.
+Holonomy vectors of translation surfaces provide coordinates on the
+space of translation surfaces and their enumeration up to a fixed length
+has been studied by various authors such as Eskin and Masur. In this
+talk, we obtain finer information about the set of holonomy vectors,
+Hol(S), of a random STS. In particular, we will see how often Hol(S)
+contains the set of primitive integer vectors and find how often these
+sets are exactly equal.&lt;/p></description></item><item><title>Marta Maggioni (Universiteit Leiden, Netherlands)</title><link>https://www.dinamici.org/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/</link><pubDate>Wed, 20 May 2020 19:31:13 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Marta Maggioni&lt;/strong> (Universiteit Leiden, Netherlands)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Matching for random systems with an application to minimal weight expansions&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> We consider families of skew-product maps, representing
+systems evolving in discrete time in which, at each time step, one of a
+number of transformations is chosen according to an i.i.d process and
+applied. We extend the notion of matching for such dynamical systems and
+we show that, for a certain family of piecewise affine random maps of
+the interval, the property of random matching implies that any invariant
+density is piecewise constant. We give an application by introducing a
+one-parameter family of random maps generating signed binary expansions
+of numbers. This family has random matching for Lebesgue almost every
+parameter, producing matching intervals that are related to the ones
+obtained for the Nakada continued fraction transformations. We use this
+property to study the expansions with minimal weight. Joint with K.
+Dajani and C. Kalle.&lt;/p></description></item><item><title>Sandro Vaienti (Centre de Physique Théorique, Marseille, France)</title><link>https://www.dinamici.org/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/</link><pubDate>Mon, 04 May 2020 12:24:50 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> **Sandro Vaienti ** (Centre de Physique Théorique, Marseille,
+France)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Thermodynamic formalism for random weighted covering
+systems&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> We develop a quenched thermodynamic formalism for random
+dynamical systems generated by countably branched, piecewise-monotone
+mappings of the interval that satisfy a random covering condition.&lt;/p>
+&lt;p>Joint with J. Atnip, G. Froyland and C. Gonzalez-Tokman&lt;/p></description></item><item><title>Francesco Cellarosi (Queen's University, Canada)</title><link>https://www.dinamici.org/dai-seminars/28-5-francesco-cellarosi/</link><pubDate>Mon, 04 May 2020 12:22:09 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/28-5-francesco-cellarosi/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Francesco Cellarosi&lt;/strong>  (Queen&amp;rsquo;s University, Canada)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Rational Horocycle lifts and the tails of Quadratic Weyl
+sums&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> Equidistribution of horocycles on hyperbolic surfaces has
+been used to dynamically answer several probabilistic questions about
+number-theoretical objects. In this talk we focus on horocycle lifts,
+i.e. curves on higher-dimensional manifolds whose projection to the
+hyperbolic surface is a classical horocycle, and their behaviour under
+the action of the geodesic flow. It is known that when such horocycle
+lifts are `generic’, then their push forward via the geodesic flow
+becomes equidistributed in the ambient manifold. We consider certain
+‘non-generic’ (i.e. rational) horocycle lifts, in which case the
+equidistribution takes place on a sub-manifold. We then use this fact to
+study the tail distribution of quadratic Weyl sums when one of their
+arguments is random and the other is rational. In this case we obtain
+random variables with heavy tails, all of which only possess moments of
+order less than 4. Depending on the rational argument, we establish the
+exact tail decay, which can be described with the help of the Dedekind
+\psi-function.&lt;/p>
+&lt;p>Joint work with Tariq Osman.&lt;/p>
+&lt;p> &lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions,  with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Martin Leguil (Université Paris-Sud 11, France)</title><link>https://www.dinamici.org/dai-seminars/martin-leguil-universite-paris-sud-11-france/</link><pubDate>Mon, 04 May 2020 12:20:21 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/martin-leguil-universite-paris-sud-11-france/</guid><description>&lt;p>&lt;em>Speaker:&lt;/em> &lt;strong>Martin Leguil&lt;/strong> (Université Paris-Sud 11, France)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Some rigidity results for billiards and hyperbolic flows&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> In a project with P. Bálint, J. De Simoi and V. Kaloshin, we
+have been studying the inverse problem for a class of open dispersing
+billiards obtained by removing from the plane a finite number of smooth
+strictly convex scatterers satisfying a non-eclipse condition. The
+dynamics of such billiards is hyperbolic (Axiom A), and there is a
+natural labeling of periodic orbits. We show that it is generically
+possible, in the analytic category and for billiard tables with two
+(partial) axial symmetries, to determine completely the geometry of
+those billiards from the purely dynamical data encoded in their Marked
+Length Spectrum (lengths of periodic orbits + marking). An important
+step is the obtention of asymptotic estimates for the Lyapunov exponents
+of certain periodic points accumulating a reference periodic point,
+which turn out to be useful in the study of other rigidity problems. In
+particular, I will explain the results obtained in a joint work with J.
+De Simoi, K. Vinhage and Y. Yang on the question of entropy rigidity for
+3-dimensional Anosov flows and dispersing billiards.&lt;/p>
+&lt;p> &lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions,  with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item><item><title>Giulio Tiozzo (University of Toronto, Canada)</title><link>https://www.dinamici.org/dai-seminars/giulio-tiozzo-university-of-toronto-canada/</link><pubDate>Mon, 04 May 2020 12:18:03 +0000</pubDate><guid>https://www.dinamici.org/dai-seminars/giulio-tiozzo-university-of-toronto-canada/</guid><description>&lt;p>&lt;em>Speaker&lt;/em>: &lt;strong>Giulio Tiozzo&lt;/strong>  (University of Toronto, Canada)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> &lt;em>&lt;strong>Central limit theorems for counting measures in coarse
+negative curvature&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>Abstract:&lt;/em> We establish general central limit theorems for an action of
+a group on a hyperbolic space with respect to counting for the word
+length in the group.&lt;/p>
+&lt;p>In 2013, Chas, Li, and Maskit produced numerical experiments on random
+closed geodesics on a hyperbolic pair of pants. Namely, they drew
+uniformly at random conjugacy classes of a given word length, and
+considered the hyperbolic length of the corresponding closed geodesic on
+the pair of pants. Their experiments lead to the conjecture that the
+length of these closed geodesics satisfies a central limit theorem, and
+we proved this conjecture in 2018.&lt;/p>
+&lt;p>In our new work, we remove the assumptions of properness and smoothness
+of the space, or cocompactness of the action, thus proving a general
+central limit theorem for group actions on hyperbolic spaces.&lt;/p>
+&lt;p>We will see how our techniques replace the classical thermodynamic
+formalism and allow us to provide new applications, including to lengths
+of geodesics in geometrically finite manifolds and to intersection
+numbers with submanifolds.&lt;/p>
+&lt;p>Joint work with I. Gekhtman and S. Taylor.&lt;/p>
+&lt;p> &lt;/p>
+&lt;p>&lt;strong>NOTE:&lt;/strong> &lt;em>The seminar will be streamed live on our &lt;a href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+channel&lt;/a> then
+saved there. If you ask questions,  with your video feed on or off, you
+agree to the use of your image/spoken words for said purpose.&lt;/em>&lt;/p></description></item></channel></rss>
