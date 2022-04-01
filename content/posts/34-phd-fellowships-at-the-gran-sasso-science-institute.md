@@ -20,4 +20,4 @@ Online Application
  For more
 information, please
 consult [www.gssi.it/phd/](https://www.gssi.it/postdoc/)  or write an
-email to [info@gssi.it](info@gssi.it)  
+email to [info@gssi.it](mailto:info@gssi.it)  

@@ -53,7 +53,7 @@ a final report.
 **Contacts:**
 
 Secretariat: Mabilo Koutou Telephone: +39-040-2240455 E-mail:
-[math@ictp.it](math@ictp.it)ICTP Mathematics Section on Facebook
+[math@ictp.it](mailto:math@ictp.it)ICTP Mathematics Section on Facebook
 
 **Deadline: 15 September 2016**
 

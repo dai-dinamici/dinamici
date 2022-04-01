@@ -46,4 +46,4 @@ Applications are sent exclusively via the online application form at:
 
 **Deadline for application:** March 18, 2021 - 5 p.m. (Italian time).
 
-For additional information please contact  [applications@gssi.it](applications@gssi.it).
+For additional information please contact  [applications@gssi.it](mailto:applications@gssi.it).

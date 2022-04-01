@@ -22,8 +22,8 @@ not earlier than October 1, 2018.
 
 Post-doctoral fellowships are strictly research positions and do not
 carry any teaching responsibilities. Candidates should email Ms. Nurit
-Liberman at [nuritl@tauex.tau.ac.il](nuritl@tauex.tau.ac.il) with cc
-to [polterov@tauex.tau.ac.il](polterov@tauex.tau.ac.il) , [ostrover@tauex.tau.ac.il](ostrover@tauex.tau.ac.il) and [levbuh@tauex.tau.ac.il](levbuh@tauex.tau.ac.il) the
+Liberman at [nuritl@tauex.tau.ac.il](mailto:nuritl@tauex.tau.ac.il) with cc
+to [polterov@tauex.tau.ac.il](mailto:polterov@tauex.tau.ac.il) , [ostrover@tauex.tau.ac.il](mailto:ostrover@tauex.tau.ac.il) and [levbuh@tauex.tau.ac.il](mailto:levbuh@tauex.tau.ac.il) the
 following application materials:
 
 1\) CV  
@@ -32,4 +32,4 @@ following application materials:
 4) Three letters of recommendation
 
 For more information, please contact Prof. Lev
-Buhovski: [levbuh@gmail.com](levbuh@gmail.com).
+Buhovski: [levbuh@gmail.com](mailto:levbuh@gmail.com).

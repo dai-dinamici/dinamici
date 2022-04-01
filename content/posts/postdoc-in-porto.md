@@ -29,8 +29,8 @@ Freitas, Jorge Rocha, José Ferreira Alves or Maria Carvalho.
 Applications can be submitted from March 8, 2017 and
 the deadline is March 27, 2017.
 
-Applications should be sent by e-mail to [recrutamento@fc.up.pt](recrutamento@fc.up.pt) with
-copy to [jfalves@fc.up.pt](jfalves@fc.up.pt). They should contain the reference
+Applications should be sent by e-mail to [recrutamento@fc.up.pt](mailto:recrutamento@fc.up.pt) with
+copy to [jfalves@fc.up.pt](mailto:jfalves@fc.up.pt). They should contain the reference
 FCUP-PTDC/MAT-CAL/3884/2014-BPD in the subject field and include the
 following:
 
@@ -44,7 +44,7 @@ sent directly to the above e-mail addresses.
 
 For information about the project, please see the website:
 <https://cmup.fc.up.pt/main/content/probabilistic-methods-chaotic-dynamics>
-Questions can be addressed to José F. Alves &lt;[jfalves@fc.up.pt](jfalves@fc.up.pt)&gt;.
+Questions can be addressed to José F. Alves &lt;[jfalves@fc.up.pt](mailto:jfalves@fc.up.pt)&gt;.
 
 \*Disclaimer:\*
 

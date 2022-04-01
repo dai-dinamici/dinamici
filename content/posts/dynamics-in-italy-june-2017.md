@@ -42,7 +42,7 @@ Scientific Committee: C. Liverani, Ya. Sinai, L.-S. Young Organizing
 Committee: C. Bonanno, M. Lenci, A. Sorrentino
 
 Website: [https://dinamici5.dm.unibo.it/](https://dinamici5.dm.unibo.it/) More
-info: [claudio.bonanno@unipi.it](claudio.bonanno@unipi.it), [marco.lenci@unibo.it](marco.lenci@unibo.it), [sorrentino@mat.uniroma2.it](sorrentino@mat.uniroma2.it)
+info: [claudio.bonanno@unipi.it](mailto:claudio.bonanno@unipi.it), [marco.lenci@unibo.it](mailto:marco.lenci@unibo.it), [sorrentino@mat.uniroma2.it](mailto:sorrentino@mat.uniroma2.it)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 

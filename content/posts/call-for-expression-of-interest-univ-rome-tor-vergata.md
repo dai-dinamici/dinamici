@@ -65,7 +65,7 @@ seminars and workshops.
 **Procedure:**
 
 Applicants should express their interest by sending an email
-to [progetto@mat.uniroma2.it](progetto@mat.uniroma2.it), including a Curriculum Vitae and a list
+to [progetto@mat.uniroma2.it](mailto:progetto@mat.uniroma2.it), including a Curriculum Vitae and a list
 of publications. The subject of the email should be Associate-surname or
 RTDB-surname. Selected candidates could be invited for a seminar. There
 are no restrictions regarding the nationality of the applicants.
@@ -81,6 +81,6 @@ applicants to inform them about the opening of the formal positions and
 the required documentation.
 
 For additional information, please contact us
-at: [progetto@mat.uniroma2.it](progetto@mat.uniroma2.it)
+at: [progetto@mat.uniroma2.it](mailto:progetto@mat.uniroma2.it)
 
 

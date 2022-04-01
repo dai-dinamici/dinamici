@@ -39,7 +39,7 @@ Roma) Dimitri Treschev (Steklov Mathematical Institute of Russian
 Academy of Sciences) Dimitri Turaev (Imperial College, London)
 
 If you wish to participate, please register by sending an e-mail to
-[venice2018@math.unipd.it](venice2018@math.unipd.it) by May 15, 2018.
+[venice2018@math.unipd.it](mailto:venice2018@math.unipd.it) by May 15, 2018.
 
 We foresee a limited number of slots for contributed talks and will be
 able to cover local expenses for a limited number of young participants.

@@ -25,8 +25,8 @@ Please submit your online application
 vitae, a research statement with a description of ongoing and future
 research activities, and arrange at least two letters of recommendation
 to be sent directly to Prof. Corinna Ulcigrai:
-[corinna.ulcigrai@gmail.com](corinna.ulcigrai@gmail.com), no later than May 31, 2018. Late
+[corinna.ulcigrai@gmail.com](mailto:corinna.ulcigrai@gmail.com), no later than May 31, 2018. Late
 applications might be considered until the post is filled. For
 additional information see [www.math.uzh.ch](https://www.math.uzh.ch)
 and/or contact Prof. Dr. Corinna Ulcigrai directly,
-[corinna.ulcigrai@gmail.com](corinna.ulcigrai@gmail.com), or [sekretariat@math.uzh.ch](sekretariat@math.uzh.ch).
+[corinna.ulcigrai@gmail.com](mailto:corinna.ulcigrai@gmail.com), or [sekretariat@math.uzh.ch](mailto:sekretariat@math.uzh.ch).

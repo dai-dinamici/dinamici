@@ -20,10 +20,10 @@ interaction with the research groups of the PhD Program. The value of
 the scholarship is R$4100,00 (four thousand and one houndred brazillian
 real) per month.
 
-To apply, the applicant should send, to the email [ceapgmat@ufba.br](ceapgmat@ufba.br)
+To apply, the applicant should send, to the email [ceapgmat@ufba.br](mailto:ceapgmat@ufba.br)
 with a copy to both the direction and vice-director of graduate studies
-of the PhD Program in Mathematics UFBA/UFAL ([tertu@ufba.br](tertu@ufba.br) and
-[vitor.araujo.im.ufba@gmail.com](vitor.araujo.im.ufba@gmail.com)) until May 1st, 2017,  or until the
+of the PhD Program in Mathematics UFBA/UFAL ([tertu@ufba.br](mailto:tertu@ufba.br) and
+[vitor.araujo.im.ufba@gmail.com](mailto:vitor.araujo.im.ufba@gmail.com)) until May 1st, 2017,  or until the
 position is filled, the following documents:
 
 • Curriculum Vitae.

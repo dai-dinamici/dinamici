@@ -43,7 +43,7 @@ recommendation.
 Review of applications will begin on December 15 and will continue until
 the positions are filled. The first offers will be made no earlier than
 **January 15**. For further inquiries, please
-contact André de Carvalho at [andre@ime.usp.br](andre@ime.usp.br).
+contact André de Carvalho at [andre@ime.usp.br](mailto:andre@ime.usp.br).
 
 About the University of São Paulo
 

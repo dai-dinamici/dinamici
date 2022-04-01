@@ -16,4 +16,4 @@ systems and the Hamilton-Jacobi equation"*.
 
 **Deadline:** 24th June 2021
 
-For further information contact: [sorrentino@mat.uniroma2.it](sorrentino@mat.uniroma2.it).
+For further information contact: [sorrentino@mat.uniroma2.it](mailto:sorrentino@mat.uniroma2.it).

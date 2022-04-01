@@ -23,7 +23,7 @@ number of participants, in the limit of the  maximal occupancy of the
 conference centre.
 
 We invite interested people to apply by sending a email with cv to
-this address (*[hamiltoniansystemsascona2017@gmail.com](hamiltoniansystemsascona2017@gmail.com)*) **BEFORE**
+this address (*[hamiltoniansystemsascona2017@gmail.com](mailto:hamiltoniansystemsascona2017@gmail.com)*) **BEFORE**
  **26th July
 2017.**
 
@@ -34,8 +34,8 @@ CHF.
 
 If you need further information, please do not hesitate to contact us.
 
-Marcel Guardia   ([mguardia@gmail.com](mguardia@gmail.com)) Vadim Kaloshin  
-([vadim.kaloshin@gmail.com](vadim.kaloshin@gmail.com)) Alfonso Sorrentino
-([sorrentino@mat.uniroma2.it](sorrentino@mat.uniroma2.it))
+Marcel Guardia   ([mguardia@gmail.com](mailto:mguardia@gmail.com)) Vadim Kaloshin  
+([vadim.kaloshin@gmail.com](mailto:vadim.kaloshin@gmail.com)) Alfonso Sorrentino
+([sorrentino@mat.uniroma2.it](mailto:sorrentino@mat.uniroma2.it))
 
 

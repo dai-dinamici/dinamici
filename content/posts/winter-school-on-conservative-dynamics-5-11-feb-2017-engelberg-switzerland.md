@@ -46,5 +46,5 @@ For further information, please visit the web page:
 
 ORGANIZERS: M. Guardia, V. Kaloshin and A. Sorrentino.
 
-[marcel.guardia@upc.edu](marcel.guardia@upc.edu) [vadim.kaloshin@gmail.com](vadim.kaloshin@gmail.com)
-[sorrentino@mat.uniroma2.it](sorrentino@mat.uniroma2.it)
+[marcel.guardia@upc.edu](mailto:marcel.guardia@upc.edu) [vadim.kaloshin@gmail.com](mailto:vadim.kaloshin@gmail.com)
+[sorrentino@mat.uniroma2.it](mailto:sorrentino@mat.uniroma2.it)

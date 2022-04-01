@@ -39,7 +39,7 @@ The precise titles and abstracts will be soon announced. The lectures
 will be held at the Astrophysical Observatory in Asiago.
 
 If you are interested to participate, please register by sending an
-e-mail to [asiagoschool@math.unipd.it](asiagoschool@math.unipd.it), by includig also a short CV,
+e-mail to [asiagoschool@math.unipd.it](mailto:asiagoschool@math.unipd.it), by includig also a short CV,
 before 30 April.
 
 The participation to the school is open to Phd students, Post doc

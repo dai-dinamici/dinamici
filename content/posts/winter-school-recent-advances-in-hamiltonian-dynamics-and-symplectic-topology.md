@@ -17,7 +17,7 @@ The school will cover lodging expenses of a limited number of
 participants. Interested people are invited to send an e-mail to this
 address:
 
-[hamschool2018@gmail.com](hamschool2018@gmail.com)
+[hamschool2018@gmail.com](mailto:hamschool2018@gmail.com)
 
 Organizing committee:
 

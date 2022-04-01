@@ -34,7 +34,7 @@ E83C18000100006.
 A limited amount of funds for lodging for PhD students and young
 researchers will be available. To apply, submit a short CV and a letter
 of presentation of the advisor/mentor to Ms Simonetta De Nicola
-([denicola@axp.mat.uniroma2.it](denicola@axp.mat.uniroma2.it)) before June 20.
+([denicola@axp.mat.uniroma2.it](mailto:denicola@axp.mat.uniroma2.it)) before June 20.
 
 Coffee breaks and lunches will be offered by the Department.
 
