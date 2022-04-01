@@ -57,7 +57,7 @@ cover letter in which you describe your motivation, a curriculum vitae,
 a research statement, and the names and e-mail addresses of
 three references.
 
-**[u](u)Applications received by e-mail will not be processed.[/u](/u)**
+**Applications received by e-mail will not be processed.**
 
 **Vacancy questions**  
 If you have any questions regarding this vacancy, you may contact:

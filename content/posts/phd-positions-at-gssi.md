@@ -26,7 +26,7 @@ interdisciplinary environment.
 You can find details on the application procedure in the web page at 
 [www.gssi.it](https://www.gssi.it)
 
-[u](u)What we offer to our students[/u](/u) We want our students get the best
+What we offer to our students We want our students get the best
 possible experience during their time at the Gran Sasso Science
 Institute. We provide them **free housing plus the standard three years
 PhD grant**. Recreational and cultural services will be offered.

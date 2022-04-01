@@ -22,7 +22,7 @@ Analysis;
 Scuola-Unicredit S.p.a.).
 
 Application deadline: the application must be registered online by 23.59
-(Italian time) of **January 10[sup](sup)th[/sup](/sup) 2017**.
+(Italian time) of **January 10th 2017**.
 
 More info and online application form at:
 <https://en.sns.it/bando/research-contracts-named-%E2%80%9Cjunior-visiting-positions%E2%80%9D-field-mathematics>

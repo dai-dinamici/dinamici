@@ -40,7 +40,7 @@ Local organizer: Stefano Luzzatto (ICTP)
 
 **Week 1**
 
-*[u](u)A circle of concepts and methods in dynamics.[/u](/u)*
+*A circle of concepts and methods in dynamics.*
 
 Basic concepts in dynamics will be introduced, with many examples,
 especially in the setting of circle maps. Topics include rotations of
@@ -53,7 +53,7 @@ structural stability and renormalization.
 
 **Week 2**
 
-[u](u)*Ergodicity in smooth dynamics*[/u](/u) (10h, Jana Rodriguez-Hertz and
+*Ergodicity in smooth dynamics* (10h, Jana Rodriguez-Hertz and
 Amie Wilkinson)
 
 The concept of ergodicity is a central hypothesis in statistical
@@ -79,9 +79,9 @@ of the course, we will focus on the ergodic theory of Anosov
 diffeomorphisms, an important family of "toy models" of chaotic
 dynamical systems.
 
-[u](u) [/u](/u)
+ 
 
-*[u](u)Renormalization in entropy zero systems[/u](/u)* (5h, Corinna Ulcigrai)
+*Renormalization in entropy zero systems* (5h, Corinna Ulcigrai)
 
 Rotations of the circle are perhaps the most basic examples of low
 complexity (or "entropy zero") dynamical systems. A key idea to study
@@ -105,12 +105,12 @@ and deviations of ergodic averages for IETs.
 **Tutorial and exercise sessions** will be held regularly and constitute
 an essential part of the school.
 
-[u](u)Tutors:[/u](/u) Oliver BUTTERLEY (ICTP), Irene PASQUINELLI (Durham
+Tutors: Oliver BUTTERLEY (ICTP), Irene PASQUINELLI (Durham
 University, UK), Davide RAVOTTI, (University of Bristol, UK), Lucia
 SIMONELLI (ICTP), Kadim WAR (Ruhr-Universität, Bochum, Germany).
 
-[u](u)**Women in Mathematics:**[/u](/u) Activities directed to [u](u)encourage and
-support women in mathematics[/u](/u), such as panel discussions and small
+**Women in Mathematics:** Activities directed to encourage and
+support women in mathematics, such as panel discussions and small
 groups mentoring and networking, will be organized during the event.
 
 **Deadlines for applications:**

@@ -22,14 +22,14 @@ We will be able to cover lodging/boarding expenses (from sunday evening to frida
 number of participants, in the limit of the  maximal occupancy of the
 conference centre.
 
-[u](u)We invite interested people to apply by sending a email with cv to
+We invite interested people to apply by sending a email with cv to
 this address (*[hamiltoniansystemsascona2017@gmail.com](hamiltoniansystemsascona2017@gmail.com)*) **BEFORE**
  **26th July
-2017.**[/u](/u)
+2017.**
 
 Participants to the workshop  must register (following the link on the
-conference website) **[u](u)BEFORE 8th
-september[/u](/u)**.  There is a due registration fee of 150
+conference website) **BEFORE 8th
+september**.  There is a due registration fee of 150
 CHF.
 
 If you need further information, please do not hesitate to contact us.

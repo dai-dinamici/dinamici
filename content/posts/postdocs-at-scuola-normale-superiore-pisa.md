@@ -29,7 +29,7 @@ The research activities will be carried out at the “Ennio De Giorgi”
 Mathematical Research Center.
 
 Application deadline: the application must be registered online by 23.59
-(Italian time) of **January 12[sup](sup)th[/sup](/sup) 2021.**
+(Italian time) of **January 12th 2021.**
 
 **Info and application form:**
 <https://amministrazionetrasparente.sns.it/bando/assegni-di-ricerca-denominati-%E2%80%9Cjunior-visiting-position%E2%80%9D-research-positions-named-%E2%80%9Cjunior-visiting-positions%E2%80%9D-0>

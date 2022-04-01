@@ -21,10 +21,10 @@ JISD2016
 
 ###### - *Carlangelo Liverani (Università di Roma "Tor Vergata")* - *Bassam Fayad (Institut de Mathématiques de Jussieu)* - *Felix Otto (Max-Planck-Institute for Mathematics in the Sciences, Leipzig)* - *Juncheng Wei (University of British Columbia, Vancouver)*
 
-[u](u)Organizers[/u](/u): - Xavier Cabré - Amadeu Delshams - Maria del Mar
+Organizers: - Xavier Cabré - Amadeu Delshams - Maria del Mar
 González - Marcel Guàrdia - Tere M. Seara
 
-[u](u)Scientific Committee:[/u](/u) - Susanna Terracini - Jean Pierre Eckman -
+Scientific Committee: - Susanna Terracini - Jean Pierre Eckman -
 Scott Armstrong - Jean-Michel Roquejoffre
 
 Early registration fee: 200 euros. Late registration fee: 250 euros.
