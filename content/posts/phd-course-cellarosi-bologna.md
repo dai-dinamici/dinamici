@@ -45,4 +45,4 @@ its properties with those of the Brownian motion.
 To attend the course **please register 
 [here](https://docs.google.com/forms/d/12d_BxA1ghligbpo835z3vh_dJ8UM80hExdMgsY8cRY8/)**.
 You will receive an email with all the information and material about the course, and your email will
-be insterted in the course team on MS Teams.
+be inserted in the course team on MS Teams.
