@@ -14,7 +14,7 @@ Mathematics of Università di Bologna and on-line via MS Teams.
 (All times are **4-6pm** Italian time. Room name within the Math Building in parenthesis)
 
 - April 11  (Seminario VIII Piano)
-- April 13  (Vitali)
+- April 13  (Aula VII Piano)
 - April 20  (Bombelli)
 - April 21  (Seminario VIII Piano)
 - April 26  (Seminario VIII Piano)
