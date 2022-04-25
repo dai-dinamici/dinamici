@@ -1,5 +1,5 @@
 +++
-title = “Workshop DinAmicI VII - website”
+title = "Workshop DinAmicI VII - website"
 date = "2022-04-25 22:00:00"
 categories = ["news", "events"]
 +++
