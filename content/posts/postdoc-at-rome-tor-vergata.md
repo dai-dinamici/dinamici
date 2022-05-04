@@ -21,7 +21,6 @@ As part of the Marie Curie Initial Training Network, STARDUST-R, the Department 
 
 **Deadline for application:** 19 May 2022.
 
-**Info and application form:** https://pica.cineca.it/uniroma2/f4-2022-0005/
+**Info and application form:** [pica.cineca.it/uniroma2/f4-2022-0005](https://pica.cineca.it/uniroma2/f4-2022-0005/)
 
 For more information contact [celmec@mat.uniroma2.it](mailto:celmec@mat.uniroma2.it).
-
