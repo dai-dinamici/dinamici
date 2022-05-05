@@ -1,5 +1,5 @@
 +++
-title = "EMS Women in Mathematics Day - 20 May 2022"
+title = "EMS Women in Mathematics Day 2022"
 date = "2022-05-05T08:01:44+02:00"
 categories = ["news", "events"] # comma separated list including "open-positions", "news", "events"
 +++
