@@ -1,597 +1,718 @@
 [
   {
     "path": "images/default-profile.svg",
-    "name": "Abate Marco",
-    "umi": true
+    "name": "Marco",
+    "umi": true,
+    "surname": "Abate"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Abenda Simonetta",
-    "umi": true
+    "name": "Simonetta",
+    "umi": true,
+    "surname": "Abenda"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Agrachev Andrei",
-    "description": "SISSA, Trieste"
+    "name": "Andrei",
+    "description": "SISSA, Trieste",
+    "surname": "Agrachev"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Aimino Romain",
-    "description": "Post-doc at the University of Porto"
+    "name": "Romain",
+    "description": "Post-doc at the University of Porto",
+    "surname": "Aimino"
   },
   {
     "path": "wp-content/red-cocktail-party-dresses-beads-sheath-sweetheart.jpg",
-    "name": "Akbari Jaber",
-    "description": "M.sc in Pure Mathematics (Geometry) and interested in different aspects of Geometry and Dynamical Systems."
+    "name": "Jaber",
+    "description": "M.sc in Pure Mathematics (Geometry) and interested in different aspects of Geometry and Dynamical Systems.",
+    "surname": "Akbari"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Angella Daniele",
-    "description": "Università di Firenze"
+    "name": "Daniele",
+    "description": "Università di Firenze",
+    "surname": "Angella"
   },
   {
     "path": "wp-content/DSC_0433.jpg",
-    "name": "Arosio Leandro",
+    "name": "Leandro",
     "description": "Università di Roma \"Tor Vergata\"",
-    "umi": true
+    "umi": true,
+    "surname": "Arosio"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Artigiani Mauro",
-    "description": "https://m-artigiani.github.io/"
+    "name": "Mauro",
+    "description": "https://m-artigiani.github.io/",
+    "surname": "Artigiani"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Artuso Roberto",
+    "name": "Roberto",
     "description": "Università dell'Insubria",
-    "umi": true
+    "umi": true,
+    "surname": "Artuso"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Bakrani Sajjad"
+    "name": "Sajjad",
+    "surname": "Bakrani"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Barutello Vivina"
+    "name": "Vivina",
+    "surname": "Barutello"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Baù Giulio",
-    "umi": true
+    "name": "Giulio",
+    "umi": true,
+    "surname": "Baù"
   },
   {
     "path": "wp-content/WP_20150624_19_05_07_Pro-e1488478879205.jpg",
-    "name": "Benedetti Gabriele",
+    "name": "Gabriele",
     "description": "I am a research assistant at the University of Leipzig in the Differential Geometry group. I graduated at the University of Pisa in 2011 under the supervision of Prof. Abbondandolo and got my PhD at the University of Cambridge with Prof. G. Paternain in 2014. Before coming to Leipzig I was post-doc for two years at the University of Münster. I am interested in proving the existence of periodic solutions of Lagrangian and Hamiltonian systems on smooth manifolds. An interesting class of examples arises when trying to describe the motion of a charged particle on a closed surface under the influence of a stationary magnetic field.",
-    "umi": true
+    "umi": true,
+    "surname": "Benedetti"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Benini Anna Miriam",
+    "name": "Anna Miriam",
     "description": "Università Tor Vergata di Roma",
-    "umi": true
+    "umi": true,
+    "surname": "Benini"
   },
   {
     "path": "wp-content/IMG_8573-posta.jpeg",
-    "name": "Bernardi Olga",
+    "name": "Olga",
     "description": "Università di Padova",
-    "umi": true
+    "umi": true,
+    "surname": "Bernardi"
   },
   {
     "path": "wp-content/Ale-2.jpg",
-    "name": "Bianchi Alessandra",
-    "description": "Università di Padova"
+    "name": "Alessandra",
+    "description": "Università di Padova",
+    "surname": "Bianchi"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Bianchi Fabrizio",
+    "name": "Fabrizio",
     "description": "CNRS - Université de Lille",
-    "umi": true
+    "umi": true,
+    "surname": "Bianchi"
   },
   {
     "path": "wp-content/13239193_10153997418490081_1877687976007354735_n.jpg",
-    "name": "Bonanno Claudio",
+    "name": "Claudio",
     "description": "Università di Pisa",
-    "umi": true
+    "umi": true,
+    "surname": "Bonanno"
   },
   {
     "path": "wp-content/photoid.jpg",
-    "name": "Boritchev Alexandre",
-    "description": "Sono ricercatore (maître de conférence) a l'Università di Lione (Francia) in Dinamica&amp;PDE stocastici. Adesso faccio anché un po di sisteme di particelle."
+    "name": "Alexandre",
+    "description": "Sono ricercatore (maître de conférence) a l'Università di Lione (Francia) in Dinamica&amp;PDE stocastici. Adesso faccio anché un po di sisteme di particelle.",
+    "surname": "Boritchev"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Bracci Filippo",
-    "umi": true
+    "name": "Filippo",
+    "umi": true,
+    "surname": "Bracci"
   },
   {
     "path": "wp-content/bufetov.jpg",
-    "name": "Bufetov Alexander",
-    "description": "Aix-Marseille Université"
+    "name": "Alexander",
+    "description": "Aix-Marseille Université",
+    "surname": "Bufetov"
   },
   {
     "path": "wp-content/oliver-e1463738486695.jpg",
-    "name": "Butterley Oliver",
-    "description": "Mathematics section of The Abdus Salam International Centre for Theoretical Physics (ICTP)."
+    "name": "Oliver",
+    "description": "Mathematics section of The Abdus Salam International Centre for Theoretical Physics (ICTP).",
+    "surname": "Butterley"
   },
   {
     "path": "wp-content/ec.jpg",
-    "name": "Caglioti Emanuele",
+    "name": "Emanuele",
     "description": "Sapienza Università di Roma",
-    "umi": true
+    "umi": true,
+    "surname": "Caglioti"
   },
   {
     "path": "wp-content/gc.jpeg",
-    "name": "Canestrari Giovanni",
-    "description": "Student at Università di Bologna"
+    "name": "Giovanni",
+    "description": "Student at Università di Bologna",
+    "surname": "Canestrari"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Cardin Franco",
-    "umi": true
+    "name": "Franco",
+    "umi": true,
+    "surname": "Cardin"
   },
   {
     "path": "wp-content/14358738_10209321284143599_6011498606807990719_n.jpg",
-    "name": "Carigi Giulia",
-    "description": "PhD Candidate at Mathematics of Planet Earth Doctoral Center, University of Reading, Imperial College London.Project focusing on ergodic properties and response theory for models in geophysical fluid dynamics of intermediate complexity (NS 2D, QG, MAOOAM)"
+    "name": "Giulia",
+    "description": "PhD Candidate at Mathematics of Planet Earth Doctoral Center, University of Reading, Imperial College London.Project focusing on ergodic properties and response theory for models in geophysical fluid dynamics of intermediate complexity (NS 2D, QG, MAOOAM)",
+    "surname": "Carigi"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Carminati Carlo",
+    "name": "Carlo",
     "description": "Dipartimento di Matematica -- Università di Pisa  https://arxiv.org/find/math/1/au:+Carminati_C/0/1/0/all/0/1",
-    "umi": true
+    "umi": true,
+    "surname": "Carminati"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Carrasco Pablo D."
+    "name": "Pablo D.",
+    "surname": "Carrasco"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Cauli Alessandra",
+    "name": "Alessandra",
     "description": "Politecnico di Torino",
-    "umi": true
+    "umi": true,
+    "surname": "Cauli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Ceccherini-Silberstein Tullio"
+    "name": "Tullio",
+    "surname": "Ceccherini-Silberstein"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Cellarosi Francesco",
-    "description": "https://sites.google.com/view/fcellaro/cv"
+    "name": "Francesco",
+    "description": "https://sites.google.com/view/fcellaro/cv",
+    "surname": "Cellarosi"
   },
   {
     "path": "wp-content/Lagrangian_points_equipotential.gif",
-    "name": "Celletti Alessandra",
-    "description": "See https://www.mat.uniroma2.it/celletti/curriculum.html \n\n https://www.mat.uniroma2.it/celletti/articoli.html"
+    "name": "Alessandra",
+    "description": "See https://www.mat.uniroma2.it/celletti/curriculum.html \n\n https://www.mat.uniroma2.it/celletti/articoli.html",
+    "surname": "Celletti"
   },
   {
     "path": "wp-content/me_lakelouise-2.jpg",
-    "name": "Cherubini Anna Maria",
+    "name": "Anna Maria",
     "description": "Department of Mathematics and Physics, University of Salento, Italy.",
-    "umi": true
+    "umi": true,
+    "surname": "Cherubini"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Chouari Imen"
+    "name": "Imen",
+    "surname": "Chouari"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Cristadoro Giampaolo",
+    "name": "Giampaolo",
     "description": "Università di Bologna",
-    "umi": true
+    "umi": true,
+    "surname": "Cristadoro"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "D'Onofrio Alberto",
-    "umi": true
+    "name": "Alberto",
+    "umi": true,
+    "surname": "D'Onofrio"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "De Blasi Irene"
+    "name": "Irene",
+    "surname": "De Blasi"
   },
   {
     "path": "wp-content/mirko.jpg",
-    "name": "Degli Esposti Mirko",
+    "name": "Mirko",
     "description": "Università di Bologna",
-    "umi": true
+    "umi": true,
+    "surname": "Degli Esposti"
   },
   {
     "path": "wp-content/delmagno.jpg",
-    "name": "Del Magno Gianluigi",
-    "description": "Universidade Federal da Bahia"
+    "name": "Gianluigi",
+    "description": "Universidade Federal da Bahia",
+    "surname": "Del Magno"
   },
   {
     "path": "wp-content/Alessio.jpg",
-    "name": "Del Vigna Alessio",
+    "name": "Alessio",
     "description": "Dipartimento di Matematica, Università di Pisa - Space Dynamics Services",
-    "umi": true
+    "umi": true,
+    "surname": "Del Vigna"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Della Corte Alessandro",
-    "description": "Università degli Studi di Camerino"
+    "name": "Alessandro",
+    "description": "Università degli Studi di Camerino",
+    "surname": "Della Corte"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Demers Mark"
+    "name": "Mark",
+    "surname": "Demers"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Di Ruzza Sara",
+    "name": "Sara",
     "description": "Università di Padova",
-    "umi": true
+    "umi": true,
+    "surname": "Di Ruzza"
   },
   {
     "path": "wp-content/Foto.jpg",
-    "name": "Dipierro Serena",
-    "description": "University of Western Australia"
+    "name": "Serena",
+    "description": "University of Western Australia",
+    "surname": "Dipierro"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Engel Maximilian"
+    "name": "Maximilian",
+    "surname": "Engel"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Eslami Peyman",
-    "description": "I am currenltly a postdoc at the University of Warwick. Before that I was a postdoc in Roma \"Tor Vergata\"."
+    "name": "Peyman",
+    "description": "I am currenltly a postdoc at the University of Warwick. Before that I was a postdoc in Roma \"Tor Vergata\".",
+    "surname": "Eslami"
   },
   {
     "path": "wp-content/2015-08-17-21.48.01-1.jpg",
-    "name": "Fabbri Roberta",
-    "description": "Università di Firenze"
+    "name": "Roberta",
+    "description": "Università di Firenze",
+    "surname": "Fabbri"
   },
   {
     "path": "wp-content/07d1615.jpg",
-    "name": "Fall Djiby",
-    "description": "I am currently a senior lecturer of mathematics at NYU Abu Dhabi. My research interests are in the longtime dynamics of PDEs mainly wave equations in unbouded domains. I am also interested in stochastic models in finance and insurance."
+    "name": "Djiby",
+    "description": "I am currently a senior lecturer of mathematics at NYU Abu Dhabi. My research interests are in the longtime dynamics of PDEs mainly wave equations in unbouded domains. I am also interested in stochastic models in finance and insurance.",
+    "surname": "Fall"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Fassò Francesco"
+    "name": "Francesco",
+    "surname": "Fassò"
   },
   {
     "path": "wp-content/aaa.jpg",
-    "name": "Florio Anna",
+    "name": "Anna",
     "description": "PhD student at the University of Avignon (France).",
-    "umi": true
+    "umi": true,
+    "surname": "Florio"
   },
   {
     "path": "wp-content/ffrascoli.jpg",
-    "name": "Frascoli Federico",
-    "description": "Senior Lecturer at Swinburne University of Technology, in Melbourne. I am interested in applied bifurcation theory, mathematical biology and nonequilibrium statistical mechanics."
+    "name": "Federico",
+    "description": "Senior Lecturer at Swinburne University of Technology, in Melbourne. I am interested in applied bifurcation theory, mathematical biology and nonequilibrium statistical mechanics.",
+    "surname": "Frascoli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Galatolo Stefano",
+    "name": "Stefano",
     "description": "Professore Associato. Università di Pisa.",
-    "umi": true
+    "umi": true,
+    "surname": "Galatolo"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Galli Daniele",
+    "name": "Daniele",
     "description": "PhD student-Università di Bologna",
-    "umi": true
+    "umi": true,
+    "surname": "Galli"
   },
   {
     "path": "wp-content/IMG-20170107-WA0002.jpg",
-    "name": "Gianfelice Michele",
+    "name": "Michele",
     "description": "Università della Calabria,PhD Université de Provence (nowadays AMU) &amp; Università di Bologna. Research interests: Stochastic Processes and Random Fields with application to classical and quantum, equilibrium and non-equilibrium Statistical Mechanics, Interacting Particle Systems, Multi-Agent Dynamics, Mathematical Modeling of Disordered Media and Climate Systems.",
-    "umi": true
+    "umi": true,
+    "surname": "Gianfelice"
   },
   {
     "path": "wp-content/thomas19072012.jpg",
-    "name": "Gilbert Thomas",
-    "description": "Thomas Gilbert holds a double position as a Chercheur Qualifié with F.R.S.- FNRS, Belgium (the equivalent of Consiglio Nazionale delle Ricerche, Italy) and as a Scientific Collaborator at the Université Libre de Bruxelles (ULB), where he is a permanent member of the Center for Nonlinear Phenomena and Complex Systems and teaches at the Physics Department in the fields of the physics of complex systems and stochastic processes."
+    "name": "Thomas",
+    "description": "Thomas Gilbert holds a double position as a Chercheur Qualifié with F.R.S.- FNRS, Belgium (the equivalent of Consiglio Nazionale delle Ricerche, Italy) and as a Scientific Collaborator at the Université Libre de Bruxelles (ULB), where he is a permanent member of the Center for Nonlinear Phenomena and Complex Systems and teaches at the Physics Department in the fields of the physics of complex systems and stochastic processes.",
+    "surname": "Gilbert"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Guerra-Velasco Eddaly"
+    "name": "Eddaly",
+    "surname": "Guerra-Velasco"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Haus Emanuele",
-    "umi": true
+    "name": "Emanuele",
+    "umi": true,
+    "surname": "Haus"
   },
   {
     "path": "wp-content/IMG_4409.jpg",
-    "name": "Ishaq Shamsa",
-    "description": "I am a doctoral student in Ergodic Theory from ASSMS, GC University Lahore."
+    "name": "Shamsa",
+    "description": "I am a doctoral student in Ergodic Theory from ASSMS, GC University Lahore.",
+    "surname": "Ishaq"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Isola Stefano",
-    "description": "University of Camerino (Italy)"
+    "name": "Stefano",
+    "description": "University of Camerino (Italy)",
+    "surname": "Isola"
   },
   {
     "path": "wp-content/20314666_1433616590093093_550944191_o.jpg",
-    "name": "Khalifa Tahar",
-    "description": "I am Assistant professor in applied mathematics at University of Sousse. My field of research is control theory and dynamical systems."
+    "name": "Tahar",
+    "description": "I am Assistant professor in applied mathematics at University of Sousse. My field of research is control theory and dynamical systems.",
+    "surname": "Khalifa"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Kiamari Niloofar"
+    "name": "Niloofar",
+    "surname": "Kiamari"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Knight Georgie",
-    "description": "University of Bristol"
+    "name": "Georgie",
+    "description": "University of Bristol",
+    "surname": "Knight"
   },
   {
     "path": "wp-content/IMG-20180227-WA0007.jpg",
-    "name": "Koudjinan Comlan Edmond",
-    "description": "Post doc at Roma Tre University"
+    "name": "Comlan Edmond",
+    "description": "Post doc at Roma Tre University",
+    "surname": "Koudjinan"
   },
   {
     "path": "wp-content/zdjęcie1-—-kopia.jpg",
-    "name": "Kubica Hieronim",
-    "description": "PhD student at the AGH University of Science and Technology. Research intrests are topological and geometrical aspects of dynamical systems."
+    "name": "Hieronim",
+    "description": "PhD student at the AGH University of Science and Technology. Research intrests are topological and geometrical aspects of dynamical systems.",
+    "surname": "Kubica"
   },
   {
     "path": "wp-content/crop3.jpg",
-    "name": "Lenci Marco",
+    "name": "Marco",
     "description": "Università di Bologna",
-    "umi": true
+    "umi": true,
+    "surname": "Lenci"
   },
   {
     "path": "wp-content/liverani.jpg",
-    "name": "Liverani Carlangelo",
+    "name": "Carlangelo",
     "description": "Università di Roma Tor Vergata\n\nhome page:  https://www.mat.uniroma2.it/~liverani/ \n\ngoogle scholar page:  https://scholar.google.com/citations?user=WhaV9vAAAAAJ \n\norcid page:  https://orcid.org/0000-0001-8683-4871",
-    "umi": true
+    "umi": true,
+    "surname": "Liverani"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Longo Iacopo",
-    "umi": true
+    "name": "Iacopo",
+    "umi": true,
+    "surname": "Longo"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Luzzatto Stefano",
+    "name": "Stefano",
     "description": "ICTP",
-    "umi": true
+    "umi": true,
+    "surname": "Luzzatto"
   },
   {
     "path": "wp-content/FullSizeRender2.jpg",
-    "name": "Maggioni Marta",
-    "description": "Universiteit Leiden, The Netherlands"
+    "name": "Marta",
+    "description": "Universiteit Leiden, The Netherlands",
+    "surname": "Maggioni"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Maiocchi Chiara Cecilia"
+    "name": "Chiara Cecilia",
+    "surname": "Maiocchi"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Mantica Giorgio",
-    "description": "Professor of Mathematical Physics at Università dell'Insubria, Como"
+    "name": "Giorgio",
+    "description": "Professor of Mathematical Physics at Università dell'Insubria, Como",
+    "surname": "Mantica"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Marangio Luigi"
+    "name": "Luigi",
+    "surname": "Marangio"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Marchese Luca",
-    "description": "Maître de conférences Université Paris 13"
+    "name": "Luca",
+    "description": "Maître de conférences Université Paris 13",
+    "surname": "Marchese"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Marmi Stefano",
-    "description": "Scuola Normale Superiore, Pisa"
+    "name": "Stefano",
+    "description": "Scuola Normale Superiore, Pisa",
+    "surname": "Marmi"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Marò Stefano",
+    "name": "Stefano",
     "description": "Researcher at University of Pisa",
-    "umi": true
+    "umi": true,
+    "surname": "Marò"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Masci Leonardo"
+    "name": "Leonardo",
+    "surname": "Masci"
   },
   {
     "path": "wp-content/Me2.jpg",
-    "name": "Maspero Alberto",
-    "description": "Postdoc ResearcherDepartment of Mathematics \"Jean Leray\" (LMJL)University of Nantes"
+    "name": "Alberto",
+    "description": "Postdoc ResearcherDepartment of Mathematics \"Jean Leray\" (LMJL)University of Nantes",
+    "surname": "Maspero"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Mazzuca Guido"
+    "name": "Guido",
+    "surname": "Mazzuca"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Menale Marco",
-    "description": "PhD student in \"Mathematics, Physics and Applications for Engineering\" at \"Università degli Studi della Campania, L. Vanvitelli\".I work in mathematical physics, in particular I study complex systems using the description of the kinetic theory."
+    "name": "Marco",
+    "description": "PhD student in \"Mathematics, Physics and Applications for Engineering\" at \"Università degli Studi della Campania, L. Vanvitelli\".I work in mathematical physics, in particular I study complex systems using the description of the kinetic theory.",
+    "surname": "Menale"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Mendico Cristian"
+    "name": "Cristian",
+    "surname": "Mendico"
   },
   {
     "path": "wp-content/fbprofile.jpg",
-    "name": "Minervino Milton",
-    "description": "Currently postdoc at Aix-Marseille Université.PhD in Austria and originary from Torino."
+    "name": "Milton",
+    "description": "Currently postdoc at Aix-Marseille Université.PhD in Austria and originary from Torino.",
+    "surname": "Minervino"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Monge Maurizio"
+    "name": "Maurizio",
+    "surname": "Monge"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Munday Sara",
-    "description": "Postdoctoral researcher at the University of Pisa. Previously at Bologna,  York, Bristol and  Bremen. I obtained my PhD from the University of St Andrews, Scotland in 2011."
+    "name": "Sara",
+    "description": "Postdoctoral researcher at the University of Pisa. Previously at Bologna,  York, Bristol and  Bremen. I obtained my PhD from the University of St Andrews, Scotland in 2011.",
+    "surname": "Munday"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Nardelli Mimma",
-    "description": "Postdoctoral researcher at University of Pisa"
+    "name": "Mimma",
+    "description": "Postdoctoral researcher at University of Pisa",
+    "surname": "Nardelli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Nisoli Isaia"
+    "name": "Isaia",
+    "surname": "Nisoli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Paleari Simone",
+    "name": "Simone",
     "description": "University of Milano",
-    "umi": true
+    "umi": true,
+    "surname": "Paleari"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Palmisano Liviana"
+    "name": "Liviana",
+    "surname": "Palmisano"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Paoli Roberto"
+    "name": "Roberto",
+    "surname": "Paoli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Pinzari Gabriella"
+    "name": "Gabriella",
+    "surname": "Pinzari"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Pourmand Habibeh"
+    "name": "Habibeh",
+    "surname": "Pourmand"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Pozzoli Gaia",
-    "description": "Ph.D. Student at Università degli Studi dell'Insubria"
+    "name": "Gaia",
+    "description": "Ph.D. Student at Università degli Studi dell'Insubria",
+    "surname": "Pozzoli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Pucacco Giuseppe",
-    "description": "Università di Roma Tor Vergata"
+    "name": "Giuseppe",
+    "description": "Università di Roma Tor Vergata",
+    "surname": "Pucacco"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Raissy Jasmin",
+    "name": "Jasmin",
     "description": "https://www.math.univ-toulouse.fr/~jraissy/",
-    "umi": true
+    "umi": true,
+    "surname": "Raissy"
   },
   {
     "path": "wp-content/pic6.jpg",
-    "name": "Ravotti Davide",
-    "description": "Ph.D. Student at the University of Bristol"
+    "name": "Davide",
+    "description": "Ph.D. Student at the University of Bristol",
+    "surname": "Ravotti"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Ruggiero Matteo"
+    "name": "Matteo",
+    "surname": "Ruggiero"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Salgado Luciana"
+    "name": "Luciana",
+    "surname": "Salgado"
   },
   {
     "path": "wp-content/Foto_1.png",
-    "name": "Sansonetto Nicola"
+    "name": "Nicola",
+    "surname": "Sansonetto"
   },
   {
     "path": "wp-content/fototessera_sansottera-1.jpg",
-    "name": "Sansottera Marco",
-    "description": "See my webpage https://www.mat.unimi.it/users/sansotte/"
+    "name": "Marco",
+    "description": "See my webpage https://www.mat.unimi.it/users/sansotte/",
+    "surname": "Sansottera"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Sauzin David"
+    "name": "David",
+    "surname": "Sauzin"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Schindler Tanja I.",
-    "umi": true
+    "name": "Tanja I.",
+    "umi": true,
+    "surname": "Schindler"
   },
   {
     "path": "wp-content/seri-photo.jpg",
-    "name": "Seri Marcello",
+    "name": "Marcello",
     "description": "Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, University of Groningen. \n\n Website: https://academic.mseri.me",
-    "umi": true
+    "umi": true,
+    "surname": "Seri"
   },
   {
     "path": "wp-content/silvestri_stefano.jpg",
-    "name": "Silvestri Stefano",
-    "description": "Instructor at Butler University. I have obtained my PhD from Indiana University Purdue University Indianapolis (IUPUI) with Dr. Rodrigo Perez.My research interests lie in holomorphic dynamics, iterated function systems, fractal geometry, symbolic dynamics, and ergodic theory."
+    "name": "Stefano",
+    "description": "Instructor at Butler University. I have obtained my PhD from Indiana University Purdue University Indianapolis (IUPUI) with Dr. Rodrigo Perez.My research interests lie in holomorphic dynamics, iterated function systems, fractal geometry, symbolic dynamics, and ergodic theory.",
+    "surname": "Silvestri"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Simonelli Lucia"
+    "name": "Lucia",
+    "surname": "Simonelli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Sommacal Matteo",
-    "description": "I am Senior Lecturer in Applied Mathematics at the Department of Mathematics, Physics and Electrical Engineering of Northumbria University, Newcastle, UK. After an MSc in Physics from the University of Rome \"La Sapienza\", Italy, I earned a Phd in Mathematical Physics in 2005 from SISSA-ISAS, Trieste, Italy, with the thesis \"The transition from regular to irregular motions, explained as travel on Riemann surfaces\", under the supervision of Francesco Calogero.I research in the theory of dynamical systems and integrable systems. In the theory of dynamical systems, I am one of the proponents of a mechanism to explain complex dynamics by means of an associated Riemann surface. I am currently preparing a research proposal aimed at investigating the appearance of slow chaos for a circular flow on a compact Riemann surface. In the theory of integrable systems, I have worked on the mathematical models of 1- and 2-dimensional ferromagnetic systems at the nanometre length-scale, featuring uni-axial and bi-axial anisotropy, and on the problem of linear stability of scalar and multi-component, nonlinear partial differential equations of integrable type."
+    "name": "Matteo",
+    "description": "I am Senior Lecturer in Applied Mathematics at the Department of Mathematics, Physics and Electrical Engineering of Northumbria University, Newcastle, UK. After an MSc in Physics from the University of Rome \"La Sapienza\", Italy, I earned a Phd in Mathematical Physics in 2005 from SISSA-ISAS, Trieste, Italy, with the thesis \"The transition from regular to irregular motions, explained as travel on Riemann surfaces\", under the supervision of Francesco Calogero.I research in the theory of dynamical systems and integrable systems. In the theory of dynamical systems, I am one of the proponents of a mechanism to explain complex dynamics by means of an associated Riemann surface. I am currently preparing a research proposal aimed at investigating the appearance of slow chaos for a circular flow on a compact Riemann surface. In the theory of integrable systems, I have worked on the mathematical models of 1- and 2-dimensional ferromagnetic systems at the nanometre length-scale, featuring uni-axial and bi-axial anisotropy, and on the problem of linear stability of scalar and multi-component, nonlinear partial differential equations of integrable type.",
+    "surname": "Sommacal"
   },
   {
     "path": "wp-content/caricaturamarco.jpg",
-    "name": "Sorrentino Alfonso",
+    "name": "Alfonso",
     "description": "Università degli studi di Roma \"Tor Vergata\"",
-    "umi": true
+    "umi": true,
+    "surname": "Sorrentino"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Stenlund Mikko"
+    "name": "Mikko",
+    "surname": "Stenlund"
   },
   {
     "path": "wp-content/fjss-2010.jpg",
-    "name": "Sánchez-Salas Fernando"
+    "name": "Fernando",
+    "surname": "Sánchez-Salas"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Tangue Bertuel"
+    "name": "Bertuel",
+    "surname": "Tangue"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Tanzi Matteo"
+    "name": "Matteo",
+    "surname": "Tanzi"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Tassi Emanuele"
+    "name": "Emanuele",
+    "surname": "Tassi"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Tedeschini Lalli Laura",
+    "name": "Laura",
     "description": "Università di Roma Tre",
-    "umi": true
+    "umi": true,
+    "surname": "Tedeschini Lalli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Triestino Michele",
-    "description": "I am mostly interested in studying group actions on manifolds, from the point of view of dynamical systems. I am currently Maitre de conferences at University of Burgundy, Dijon (France)."
+    "name": "Michele",
+    "description": "I am mostly interested in studying group actions on manifolds, from the point of view of dynamical systems. I am currently Maitre de conferences at University of Burgundy, Dijon (France).",
+    "surname": "Triestino"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Tronci Cesare"
+    "name": "Cesare",
+    "surname": "Tronci"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Ulcigrai Corinna",
-    "description": "Universität Zürich"
+    "name": "Corinna",
+    "description": "Universität Zürich",
+    "surname": "Ulcigrai"
   },
   {
     "path": "wp-content/Vaienti.jpg",
-    "name": "Vaienti Sandro",
+    "name": "Sandro",
     "description": "Centre de Physique Théorique, Luminy &amp; Université de Toulon",
-    "umi": true
+    "umi": true,
+    "surname": "Vaienti"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Valdinoci Enrico",
-    "description": "Università di Milano"
+    "name": "Enrico",
+    "description": "Università di Milano",
+    "surname": "Valdinoci"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Venturelli Andrea",
-    "description": "Avignon Université"
+    "name": "Andrea",
+    "description": "Avignon Université",
+    "surname": "Venturelli"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Volk Denis",
-    "description": "Università di Roma Tor Vergata"
+    "name": "Denis",
+    "description": "Università di Roma Tor Vergata",
+    "surname": "Volk"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Zadra Federico"
+    "name": "Federico",
+    "description": "Bernoulli Institute, University of Groningen",
+    "surname": "Zadra"
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Zoppello Marta",
-    "description": "Università di Padova"
+    "name": "Marta",
+    "description": "Università di Padova",
+    "surname": "Zoppello"
   }
 ]

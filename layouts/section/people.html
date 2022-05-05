@@ -65,7 +65,7 @@
       <div class="circle"></div>
       <img class="profile-img" src="{{ $.Site.BaseURL }}{{ .path }}">
       <div class="text-container">
-        <p class="title-text">{{ .name }}</p>
+        <p class="title-text">{{ .name }} {{.surname }}</p>
         {{ if .description }}<p class="desc-text">{{ .description | markdownify }}</p>{{ end }}
       </div>
     </div>
