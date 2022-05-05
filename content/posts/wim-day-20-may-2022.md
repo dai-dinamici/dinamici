@@ -16,7 +16,6 @@ with the following schedule:
 - 15:00 CEST      Tara Brendle (Glasgow University, UK)
 - 16:00 CEST      Tere M. Seara (UPC, Barcelona, Spain)
 
-
 The titles and abstracts of the talks are given below.
 
 Any interested person may attend via
@@ -56,4 +55,8 @@ Rakosnik, Elena Resmerita, Anne Taormina
   show that an arbitrarily small perturbation can create big increments in the
   energy (and in the actions) and we will explore the dynamic mechanism that is
   behind this phenomenon.
+
+## Poster
+
+![EMS/WiM Day 2022 - Poster]({{< resource url="images/22-05-WiM_day.png" >}})
 
