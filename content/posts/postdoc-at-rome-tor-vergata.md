@@ -12,7 +12,7 @@ As part of the Marie Curie Initial Training Network, STARDUST-R, the Department 
 
 **Eligibility conditions:** Candidates must 
 - have received their Master's Degree no earlier than 4 years ago,
-- not hold a awarded a doctoral degree,
+- not hold a doctoral degree,
 - not have resided in Italy for more than 12 months in the last 3 years.
 
 **Start of the position:** within June 2022.
