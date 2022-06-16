@@ -1,6 +1,6 @@
 +++
 title = "School on Dinamical Group Theory in Dijon"
-date = "2022-06-16T16:00:06+02:00"
+date = "2022-06-16T15:00:06+02:00"
 categories = ["events"]
 +++
 

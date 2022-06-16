@@ -1,6 +1,6 @@
 +++
 title = "CIRM school on Big Mapping Class Groups and Diffeomorphism Groups"
-date = "2022-06-16T16:00:07+02:00"
+date = "2022-06-16T15:00:07+02:00"
 categories = ["events"]
 +++
 
