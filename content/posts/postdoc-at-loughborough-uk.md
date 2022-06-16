@@ -9,5 +9,4 @@ at Loughborough University, UK. The position is available from
 
 Salary will be between **£31,406 - £40,322** per annum, depending on experience.
 The application deadline is **30 June 2022**. To apply, please follow this link:
-[https://www.jobs.ac.uk/job/CQP884/research-associate-in-smooth-ergodic-theory]
-(https://www.jobs.ac.uk/job/CQP884/research-associate-in-smooth-ergodic-theory).
+[www.jobs.ac.uk/job/CQP884/research-associate-in-smooth-ergodic-theory](https://www.jobs.ac.uk/job/CQP884/research-associate-in-smooth-ergodic-theory).
