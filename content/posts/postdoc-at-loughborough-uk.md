@@ -1,5 +1,5 @@
 +++
-title = “Postdoc at Loughborough, UK”
+title = "Postdoc at Loughborough, UK"
 date = "2022-06-16T15:00:00+02:00"
 categories = ["open-positions", "news"]
 +++
