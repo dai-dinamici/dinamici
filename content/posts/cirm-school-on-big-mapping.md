@@ -4,7 +4,7 @@ date = "2022-06-16T15:00:07+02:00"
 categories = ["events"]
 +++
 
-## 10-14 october 2022: *Big Mapping Class Groups and Diffeomorphism Groups*, CIRM, Marseille ##
+## 10-14 october 2022: *Big Mapping Class Groups and Diffeomorphism Groups*, CIRM, Marseille
 
 *Organizers*: Kathryn Mann (Cornell University), Andrés Navas (Universidad de Santiago de Chile), Cristóbal Rivas (Universidad de Chile), Michele Triestino (Université de Bourgogne), Ferrán Valdez (Universidad Nacional Autónoma de México).
 
