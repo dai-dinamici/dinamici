@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events on DinAmicI</title><link>https://www.dinamici.org/categories/events/</link><description>Recent content in Events on DinAmicI</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Tue, 21 Jun 2022 15:25:07 +0200</lastBuildDate><atom:link href="https://www.dinamici.org/categories/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Dynamics Seminar “A midsummer dynamic's daydream”, Pisa, 28 June 2022</title><link>https://www.dinamici.org/2022/06/dynamics-seminar-a-midsummer-dynamics-daydream-pisa-28-june-2022/</link><pubDate>Tue, 21 Jun 2022 15:25:07 +0200</pubDate><guid>https://www.dinamici.org/2022/06/dynamics-seminar-a-midsummer-dynamics-daydream-pisa-28-june-2022/</guid><description>&lt;h1 id="dynamics-seminar-a-midsummer-dynamics-daydream">Dynamics Seminar &lt;em>“A midsummer dynamic&amp;rsquo;s daydream”&lt;/em>&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events on DinAmicI</title><link>https://www.dinamici.org/categories/events/</link><description>Recent content in Events on DinAmicI</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Wed, 27 Jul 2022 08:00:00 +0000</lastBuildDate><atom:link href="https://www.dinamici.org/categories/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Online lectures series: 'Introduction to computational ergodic theory'.</title><link>https://www.dinamici.org/2022/07/online-lectures-series-introduction-to-computational-ergodic-theory./</link><pubDate>Wed, 27 Jul 2022 08:00:00 +0000</pubDate><guid>https://www.dinamici.org/2022/07/online-lectures-series-introduction-to-computational-ergodic-theory./</guid><description>&lt;h1 id="online-lectures-introduction-to-computational-ergodic-theory">Online lectures &lt;em>&amp;ldquo;Introduction to computational ergodic theory&amp;rdquo;&lt;/em>&lt;/h1>
+&lt;h2 id="1-5-august-2022">1-5 August, 2022&lt;/h2>
+&lt;p>The Hokkaido Summer Institute organizes a zoom online lecture series on computational ergodic theory on 1-5 August, 2022. The goal of the lectures is
+to introduce a software and the related theory providing tools for computer aided proofs and rigorous estimates on the statistical properties of dynamics.
+The lectures includes basics on ergodic theory, tutorials on the language Julia, with an introduction to interval arithmetic libraries and computer
+assisted proofs in dynamical systems and ergodic theory problems and the package RigorousInvariantMeasure.jl, now part of the JuliaDynamics organization
+&lt;a href="https://github.com/JuliaDynamics/RigorousInvariantMeasures.jl">https://github.com/JuliaDynamics/RigorousInvariantMeasures.jl&lt;/a>&lt;/p>
+&lt;p>Registration will be required to attend the zoom online lectures at &lt;a href="https://sites.google.com/view/hsi-comp-ergo-theo-2022/">https://sites.google.com/view/hsi-comp-ergo-theo-2022/&lt;/a>
+The lectures will be recorded and will be published after the school.&lt;/p>
+&lt;hr>
+&lt;h3 id="introduction-to-computational-ergodic-theory">&amp;ldquo;Introduction to computational ergodic theory&amp;rdquo;&lt;/h3>
+&lt;p>Ergodic theory is a mathematical field that connects dynamical system theory and probability theory, and underlies statistical
+mechanics and nonlinear physics. However, mathematically, it is difficult to analyze even basic problems such as the uniqueness
+and existence of invariant densities. One of the purposes of this lectures is to learn how a functional analytic approach can be
+used for these kind of problems in dynamical systems, giving an efficient method to get information on the invariant measures
+and on the statistical behavior of the system. The second purpose is to introduce the recently developed validated numerics
+for computer-assisted proofs in dynamical systems and ergodic theory and to understand the results of proof of existence
+of noise-induced phenomena in nonlinear physics.&lt;/p>
+&lt;p>Date:
+1-5 August, 2022&lt;/p>
+&lt;p>Place:
+4-501, Department of Mathematics, Hokkaido Unviersity&lt;/p>
+&lt;p>Lecturers:
+Stefano Galatolo (University of Pisa, Pisa, Italy) and
+Isaia Nisoli (UFRJ, Rio de Janeiro, Brazil / Hokkaido University)&lt;/p>
+&lt;p>Program:&lt;/p>
+&lt;p>Monday, 1 August 17:00-20:00 (JST) / 10:00-13:00 (CET)&lt;/p>
+&lt;p>Lecture 1: &amp;ldquo;Chaos, the statistical properties of dynamics, invariant measures, ergodic theorems.&amp;rdquo;&lt;/p>
+&lt;p>Lecture 2 &amp;ldquo;Introduction to Julia. Numerical experiments on the statistical properties of dynamics.&amp;rdquo;&lt;/p>
+&lt;p>Tuesday, 2 August 17:00-20:00 (JST) / 10:00-13:00 (CET)&lt;/p>
+&lt;p>Lecture 3: &amp;ldquo;The transfer operator approach, statistical properties of expanding maps and other examples&amp;rdquo;&lt;/p>
+&lt;p>Lecture 4: &amp;ldquo;Approximating the transfer operator with a computer: the Ulam Method, interval arithmetics”&lt;/p>
+&lt;p>Wednesday, 3 August 17:00-20:00 (JST) / 10:00-13:00 (CET)&lt;/p>
+&lt;p>Lecture 5: &amp;quot; Quantitative stability results, rigorously validating the numerical approximation&amp;rdquo;&lt;/p>
+&lt;p>Lecture 6: &amp;ldquo;Rigorous computations, computing the invariant measure and Lyapunov exponent with a controlled error&amp;rdquo;&lt;/p>
+&lt;p>Thursday, 4 August 17:00-20:00 (JST) / 10:00-13:00 (CET)&lt;/p>
+&lt;p>Lecture 7: &amp;ldquo;Random dynamical systems, the transfer operator approach and the quantitative statistical stability&amp;rdquo;.&lt;/p>
+&lt;p>Lecture 8: &amp;ldquo;The approximation of the stationary measure and Lyapunov exponents with a controlled error in the random case&amp;rdquo;.&lt;/p>
+&lt;p>Friday, 5 August 17:00-20:00 (JST) / 10:00-13:00 (CET)&lt;/p>
+&lt;p>Open discussions at spatial chat.&lt;/p></description></item><item><title>Dynamics Seminar “A midsummer dynamic's daydream”, Pisa, 28 June 2022</title><link>https://www.dinamici.org/2022/06/dynamics-seminar-a-midsummer-dynamics-daydream-pisa-28-june-2022/</link><pubDate>Tue, 21 Jun 2022 15:25:07 +0200</pubDate><guid>https://www.dinamici.org/2022/06/dynamics-seminar-a-midsummer-dynamics-daydream-pisa-28-june-2022/</guid><description>&lt;h1 id="dynamics-seminar-a-midsummer-dynamics-daydream">Dynamics Seminar &lt;em>“A midsummer dynamic&amp;rsquo;s daydream”&lt;/em>&lt;/h1>
 &lt;h2 id="centro-de-giorgi-pisa-28-june-2022">Centro De Giorgi, Pisa, 28 June 2022&lt;/h2>
 &lt;p>The event will take place in person.
 Those who are unable to be physically present may attend the talk
