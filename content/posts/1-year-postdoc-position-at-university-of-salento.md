@@ -18,4 +18,4 @@ The call  and  application forms (in Italian) are available at the following add
 [https://www.unisalento.it/bandi-concorsi/-/bandi/view/66335861](https://www.unisalento.it/bandi-concorsi/-/bandi/view/66335861)
 
 Applicants non speaking Italian, and anyone wanting details and information,  are invited to contact the PI 
-at the address: anna.cherubini@unisalento.it
+at the address: [anna.cherubini@unisalento.it](mailto:anna.cherubini@unisalento.it)
