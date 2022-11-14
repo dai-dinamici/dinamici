@@ -1,5 +1,4 @@
 +++
-aliases = ["/1-year-postdoc-position-at-university-of-salento/"]
 categories = ["news", "open-positions"]
 date = "2022-11-14 09:34:31"
 slug = "1-year-postdoc-position-at-university-of-salento"
