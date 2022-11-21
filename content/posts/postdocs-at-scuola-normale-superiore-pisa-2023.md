@@ -2,7 +2,6 @@
 categories = ["news", "open-positions"]
 date = "2022-11-21 08:19:31"
 slug = "postdocs-at-scuola-normale-superiore-pisa-2023"
-tags = []
 title = "Postdocs at Scuola Normale Superiore, Pisa"
 +++
 
