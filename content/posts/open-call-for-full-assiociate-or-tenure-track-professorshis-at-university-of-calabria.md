@@ -1,6 +1,6 @@
 +++
 categories = ["news", "open-positions"]
-date = "2022-11-21 08:19:31"
+date = "2022-11-30 08:19:31"
 slug = "open-call-for-full-assiociate-or-tenure-track-professorshis-at-university-of-calabria"
 title = "Open call for full, assiociate or tenure-track professorship at University of Calabria"
 +++
