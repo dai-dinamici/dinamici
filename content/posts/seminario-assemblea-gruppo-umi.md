@@ -5,7 +5,7 @@ categories = ["news", "events"]
 +++
 
 La mattina del prossimo **19 dicembre** si terrà in modalità telematica l'assemblea del gruppo UMI "DinAmicI", che sarà preceduta da un 
-seminario tenuto dal Prof. Lucio Russo.
+seminario tenuto dal Prof. Lucio Russo (Università di Roma Tor Vergata).
 
 Il programma della mattina è il seguente:
 - ore 10:30, seminario **"Un'antica teoria sul primo sistema dinamico studiato: il sistema solare"** (in italiano) tenuto dal Prof. Lucio Russo;
