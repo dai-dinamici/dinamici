@@ -11,7 +11,7 @@ Il programma della mattina è il seguente:
 - ore 10:30, seminario **"Un'antica teoria sul primo sistema dinamico studiato: il sistema solare"** (in italiano) tenuto dal Prof. Lucio Russo;
 - a seguire, **assemblea del gruppo UMI**.
 
-Il link per seguire gli eventi verrà inviato via email agli interessati che ne faranno richiesta e sarà pubblicato su questa pagina poco prima dell'evento.
+Il link per seguire gli eventi è https://meet.google.com/ote-yhuv-wus.
 
 *Sunto del seminario:*
 Il più antico sistema astronomico che prevede una Terra in moto è quello attribuito al pitagorico Filolao, del V secolo a.C., nel quale la Terra e una misteriosa e invisibile "Antiterra" ruoterebbero entrambe, insieme alla Luna, ai pianeti e al Sole, intorno a un misterioso e invisibile "Fuoco centrale".
