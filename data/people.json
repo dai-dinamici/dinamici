@@ -608,7 +608,7 @@
     "path": "wp-content/seri-photo.jpg",
     "name": "Marcello",
     "description": "Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, University of Groningen. \n\n Website: https://academic.mseri.me",
-    "umi": true,
+    "umi": false,
     "surname": "Seri"
   },
   {
