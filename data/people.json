@@ -36,6 +36,12 @@
     "surname": "Angella"
   },
   {
+    "path": "images/default-profile.svg",
+    "name": "Arianna",
+    "surname": "Angiolelli",
+    "umi": true
+  },
+  {
     "path": "wp-content/DSC_0433.jpg",
     "name": "Leandro",
     "description": "Università di Roma \"Tor Vergata\"",
@@ -54,6 +60,11 @@
     "description": "Università dell'Insubria",
     "umi": true,
     "surname": "Artuso"
+  },
+  {
+    "path": "images/default-profile.svg",
+    "name": "Ayreena",
+    "surname": "Bakhtawar"
   },
   {
     "path": "images/default-profile.svg",
@@ -172,6 +183,11 @@
     "path": "images/default-profile.svg",
     "name": "Pablo D.",
     "surname": "Carrasco"
+  },
+  {
+    "path": "images/default-profile.svg",
+    "name": "Roberto",
+    "surname": "Castorrini"
   },
   {
     "path": "images/default-profile.svg",
@@ -338,6 +354,12 @@
     "name": "Thomas",
     "description": "Thomas Gilbert holds a double position as a Chercheur Qualifié with F.R.S.- FNRS, Belgium (the equivalent of Consiglio Nazionale delle Ricerche, Italy) and as a Scientific Collaborator at the Université Libre de Bruxelles (ULB), where he is a permanent member of the Center for Nonlinear Phenomena and Complex Systems and teaches at the Physics Department in the fields of the physics of complex systems and stochastic processes.",
     "surname": "Gilbert"
+  },
+  {
+    "path": "images/default-profile.svg",
+    "name": "Paolo",
+    "surname": "Giulietti",
+    "umi": true
   },
   {
     "path": "images/default-profile.svg",
