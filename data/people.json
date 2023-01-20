@@ -62,9 +62,10 @@
     "surname": "Artuso"
   },
   {
-    "path": "images/default-profile.svg",
+    "path": "images/ayreena-bakhtawar.jpg",
     "name": "Ayreena",
-    "surname": "Bakhtawar"
+    "surname": "Bakhtawar",
+    "description": "Post-doc at Scuola Normale Superiore di Pisa, Italy \n\n https://sites.google.com/view/abakhtawar"
   },
   {
     "path": "images/default-profile.svg",
@@ -119,7 +120,7 @@
   {
     "path": "wp-content/13239193_10153997418490081_1877687976007354735_n.jpg",
     "name": "Claudio",
-    "description": "Università di Pisa",
+    "description": "Università di Pisa \n\n https://pagine.dm.unipi.it/bonanno/",
     "umi": true,
     "surname": "Bonanno"
   },
