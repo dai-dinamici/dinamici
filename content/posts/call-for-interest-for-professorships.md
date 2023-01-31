@@ -1,8 +1,7 @@
 +++
 categories = ["news", "open-positions"]
 date = "2023-01-31 16:04:34"
-slug = "call-for-interest-for-professorships"
-tags = []
+slug = "call-for-interest-for-professorships-roma-tor-vergata"
 title = "Call for interest for professorships at University of Roma Tor Vergata"
 +++
 
