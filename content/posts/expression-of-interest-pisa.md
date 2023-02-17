@@ -2,7 +2,6 @@
 categories = ["news", "open-positions"]
 date = "2023-02-17 16:04:34"
 slug = "expression-of-interest-pisa"
-tags = []
 title = "Call for expression of interest at University of Pisa"
 +++
 
