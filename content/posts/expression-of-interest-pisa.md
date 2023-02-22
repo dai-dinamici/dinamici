@@ -15,7 +15,7 @@ launches a call for expression of interest to identify candidates at all levels 
 - mathematics of machine learning and data science, high dimensional statistics;
 - mathematics and modeling of complex phenomena in physical and life sciences.
 
-Interested candidates can write to [segamm@dm.unipi.it](mailto:segamm@dm.unipi.it),
+Interested candidates can write to [segamm@dm.unipi.it](mailto:segamm@dm.unipi.it) before *March 31st, 2023*,
 including a letter of motivation and a CV, 
 with a description of current research and teaching activities.
 
