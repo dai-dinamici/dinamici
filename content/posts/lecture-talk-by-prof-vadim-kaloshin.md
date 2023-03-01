@@ -1,11 +1,9 @@
 +++
-title = "Lecture Talk by Prof. Vadim Kaloshin"
+title = "Lecture Series on Dynamics of Billiards by Vadim Kaloshin"
 date = "2023-02-15T13:43:04+01:00"
 categories = ["news", "events"]
 slug = "lecture-talk-by-prof-vadim-kaloshin"
 +++
-
-# Lecture Series on Dynamics of Billiards by Prof. Vadim Kaloshin
 
 We are excited to announce a series of online lectures by Prof. Vadim Kaloshin from IST Austria on the topic of Integrability and rigidity for convex billiard. 
 
@@ -15,10 +13,10 @@ Once you have completed the application, we will email you the Zoom address to j
 **Event Details**
 
 *Date and Time*: 
-- 3 pm-5 pm on March 7th(Tuesday) 
-- 3 pm-5 pm on March 8th(Wednesday) 
-- 3 pm-5 pm on March 10th(Friday) 
-- 3 pm-5 pm on March 13th(Monday)
+- 3 pm-5 pm on March 7th (Tuesday) 
+- 3 pm-5 pm on March 8th (Wednesday) 
+- 3 pm-5 pm on March 10th (Friday) 
+- 3 pm-5 pm on March 13th (Monday)
 
 *Timezone*: Japan time
 
