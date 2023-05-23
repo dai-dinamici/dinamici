@@ -2,7 +2,6 @@
 categories = ["news", "open-positions"]
 date = "2023-05-23 07:34:31"
 slug = "2-year-postdoc-positions-at-university-of-pisa"
-tags = []
 title = "Two 2-year postdoc positions at the University of Pisa"
 +++
 
