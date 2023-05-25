@@ -11,6 +11,6 @@ The DinAmicI are happy to announce that *Bollettino dell'Unione Matematica Itali
 
 edited by Claudio Bonanno and Marco Lenci, which contains 14 articles authored by a selection of speakers at recent DinAmicI events.
 
-[https://link.springer.com/journal/40574/volumes-and-issues/16-2](https://link.springer.com/journal/40574/volumes-and-issues/16-2)
+The issue is accessible [via the following link](https://link.springer.com/journal/40574/volumes-and-issues/16-2).
 
 Thanks to all the contributors!
