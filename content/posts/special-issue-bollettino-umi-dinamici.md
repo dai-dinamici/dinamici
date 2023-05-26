@@ -1,5 +1,5 @@
 +++
-title = "Special issue of Bollettino dell'UMI by DinAmicI"
+title = "Special issue of Bollettino dell'UMI by the DinAmicI"
 date = "2023-05-25 12:43:04"
 categories = ["news"]
 slug = "special-issue-bollettino-umi-dinamici"
