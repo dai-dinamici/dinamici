@@ -1,9 +1,8 @@
 +++
-aliases = ["/rtd-b-tenure-track-position-in-mathematical-physics-at-università-di-pisa-2023/"]
 categories = ["news", "open-positions"]
 date = "2023-06-23 10:14:48"
-tags = []
 title = "RTD-B (tenure-track position) in Mathematical Physics at Università di Pisa"
+slug = "rtd-b-tenure-track-position-in-mathematical-physics-at-university-of-pisa-2023"
 +++
 
 A *Ricercatore di tipo B* (tenure-track 3 year) position in Mathematical
