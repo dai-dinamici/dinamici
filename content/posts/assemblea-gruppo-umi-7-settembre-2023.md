@@ -1,7 +1,7 @@
 +++
 title = "Assemblea gruppo UMI DinAmicI"
 date = "2023-08-31T18:16:11+02:00"
-categories = ["news"]
+categories = ["news", "events"]
 +++
 
 Cari membri del gruppo UMI “DinAmicI”,
