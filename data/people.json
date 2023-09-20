@@ -8,7 +8,6 @@
   {
     "path": "images/default-profile.svg",
     "name": "Simonetta",
-    "umi": true,
     "surname": "Abenda"
   },
   {
@@ -194,7 +193,6 @@
     "path": "images/default-profile.svg",
     "name": "Alessandra",
     "description": "Politecnico di Torino",
-    "umi": true,
     "surname": "Cauli"
   },
   {
@@ -236,7 +234,6 @@
   {
     "path": "images/default-profile.svg",
     "name": "Alberto",
-    "umi": true,
     "surname": "D'Onofrio"
   },
   {
@@ -248,7 +245,6 @@
     "path": "wp-content/mirko.jpg",
     "name": "Mirko",
     "description": "Università di Bologna",
-    "umi": true,
     "surname": "Degli Esposti"
   },
   {
@@ -261,7 +257,6 @@
     "path": "wp-content/Alessio.jpg",
     "name": "Alessio",
     "description": "Dipartimento di Matematica, Università di Pisa - Space Dynamics Services",
-    "umi": true,
     "surname": "Del Vigna"
   },
   {
@@ -437,7 +432,6 @@
   {
     "path": "images/default-profile.svg",
     "name": "Iacopo",
-    "umi": true,
     "surname": "Longo"
   },
   {
@@ -485,7 +479,6 @@
     "path": "images/default-profile.svg",
     "name": "Stefano",
     "description": "Researcher at University of Pisa",
-    "umi": true,
     "surname": "Marò"
   },
   {
