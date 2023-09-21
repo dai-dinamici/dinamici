@@ -364,6 +364,12 @@
   },
   {
     "path": "images/default-profile.svg",
+    "name": "Nicola",
+    "surname": "Guglielmi",
+    "umi": true
+  },
+  {
+    "path": "images/default-profile.svg",
     "name": "Emanuele",
     "umi": true,
     "surname": "Haus"
