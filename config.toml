@@ -39,4 +39,4 @@ url = "https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg"
 [outputFormats.Calendar]
 protocol = "https://"
 [permalinks]
-posts = "/:year/:month/:slug/"
+posts = "/:year/:month/:slugorfilename/"
