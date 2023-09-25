@@ -4,7 +4,7 @@ date = "2023-09-19T09:07:45+02:00"
 categories = ["open-positions", "news"]
 +++
 
-The Department of Mathematics of the University of Salento, Italy, is advertising a ** one-year post-grade/post-doc research position** on the topic _"Development of dynamical systems techniques for the study of space debris and their application"_ with the scientific scientific supervision of Prof. Anna Maria Cherubini.  
+The Department of Mathematics of the University of Salento, Italy, is advertising a **one-year post-grade/post-doc research position** on the topic _"Development of dynamical systems techniques for the study of space debris and their application"_ with the scientific scientific supervision of Prof. Anna Maria Cherubini.  
 
 The position is within the framework of the TISMA Project (PNR and PRIN Fund).  
 
