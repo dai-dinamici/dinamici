@@ -561,6 +561,12 @@
   },
   {
     "path": "images/default-profile.svg",
+    "name": "Françoise",
+    "description": "Université de Brest\n\nhome page:  http://lmba.math.univ-brest.fr/perso/francoise.pene/",
+    "surname": "Pène"
+  },
+  {
+    "path": "images/default-profile.svg",
     "name": "Gabriella",
     "surname": "Pinzari"
   },
@@ -718,6 +724,12 @@
     "name": "Enrico",
     "description": "Università di Milano",
     "surname": "Valdinoci"
+  },
+  {
+    "path": "images/default-profile.svg",
+    "name": "Paulo",
+    "description": "https://sites.google.com/view/paulovarandas/",
+    "surname": "Varandas"
   },
   {
     "path": "images/default-profile.svg",
