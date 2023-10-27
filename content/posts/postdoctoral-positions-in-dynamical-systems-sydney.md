@@ -1,6 +1,6 @@
 +++
 categories = ["events", "news"]
-date = "2023-10-16 12:34:47"
+date = "2023-10-27 12:34:47"
 title = "Postdoctoral fellow positions in dynamical systems at UNSW Sydney"
 +++
 
