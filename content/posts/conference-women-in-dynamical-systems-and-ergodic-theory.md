@@ -1,4 +1,8 @@
-+++ categories = ["events", "news"] date = "2023-11-02 12:44:47" title = "Conference "Women in Dynamical Systems and Ergodic Theory" in Pisa" +++
++++
+categories = ["events", "news"]
+date = "2023-11-02 12:44:47"
+title = "Conference 'Women in Dynamical Systems and Ergodic Theory' in Pisa"
++++
 
 The conference **"Women in Dynamical Systems and Ergodic Theory"** will take place at *Centro di Ricerca Matematica "Ennio De Giorgi", Pisa (Italy)*
 on **May 20-24, 2024**. The event is organized by *Ayreena Bakhtawar, Carlo Carminati, and Tanja Schindler.*
@@ -12,7 +16,8 @@ different research directions within the broad field of dynamical systems and er
 wanting to broaden their research by getting connections to research areas which so far don't lie in their core research field. 
 Researchers at initial phases of their career will be supported and will be considered for a contributed talk.
 
-The registration is open. All relevant information and the registration form can be found on the [website of the conference](http://www.crm.sns.it/event/522/). 
+The registration is open. All relevant information and the registration form can be found on the
+[website of the conference](http://www.crm.sns.it/event/522/). 
 
 There are spots open for some contributed talks (follow the links on the webpage to submit a title and abstract).  
 Limited funds to cover accommodation expenses are available to early registered participants. 
