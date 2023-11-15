@@ -12,7 +12,7 @@ to be held at the Department of Mathematics of University of Rome Tor Vergata on
 **Website**: <https://www.mat.uniroma2.it/butterley/formalisation/>
 
 The workshop concerns interactive proof assistants, programs that allow one to write and verify 
-mathematical proofs. As such, the focus on the Lean 4 language and its mathematical library.
+mathematical proofs. As such, the focus is on the Lean 4 language and its mathematical library.
 
 For those who want an overview, several talks will be presented on major aspects of this emerging 
 field. For those who want to go deeper, a series of workshop-style sessions will be offered, 
