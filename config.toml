@@ -11,6 +11,7 @@ mathjaxConfig = "TeX-AMS_SVG"
 mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"
 opengraph = true
 pager = true
+post_meta = ["date"]
 readmore = true
 schema = true
 twitter_cards = true
