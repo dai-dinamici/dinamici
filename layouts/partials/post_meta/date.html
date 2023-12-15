@@ -9,8 +9,13 @@
 		{{- T "meta_lastmod" }}: {{ .Lastmod | dateFormat (.Site.Params.dateformat | default "January 02, 2006") -}}
 	)</time>
 	{{- end -}}
-  {{- if and (in .Params.categories "open-positions") (gt now.Unix (add .Date.Unix 5184000)) }}
-    <strong>[archived]</strong>
+  {{- if or (
+      and (in .Params.categories "open-positions") (gt now.Unix (add .Date.Unix 5184000))
+    ) (
+      and (in .Params.categories "events") (gt now.Unix (add .Date.Unix 10368000))
+    )
+  }}
+    &nbsp;<strong>[archived]</strong>
   {{- end -}}
 </div>
 {{- end }}
