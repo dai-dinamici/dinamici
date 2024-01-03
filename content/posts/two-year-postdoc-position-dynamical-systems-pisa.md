@@ -12,6 +12,6 @@ The position is expected to start not later than July 2024.
 The deadline for application is **January 12, 2024 at 1pm (Italian
 local time)**.
 
-**All info at** [this link](https://bandi.unipi.it/public/Bandi/Detail/5a951824-3113-4ac7-ad49-1b882e6e114f).
+**All info at:** <https://bandi.unipi.it/public/Bandi/Detail/5a951824-3113-4ac7-ad49-1b882e6e114f>
 
-For further information about the position please contact [Claudio Bonanno](claudio.bonanno@unipi.it).
+For further information about the position please contact [Claudio Bonanno](mailto:claudio.bonanno@unipi.it).
