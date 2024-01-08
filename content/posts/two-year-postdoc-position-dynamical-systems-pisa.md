@@ -7,7 +7,7 @@ title = "Two-year postdoc in dynamical systems at Università di Pisa"
 The Department of Mathematics of Università di Pisa has opened a call
 for one 2-year postdoctoral position denominated *“Stochastic properties of dynamical systems”.*
 
-The position is expected to start not later than July 2024.
+The position is expected to start no later than July 2024.
 
 The deadline for application is **January 12, 2024 at 1pm (Italian
 local time)**.
