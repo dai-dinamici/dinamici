@@ -1,4 +1,8 @@
-+++ categories = ["news", "open-positions"] date = "2024-01-14 17:00:00" tags = [] title = "Two-year postdoc position at Università di Roma Tor Vergata" +++
++++
+categories = ["news", "open-positions"]
+date = "2024-01-14 17:00:00"
+title = "Two-year postdoc position at Università di Roma Tor Vergata"
++++
 
 The **Università di Roma Tor Vergata** has opened a call for a **two-year postdoc position in the field of dynamical systems**. The position carries a salary of 34000 euros per year, before taxes.
 
