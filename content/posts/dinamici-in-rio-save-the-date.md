@@ -1,6 +1,6 @@
 +++
 categories = ["events", "news"]
-date = "2024-02-12 11:30:00"
+date = "2024-02-12 11:30:30"
 title = "DinAmicI in Rio, Dynamics, Applications, Interactions (a.k.a. DinAmicI VIII) - save the dates"
 +++
 
