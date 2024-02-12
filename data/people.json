@@ -72,6 +72,12 @@
     "surname": "Bakrani"
   },
   {
+    "path": "images/baranzini.jpeg",
+    "name": "Stefano",
+    "surname": "Baranzini",
+    "description": "Università di Torino"
+  },
+  {
     "path": "images/default-profile.svg",
     "name": "Vivina",
     "surname": "Barutello"
