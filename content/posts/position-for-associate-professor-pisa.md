@@ -1,7 +1,7 @@
 +++
 categories = ["news", "open-positions"]
 date = "2024-02-09 14:00:46"
-title = "Associate professor of Mathematical Physics at Università di Pisa"
+title = "Associate professorship in Mathematical Physics at Università di Pisa"
 +++
 
 Under the 2023-2027 Department of Excellence project, the Department of Mathematics of the University of Pisa seeks to hire an outstanding *associated professor (with tenure)* to strengthen the growing research and educational activities of its *Mathematical Physics research* sector, broadly defined, with the start date of October 1, 2024. The successful candidate will carry out research of international relevance and significance, with a particular emphasis on the studies of complex systems in the physical and life sciences, both from the theoretical and applied viewpoints, including, but not limited to, studies of dynamical systems and partial differential equations arising in the above contexts. This position is co-funded by the Italian Ministry of University and Research. 
