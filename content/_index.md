@@ -27,6 +27,6 @@ if you are using a mobile device.
 
 Since the fall of 2020, the community also includes the [**UMI Group
 DinAmicI**](https://umi.dm.unibo.it/gruppi-umi-2/gruppo-umi-dinamici/),
-a work group of the [Unione Matematica
+a thematic group of the [Unione Matematica
 Italiana](https://umi.dm.unibo.it/), the Italian society of
 mathematicians.
