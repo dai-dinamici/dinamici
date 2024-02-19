@@ -1,8 +1,7 @@
 +++
 categories = ["news", "events"]
 date = "2024-02-19 13:00:00"
-title = "Summer School 'Stability and rigidity in dynamical systems, beyond classical 
-KAM theory', Paris, June 10-21, 2024" 
+title = "Summer School 'Stability and rigidity in dynamical systems, beyond classical KAM theory', Paris, June 10-21, 2024" 
 +++
 
 The [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/en/)
