@@ -2,7 +2,6 @@
 categories = ["news", "open-positions"]
 date = "2024-03-18 10:14:48"
 title = "RTT (tenure-track position) in Mathematical Physics at Università di Milano"
-slug = "rtd-b-tenure-track-position-in-mathematical-physics-at-university-of-pisa-2023"
 +++
 
 A *Ricercatore Tenure Track* position in Mathematical
