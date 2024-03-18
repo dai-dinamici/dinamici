@@ -19,4 +19,4 @@ See <https://dante.c.matinf.uj.edu.pl/home>.
 On **6-9 June**, a workshop in the framework of the [wandering seminars](https://etds.im.uj.edu.pl/wandering/) (homepage will soon be updated there) 
 on the dynamics of B-free numbers and related dynamical systems.
 
-Registration to the first workshops is open. For more details, see the webpages of these events.
+Registration to the first two workshops is currently open. For more details, see the webpages of these events.
