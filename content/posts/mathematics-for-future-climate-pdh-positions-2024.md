@@ -1,6 +1,8 @@
-+++ categories = ["open-positions", "news"] 
++++
+categories = ["open-positions", "news"] 
 date = "2024-03-24 22:30:30" 
-title = "PhD positions at the 'Centre for Doctoral Training in the Mathematics for our Future Climate'" +++
+title = "PhD positions at the 'Centre for Doctoral Training in the Mathematics for our Future Climate'"
++++
 
 The newly established *'Centre for Doctoral Training in the Mathematics for our Future Climate: Theory, Data and Simulation'*,
 joint between the Universities of Reading and Southampton and Imperial College London,
