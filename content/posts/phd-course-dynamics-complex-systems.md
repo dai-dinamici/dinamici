@@ -5,7 +5,7 @@ categories = ["news", "events"]
 +++
 
 The Ph.D. School in Mathematics of the *University of Pisa* offers the course on the **'Dynamics of complex systems'** by Stefano Galatolo, Roberto Castorrini, Matteo Tanzi, and Bastien Fernandez. 
-The course is in presence but can also be followed remotely.
+This course will be conducted in person, with the option for remote participation.
 
 The first lecture is on **April 12 at 11am (CET)**. The full schedule of the course is available at <https://www.dm.unipi.it/phd/phd-course-details/?phd_course_id=653ca3e789ab3610aef2d90b>.
 
