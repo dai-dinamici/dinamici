@@ -11,4 +11,4 @@ The first lecture is on **April 12 at 11am (CET)**. The full schedule of the cou
 
 At the same link one can find the full description of the course, a tentative list of contents, and the requested prerequisites.
 
-Students interested in following the course remotely can email Stefano Galatolo at <stefano.galatolo@unipi.it> asking to be added to the course Teams group.
+Students interested in following the course remotely can email Stefano Galatolo at [stefano.galatolo@unipi.it](mailto:stefano.galatolo@unipi.it) asking to be added to the course Teams group.
