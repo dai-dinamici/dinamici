@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Alessandro Della Corte (Università di Camerino, Italy)
+
+
+
+SUMMARY:DAI Seminar Alessandro Della Corte (Università di Camerino, Italy)
 DESCRIPTION:The simplest erasing substitution
 UID:2021-02-23 16:22:09 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20210311T180000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/
+
 END:VEVENT
 END:VCALENDAR

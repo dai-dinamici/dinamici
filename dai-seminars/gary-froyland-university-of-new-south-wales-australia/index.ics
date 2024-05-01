@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Gary Froyland (University of New South Wales, Australia)
+
+
+
+SUMMARY:DAI Seminar Gary Froyland (University of New South Wales, Australia)
 DESCRIPTION:The dynamic ocean
 UID:2021-01-26 12:12:10 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20210204T110000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/gary-froyland-university-of-new-south-wales-australia/
+
 END:VEVENT
 END:VCALENDAR

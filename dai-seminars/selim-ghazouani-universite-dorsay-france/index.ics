@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Selim Ghazouani (Université d’Orsay, France)
+
+
+
+SUMMARY:DAI Seminar Selim Ghazouani (Université d’Orsay, France)
 DESCRIPTION:Piecewise affine homeomorphisms of the circle and dilation surfaces
 UID:2021-04-16 21:04:47 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20210506T170000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/selim-ghazouani-universite-dorsay-france/
+
 END:VEVENT
 END:VCALENDAR

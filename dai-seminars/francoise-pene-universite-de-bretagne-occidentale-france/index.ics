@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Françoise Pène (Université de Bretagne Occidentale, France)
+
+
+
+SUMMARY:DAI Seminar Françoise Pène (Université de Bretagne Occidentale, France)
 DESCRIPTION:Invariance by induction of the asymptotic variance
 UID:2020-06-18 11:00:20 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20200708T180000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/
+
 END:VEVENT
 END:VCALENDAR

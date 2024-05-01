@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Sunrose Shrestha (Tufts University, USA)
+
+
+
+SUMMARY:DAI Seminar Sunrose Shrestha (Tufts University, USA)
 DESCRIPTION:The topology and geometry of random square-tiled surfaces
 UID:2020-06-04 13:29:58 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20200617T180000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/sunrose-shrestha-tufts-university-usa/
+
 END:VEVENT
 END:VCALENDAR

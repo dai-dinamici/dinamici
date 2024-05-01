@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Marta Maggioni (Universiteit Leiden, Netherlands)
+
+
+
+SUMMARY:DAI Seminar Marta Maggioni (Universiteit Leiden, Netherlands)
 DESCRIPTION:Matching for random systems with an application to minimal weight expansions
 UID:2020-05-20 19:31:13 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20200701T180000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/
+
 END:VEVENT
 END:VCALENDAR

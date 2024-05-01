@@ -21,8 +21,24 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Tere M-Seara (Universitat Politècnica de Catalunya) and Jaime Paradela Diaz (University of Maryland)
-DESCRIPTION:'Unstable motions in the Three Body Problem' and 'Homoclinic tangencies of parabolic saddles and Newhouse domains in Celestial Mechanics'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
+DESCRIPTION:Tere M-Seara 'Unstable motions in the Three Body Problem' - Jaime Paradela Diaz 'Homoclinic tangencies of parabolic saddles and Newhouse domains in Celestial Mechanics'
 UID:2024-05-01 12:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -35,5 +51,7 @@ DTEND:20240508T180000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/2024-05-seara-paradela/
+
+
 END:VEVENT
 END:VCALENDAR

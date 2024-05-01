@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Umberto Zannier (Scuola Normale Superiore, Italy)
+
+
+
+SUMMARY:DAI Seminar Umberto Zannier (Scuola Normale Superiore, Italy)
 DESCRIPTION:Torsion values of sections, elliptical billiards and diophantine problems in dynamics
 UID:2021-04-29 08:40:46 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20210520T170000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/
+
 END:VEVENT
 END:VCALENDAR

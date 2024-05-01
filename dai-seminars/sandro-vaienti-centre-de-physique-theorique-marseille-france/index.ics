@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Sandro Vaienti (Centre de Physique Théorique, Marseille, France)
+
+
+
+SUMMARY:DAI Seminar Sandro Vaienti (Centre de Physique Théorique, Marseille, France)
 DESCRIPTION:Thermodynamic formalism for random weighted covering systems
 UID:2020-05-04 12:24:50 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20200604T180000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/
+
 END:VEVENT
 END:VCALENDAR

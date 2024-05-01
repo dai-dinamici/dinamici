@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Seminar by Marta Maggioni postponed to July 1
+
+
+
+SUMMARY:DAI Seminar Seminar by Marta Maggioni postponed to July 1
 DESCRIPTION:postponed to July 1 (#ShutDownSTEM, #Strike4BlackLives)
 UID:2020-06-10 08:34:39 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20200610T180000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1/
+
 END:VEVENT
 END:VCALENDAR

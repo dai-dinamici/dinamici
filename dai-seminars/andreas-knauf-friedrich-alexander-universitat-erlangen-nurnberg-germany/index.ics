@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Andreas Knauf (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)
+
+
+
+SUMMARY:DAI Seminar Andreas Knauf (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)
 DESCRIPTION:Asymptotic velocity for scattering particles
 UID:2020-06-11 07:07:48 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20200624T180000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/
+
 END:VEVENT
 END:VCALENDAR

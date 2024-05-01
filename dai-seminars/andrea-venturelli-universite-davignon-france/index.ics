@@ -21,7 +21,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Andrea Venturelli (Université d’Avignon, France)
+
+
+
+SUMMARY:DAI Seminar Andrea Venturelli (Université d’Avignon, France)
 DESCRIPTION:Hyperbolic motion in the Newtonian N-body problem with arbitrary limit shape
 UID:2021-01-07 09:00:26 +0000 UTC@dinamici.org
 SEQUENCE:0
@@ -35,5 +38,6 @@ DTEND:20210114T170000
 
 LOCATION:TBD
 URL:https://www.dinamici.org/dai-seminars/andrea-venturelli-universite-davignon-france/
+
 END:VEVENT
 END:VCALENDAR
