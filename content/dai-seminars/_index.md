@@ -11,11 +11,8 @@ Welcome to the page of the
 (a.k.a. DAI Seminar)
 
 a series of online seminars on Dynamical Systems and their applications.
-Starting from November 2020 the seminar will run biweekly (mostly) on
-Thursday afternoons at 4pm Central European Time.
 
-**Organizers**: *A. Bianchi, C. Bonanno, M. Lenci, M. Seri, A.
-Sorrentino*
+**Organizers**: *C. Bonanno, G. Cristadoro, A. Florio, D. Ravotti*
 
   
 **Recent and upcoming seminars:**  
