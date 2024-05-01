@@ -32,6 +32,7 @@ In particular, we will prove the existence of of oscillatory motions, that is, o
 infinitely often to some fixed bounded region.
 
 - - -
+
 Speaker: **Jaime Paradela Diaz** (University of Maryland)
 *Title:* ***Homoclinic tangencies of parabolic saddles and Newhouse domains in Celestial Mechanics***
 
