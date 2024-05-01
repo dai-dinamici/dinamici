@@ -22,6 +22,38 @@ END:VTIMEZONE
 {{range .Pages -}}
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+{{ $type := (printf "%T" .Params.speaker) }}
+{{ if eq $type "[]string" }}
+{{ $content := .Content}}
+{{ $speakers := .Params.speaker }}
+{{ $titles := .Params.seminar }}
+{{ $permalink := .Permalink }}
+{{ $start := .Params.Start }}
+{{ $end := .Params.end }}
+{{ $date := .Date }}
+{{ $location := .Params.location }}
+{{ $speaker1 := index .Params.speaker 0 }}
+{{ $speaker2 := index .Params.speaker 1 }}
+{{ $seminar1 := index .Params.seminar 0 }}
+{{ $seminar2 := index .Params.seminar 1 }}
+{{ $part1 := printf "%s '%s'" $speaker1 $seminar1 }}
+{{ $part2 := printf "%s '%s'" $speaker2 $seminar2 }}
+SUMMARY:DAI Seminar
+DESCRIPTION:{{ printf "%s - %s" $part1 $part2 }}
+UID:{{$date}}@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:{{dateFormat "20060102T150405" $date}}
+{{if $start }}
+DTSTART:{{dateFormat "20060102T150405" $start}}
+{{ end }}
+{{if $end }}
+DTEND:{{dateFormat "20060102T150405" $end}}
+{{ end }}
+LOCATION:{{with $location}}{{.}}{{else}}TBD{{end}}
+URL:{{$permalink}}
+{{end}}
+{{ if eq $type "string" }}
 SUMMARY:{{.Title}}
 DESCRIPTION:{{ if (and .Params.speaker .Params.seminar) }}{{ .Params.speaker }} - {{ .Params.seminar }}{{ else }}{{ .Content }}{{ end }}
 UID:{{.Params.date}}@dinamici.org
@@ -36,6 +68,7 @@ DTEND:{{dateFormat "20060102T150405" .Params.end}}
 {{ end }}
 LOCATION:{{with .Params.location}}{{.}}{{else}}TBD{{end}}
 URL:{{.Permalink}}
+{{end}}
 END:VEVENT
 {{end -}}
 END:VCALENDAR

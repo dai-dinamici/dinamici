@@ -20,13 +20,37 @@
 		</p>
 		<ul>
 			{{- range .Paginator.Pages }}
-			{{ $stime := time .Params.Start "Europe/Rome" }}
-			<li><a href="{{.Permalink}}">{{ dateFormat "Mon, 02 Jan 2006" .Params.Start }} {{printf "%2d:%.2d CET"
-					$stime.Hour $stime.Minute}}</a>:
-				<strong>{{ .Params.Speaker }}</strong>&nbsp;({{ .Params.Affiliation }}),
-				<em><strong>{{ .Params.Seminar }}</strong></em>
-			</li>
-			{{ end }}
+			
+      {{ $type := (printf "%T" .Params.speaker) }}
+
+      {{ if eq $type "[]string" }}
+        
+        {{ $speakers := .Params.speaker }}
+        {{ $affiliations := .Params.affiliation }}
+        {{ $titles := .Params.seminar }}
+
+        {{ $permalink := .Permalink }}
+        
+        {{ $stime := time .Params.Start "Europe/Rome" }}
+        {{ $start := dateFormat "Mon, 02 Jan 2006" .Params.Start}}
+
+        <li><a href="{{ $permalink }}">{{ $start }} {{printf "%2d:%.2d CET" $stime.Hour $stime.Minute}}</a>:
+        {{ range $i, $s := $speakers }}
+          <strong>{{ . }}</strong>&nbsp;({{ index $affiliations $i }}),
+        <em><strong>{{ index $titles $i }}</strong></em> {{ if eq $i 0 }}&nbsp;and&nbsp;{{ end }}
+        {{ end }}
+        </li>
+      {{ end }}
+
+      {{ if eq $type "string" }}
+       {{ $stime := time .Params.Start "Europe/Rome" }}
+       <li><a href="{{.Permalink}}">{{ dateFormat "Mon, 02 Jan 2006" .Params.Start }} {{printf "%2d:%.2d CET" $stime.Hour $stime.Minute}}</a>:
+          <strong>{{ .Params.Speaker }}</strong>&nbsp;({{ .Params.Affiliation }}),
+          <em><strong>{{ .Params.Seminar }}</strong></em>
+        </li>
+      {{ end }}
+      {{ end }}
+
 		</ul>
 		<div style="text-align: center; margin-bottom:15px;">
 			{{ partial "pagination.html" . }}
