@@ -21,6 +21,23 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Tere M-Seara (Universitat Politècnica de Catalunya) and Jaime Paradela Diaz (University of Maryland)
+DESCRIPTION:Tere M-Seara and Jaime Paradela Diaz - 'Unstable motions in the Three Body Problem' and 'Homoclinic tangencies of parabolic saddles and Newhouse domains in Celestial Mechanics'
+UID:2024-05-01 12:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240501T123900
+
+DTSTART:20240508T160000
+
+
+DTEND:20240508T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2024-05-seara-paradela/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Kasun Fernando (University of Toronto, Canada)
 DESCRIPTION:Kasun Fernando - Expansions in the mixing local limit theorems for dynamical systems
 UID:2021-05-25 08:33:27 +0000 UTC@dinamici.org
