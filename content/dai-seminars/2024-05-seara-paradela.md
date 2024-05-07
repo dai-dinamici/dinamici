@@ -29,6 +29,10 @@ infinitely often to some fixed bounded region.
 The analysis of the unfolding is certainly more subtle when the homoclinic tangency is associated to a persistent degenerate saddle, i.e. a parabolic fixed point which exists for all values of the parameter and for which the topological picture of the local dynamics resembles that of a hyperbolic fixed point (existence of invariant manifolds and C^0 Lambda lemma). These degenerate saddles appear naturally in several models in Celestial Mechanics, in particular, in the so-called restricted 4 Body Problem. We prove that, in a particular configuration of the latter model which can be reduced to an area preserving map, there exists a degenerate saddle with a quadratic homoclinic tangency that unfolds generically (as we move the masses of the bodies). Moreover, and despite the fact that the  C^1 Lambda lemma does not hold for this degenerate saddle, we show that the dynamics at the unfolding of the tangency can be renormalized, with the critical Hénon map showing up in the limit process. This implies the existence of a Newhouse domain  in the parameter space (the masses of the bodies) and a residual subset of parameters for which there exist hyperbolic sets of large  Hausdorff dimension  which are accumulated by elliptic islands. This is joint work with J.M. Garrido and P. Martín. 
 """ ]
 +++
+**Zoom link:** [https://univ-lille-fr.zoom.us/j/95354498779?pwd=QnB3MlNwVVIxR2ZLdUF6YS9UVFY2Zz09
+](https://univ-lille-fr.zoom.us/j/95354498779?pwd=QnB3MlNwVVIxR2ZLdUF6YS9UVFY2Zz09)
+
+
 *Speaker:* **Tere M-Seara** (Universitat Politècnica de Catalunya),
 
 *Title:* ***Unstable motions in the Three Body Problem***
