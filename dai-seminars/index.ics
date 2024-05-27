@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Tanja I. Schindler 'TBA' - Jon Aaronson 'Open problems in Infinite Ergodic Theory'
+UID:2024-05-26 17:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240526T173900
+
+DTSTART:20240605T160000
+
+
+DTEND:20240605T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2024-06-schindler-aaronson/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Tere M-Seara 'Unstable motions in the Three Body Problem' - Jaime Paradela Diaz 'Homoclinic tangencies of parabolic saddles and Newhouse domains in Celestial Mechanics'
 UID:2024-05-01 12:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
