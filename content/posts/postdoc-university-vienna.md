@@ -1,7 +1,6 @@
 +++
 categories = ["news", "open-positions"]
 date = "2024-05-27 17:00:00"
-tags = []
 title = "Postdoc position at University of Vienna"
 +++
 
