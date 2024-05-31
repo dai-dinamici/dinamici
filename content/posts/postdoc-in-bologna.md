@@ -5,7 +5,7 @@ title = "Postdoc position in Bologna"
 +++
 
 [Università di Bologna](https://www.unibo.it/en/homepage) has opened a call for a one-year 
-postdoc position on *"Stochastic properties of dynamical systems"*. The position carries 
+postdoctoral position on *"Stochastic properties of dynamical systems"*. The position carries 
 a yearly salary of about 26000 euros (after taxes, before social security withholding). 
 The expected starting date is *September 1, 2024*.
 
