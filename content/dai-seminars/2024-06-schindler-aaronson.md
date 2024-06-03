@@ -2,7 +2,7 @@
 affiliation = ["Jagiellonian University, Krakow", "Tel Aviv University"]
 categories = ["dai-seminar"]
 date = "2024-05-26 17:39:00"
-zoom = ""
+zoom = "https://univ-lille-fr.zoom.us/j/96002540652?pwd=OG9HM3VyOENkVGxRZnNmYzYwVWZQUT09"
 outputs = ["HTML", "Calendar"]
 seminar = ["Properties and limit laws of dynamical systems with two infinite components", "Open problems in Infinite Ergodic Theory"]
 speaker = ["Tanja I. Schindler", "Jon Aaronson"]
