@@ -89,6 +89,13 @@
     "surname": "Baù"
   },
   {
+    "path": "images/bazzani.jpg",
+    "name": "Armando",
+    "description": "Università di Bologna",
+    "umi": false,
+    "surname": "Bazzani"
+  },
+  {
     "path": "wp-content/WP_20150624_19_05_07_Pro-e1488478879205.jpg",
     "name": "Gabriele",
     "description": "I am a research assistant at the University of Leipzig in the Differential Geometry group. I graduated at the University of Pisa in 2011 under the supervision of Prof. Abbondandolo and got my PhD at the University of Cambridge with Prof. G. Paternain in 2014. Before coming to Leipzig I was post-doc for two years at the University of Münster. I am interested in proving the existence of periodic solutions of Lagrangian and Hamiltonian systems on smooth manifolds. An interesting class of examples arises when trying to describe the motion of a charged particle on a closed surface under the influence of a stationary magnetic field.",
@@ -700,6 +707,12 @@
     "description": "Università di Roma Tre",
     "umi": true,
     "surname": "Tedeschini Lalli"
+  },
+  {
+    "path": "images/default-profile.svg",
+    "name": "Damien",
+    "description": "Paris-Saclay University",
+    "surname": "Thomine"
   },
   {
     "path": "images/default-profile.svg",
