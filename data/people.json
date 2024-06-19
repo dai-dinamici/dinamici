@@ -530,7 +530,6 @@
   {
     "path": "wp-content/fbprofile.jpg",
     "name": "Milton",
-    "description": "Currently postdoc at Aix-Marseille Université.PhD in Austria and originary from Torino.",
     "surname": "Minervino"
   },
   {
@@ -540,8 +539,12 @@
   },
   {
     "path": "images/default-profile.svg",
+    "name": "Pietro",
+    "surname": "Monticone"
+  },
+  {
+    "path": "images/default-profile.svg",
     "name": "Sara",
-    "description": "Postdoctoral researcher at the University of Pisa. Previously at Bologna,  York, Bristol and  Bremen. I obtained my PhD from the University of St Andrews, Scotland in 2011.",
     "surname": "Munday"
   },
   {
