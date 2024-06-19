@@ -3,6 +3,7 @@ affiliation = ["Universitat Politècnica de Catalunya", "University of Maryland"
 categories = ["dai-seminar"]
 date = "2024-05-01 12:39:00"
 end = "2024-05-08 18:00:00"
+zoom = "https://univ-lille-fr.zoom.us/j/95354498779?pwd=QnB3MlNwVVIxR2ZLdUF6YS9UVFY2Zz09"
 outputs = ["HTML", "Calendar"]
 seminar = ["Unstable motions in the Three Body Problem", "Homoclinic tangencies of parabolic saddles and Newhouse domains in Celestial Mechanics"]
 speaker = ["Tere M-Seara", "Jaime Paradela Diaz"]

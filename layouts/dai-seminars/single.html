@@ -18,6 +18,8 @@
     {{- partial "post_toc.html" . -}}
 
     <div class="content post__content clearfix">
+      {{ if .Params.zoom }}<p><a href="{{ .Params.zoom }}">Zoom link: {{ .Params.zoom }}</a>{{ end }}<br /></p>
+            
       {{ if .Params.speaker }}
         <style>
           .abstract {
@@ -57,6 +59,7 @@
           {{ dateFormat "Mon, 02 Jan 2006 15:04:05 MST" .Params.start }} -
         {{ end }}
         {{ if .Params.location }}{{ .Params.location }}{{ else }}TBA{{ end }}<br />
+        {{ if .Params.zoom }}<a href="{{ .Params.zoom }}">Zoom link: {{ .Params.zoom }}</a>{{ end }}<br />
         {{ $p := .Params }}
         {{ if eq $type "string" }}
           {{ $start := dateFormat "20060102T150405" .Params.start }}
