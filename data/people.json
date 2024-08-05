@@ -968,7 +968,7 @@
     "umi": false,
     "path": "images/helder_vilarinho.jpg",
     "affiliation": "Universidade da Beira Interior, Portugal",
-    "homepage": "www.helder.ubi.pt"
+    "homepage": "https://www.helder.ubi.pt"
   },
   {
     "name": "Denis Volk",
@@ -979,7 +979,9 @@
   {
     "name": "Federico Zadra",
     "umi": false,
-    "path": "images/default-profile.svg"
+    "path": "images/default-profile.svg",
+    "affiliation": "Antwerp University",
+    "homepage": "https://sites.google.com/view/fzadra/home"
   },
   {
     "name": "Marta Zoppello",
