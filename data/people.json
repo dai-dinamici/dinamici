@@ -1,780 +1,989 @@
 [
   {
-    "path": "images/default-profile.svg",
-    "name": "Marco",
+    "name": "Marco Abate",
     "umi": true,
-    "surname": "Abate"
+    "path": "images/marco_abate.jpg",
+    "affiliation": "Universit\u00e0 di Pisa and Universit\u00e0 degli Studi Guglielmo Marconi",
+    "homepage": "http://pagine.dm.unipi.it/abate"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Simonetta",
-    "surname": "Abenda"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Andrei",
-    "description": "SISSA, Trieste",
-    "surname": "Agrachev"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Romain",
-    "description": "Post-doc at the University of Porto",
-    "surname": "Aimino"
-  },
-  {
-    "path": "wp-content/red-cocktail-party-dresses-beads-sheath-sweetheart.jpg",
-    "name": "Jaber",
-    "description": "M.sc in Pure Mathematics (Geometry) and interested in different aspects of Geometry and Dynamical Systems.",
-    "surname": "Akbari"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Daniele",
-    "description": "Università di Firenze",
-    "surname": "Angella"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Marianna",
-    "surname": "Angiolelli",
-    "umi": true
-  },
-  {
-    "path": "wp-content/DSC_0433.jpg",
-    "name": "Leandro",
-    "description": "Università di Roma \"Tor Vergata\"",
-    "umi": true,
-    "surname": "Arosio"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Mauro",
-    "description": "https://m-artigiani.github.io/",
-    "surname": "Artigiani"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Roberto",
-    "description": "Università dell'Insubria",
-    "umi": true,
-    "surname": "Artuso"
-  },
-  {
-    "path": "images/ayreena-bakhtawar.jpg",
-    "name": "Ayreena",
-    "surname": "Bakhtawar",
-    "description": "Post-doc at Scuola Normale Superiore di Pisa, Italy \n\n https://sites.google.com/view/abakhtawar"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Sajjad",
-    "surname": "Bakrani"
-  },
-  {
-    "path": "images/baranzini.jpeg",
-    "name": "Stefano",
-    "surname": "Baranzini",
-    "description": "Università di Torino"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Vivina",
-    "surname": "Barutello"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Giulio",
-    "umi": true,
-    "surname": "Baù"
-  },
-  {
-    "path": "images/bazzani.jpg",
-    "name": "Armando",
-    "description": "Università di Bologna",
+    "name": "Simonetta Abenda",
     "umi": false,
-    "surname": "Bazzani"
+    "path": "images/default-profile.svg"
   },
   {
-    "path": "wp-content/WP_20150624_19_05_07_Pro-e1488478879205.jpg",
-    "name": "Gabriele",
-    "description": "I am a research assistant at the University of Leipzig in the Differential Geometry group. I graduated at the University of Pisa in 2011 under the supervision of Prof. Abbondandolo and got my PhD at the University of Cambridge with Prof. G. Paternain in 2014. Before coming to Leipzig I was post-doc for two years at the University of Münster. I am interested in proving the existence of periodic solutions of Lagrangian and Hamiltonian systems on smooth manifolds. An interesting class of examples arises when trying to describe the motion of a charged particle on a closed surface under the influence of a stationary magnetic field.",
+    "path": "images/default-profile.svg",
+    "name": "Andrei Agrachev",
+    "affiliation": "SISSA, Trieste",
+    "umi": false
+  },
+  {
+    "name": "Romain Aimino",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Jaber Akbari",
+    "umi": false,
+    "path": "wp-content/red-cocktail-party-dresses-beads-sheath-sweetheart.jpg"
+  },
+  {
+    "name": "Daniele Angella",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Marianna Angiolelli",
     "umi": true,
-    "surname": "Benedetti"
+    "path": "images/default-profile.svg"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Anna Miriam",
-    "description": "Università Tor Vergata di Roma",
+    "name": "Leandro Arosio",
     "umi": true,
-    "surname": "Benini"
+    "path": "wp-content/DSC_0433.jpg"
   },
   {
-    "path": "wp-content/IMG_8573-posta.jpeg",
-    "name": "Olga",
-    "description": "Università di Padova",
+    "name": "Mauro Artigiani",
+    "umi": false,
+    "path": "images/mauro_artigiani.jpg",
+    "affiliation": "Universidad del Rosario",
+    "homepage": "https://m-artigiani.github.io/"
+  },
+  {
+    "name": "Roberto Artuso",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 degli Studi dell'Insubria"
+  },
+  {
+    "name": "Ayreena Bakhtawar",
+    "umi": false,
+    "path": "images/ayreena_bakhtawar.jpg",
+    "affiliation": "Scuola Normale Superiore, Pisa",
+    "homepage": "https://sites.google.com/view/abakhtawar"
+  },
+  {
+    "name": "Sajjad Bakrani",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "University of S\u00e3o Paulo"
+  },
+  {
+    "name": "Shilpak Banerjee ",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Indian Institute of Technology Tirupati "
+  },
+  {
+    "name": "Stefano Baranzini",
+    "umi": false,
+    "path": "images/stefano_baranzini.jpg",
+    "affiliation": "Universit\u00e0 di Torino"
+  },
+  {
+    "name": "Vivina Barutello",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Armando Bazzani",
+    "umi": false,
+    "path": "images/armando_bazzani.png",
+    "affiliation": "Department of Physics and Astronomy - Bologna University",
+    "homepage": "https://www.unibo.it/sitoweb/armando.bazzani"
+  },
+  {
+    "name": "Giulio Ba\u00f9",
     "umi": true,
-    "surname": "Bernardi"
+    "path": "images/giulio_bau.jpg",
+    "affiliation": "University of Pisa",
+    "homepage": "http://adams.dm.unipi.it/~bau/"
   },
   {
-    "path": "wp-content/Ale-2.jpg",
-    "name": "Alessandra",
-    "description": "Università di Padova",
-    "surname": "Bianchi"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Fabrizio",
-    "description": "CNRS - Université de Lille",
+    "name": "Gabriele Benedetti",
     "umi": true,
-    "surname": "Bianchi"
+    "path": "wp-content/WP_20150624_19_05_07_Pro-e1488478879205.jpg"
   },
   {
-    "path": "wp-content/13239193_10153997418490081_1877687976007354735_n.jpg",
-    "name": "Claudio",
-    "description": "Università di Pisa \n\n https://pagine.dm.unipi.it/bonanno/",
+    "name": "Anna Miriam Benini",
+    "umi": false,
+    "path": "images/anna_miriam_benini.jpg",
+    "affiliation": "University of Parma"
+  },
+  {
+    "name": "Olga Bernardi",
     "umi": true,
-    "surname": "Bonanno"
+    "path": "wp-content/IMG_8573-posta.jpeg"
   },
   {
-    "path": "wp-content/photoid.jpg",
-    "name": "Alexandre",
-    "description": "Sono ricercatore (maître de conférence) a l'Università di Lione (Francia) in Dinamica&amp;PDE stocastici. Adesso faccio anché un po di sisteme di particelle.",
-    "surname": "Boritchev"
-  },
-  {
+    "name": "Tangue Ndawa Bertuel",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Filippo",
+    "affiliation": "University of Ngaoundere"
+  },
+  {
+    "name": "Fabrizio Bianchi",
     "umi": true,
-    "surname": "Bracci"
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 di Pisa",
+    "homepage": "https://people.cs.dm.unipi.it/bianchi/"
   },
   {
-    "path": "wp-content/bufetov.jpg",
-    "name": "Alexander",
-    "description": "Aix-Marseille Université",
-    "surname": "Bufetov"
+    "name": "Alessandra Bianchi",
+    "umi": false,
+    "path": "wp-content/Ale-2.jpg"
   },
   {
-    "path": "wp-content/oliver-e1463738486695.jpg",
-    "name": "Oliver",
-    "description": "Mathematics section of The Abdus Salam International Centre for Theoretical Physics (ICTP).",
-    "surname": "Butterley"
-  },
-  {
-    "path": "wp-content/ec.jpg",
-    "name": "Emanuele",
-    "description": "Sapienza Università di Roma",
+    "name": "Irene De Blasi",
     "umi": true,
-    "surname": "Caglioti"
+    "path": "images/irene_de_blasi.jpg",
+    "affiliation": "University of Turin",
+    "homepage": "https://sites.google.com/view/irenedeblasi?pli=1"
   },
   {
-    "path": "wp-content/gc.jpeg",
-    "name": "Giovanni",
-    "description": "Student at Università di Bologna",
-    "surname": "Canestrari"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Franco",
+    "name": "Claudio Bonanno",
     "umi": true,
-    "surname": "Cardin"
-  },
-  {
-    "path": "wp-content/14358738_10209321284143599_6011498606807990719_n.jpg",
-    "name": "Giulia",
-    "description": "PhD Candidate at Mathematics of Planet Earth Doctoral Center, University of Reading, Imperial College London.Project focusing on ergodic properties and response theory for models in geophysical fluid dynamics of intermediate complexity (NS 2D, QG, MAOOAM)",
-    "surname": "Carigi"
-  },
-  {
     "path": "images/default-profile.svg",
-    "name": "Carlo",
-    "description": "Dipartimento di Matematica -- Università di Pisa  https://arxiv.org/find/math/1/au:+Carminati_C/0/1/0/all/0/1",
+    "affiliation": "Universit\u00e0 di Pisa",
+    "homepage": "http://pagine.dm.unipi.it/bonanno/"
+  },
+  {
+    "name": "Alexandre Boritchev",
+    "umi": false,
+    "path": "wp-content/photoid.jpg"
+  },
+  {
+    "name": "Filippo Bracci",
     "umi": true,
-    "surname": "Carminati"
+    "path": "images/filippo_bracci.jpg",
+    "affiliation": "Roma Tor Vergata",
+    "homepage": "https://www.mat.uniroma2.it/~fbracci/"
   },
   {
+    "name": "Maura Brunetti",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Pablo D.",
-    "surname": "Carrasco"
+    "affiliation": "University of Geneva"
   },
   {
+    "name": "Maura Brunetti",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Roberto",
-    "surname": "Castorrini"
+    "affiliation": "University of Geneva",
+    "homepage": "https://www.unige.ch/gap/nonlinear/people/brunetti-maura"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Alessandra",
-    "description": "Politecnico di Torino",
-    "surname": "Cauli"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Tullio",
-    "surname": "Ceccherini-Silberstein"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Francesco",
-    "description": "https://sites.google.com/view/fcellaro/cv",
-    "surname": "Cellarosi"
-  },
-  {
-    "path": "wp-content/Lagrangian_points_equipotential.gif",
-    "name": "Alessandra",
-    "description": "See https://www.mat.uniroma2.it/celletti/curriculum.html \n\n https://www.mat.uniroma2.it/celletti/articoli.html",
-    "surname": "Celletti"
-  },
-  {
-    "path": "wp-content/me_lakelouise-2.jpg",
-    "name": "Anna Maria",
-    "description": "Department of Mathematics and Physics, University of Salento, Italy.",
+    "name": "Anna Giordano Bruno",
     "umi": true,
-    "surname": "Cherubini"
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 di Udine"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Imen",
-    "surname": "Chouari"
+    "name": "Alexander Bufetov",
+    "umi": false,
+    "path": "wp-content/bufetov.jpg"
   },
   {
+    "name": "Oliver Butterley",
+    "umi": false,
+    "path": "images/oliver_butterley.jpg",
+    "affiliation": "University of Rome Tor Vergata",
+    "homepage": "https://www.mat.uniroma2.it/butterley/"
+  },
+  {
+    "name": "Mats Bylund",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Giampaolo",
-    "description": "Università di Bologna",
+    "affiliation": "Universit\u00e9 Paris-Saclay"
+  },
+  {
+    "name": "Emanuele Caglioti",
     "umi": true,
-    "surname": "Cristadoro"
+    "path": "wp-content/ec.jpg"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Alberto",
-    "surname": "D'Onofrio"
+    "name": "Giovanni Canestrari",
+    "umi": false,
+    "path": "wp-content/gc.jpeg"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Irene",
-    "surname": "De Blasi"
+    "name": "Chiara Caracciolo",
+    "umi": false,
+    "path": "images/chiara_caracciolo.jpg",
+    "affiliation": "Universit\u00e0 degli studi di Padova",
+    "homepage": "https://sites.google.com/view/chiaracaracciolo/home"
   },
   {
-    "path": "wp-content/mirko.jpg",
-    "name": "Mirko",
-    "description": "Università di Bologna",
-    "surname": "Degli Esposti"
-  },
-  {
-    "path": "wp-content/delmagno.jpg",
-    "name": "Gianluigi",
-    "description": "Universidade Federal da Bahia",
-    "surname": "Del Magno"
-  },
-  {
-    "path": "wp-content/Alessio.jpg",
-    "name": "Alessio",
-    "description": "Dipartimento di Matematica, Università di Pisa - Space Dynamics Services",
-    "surname": "Del Vigna"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Alessandro",
-    "description": "Università degli Studi di Camerino",
-    "surname": "Della Corte"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Mark",
-    "surname": "Demers"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Sara",
-    "description": "Università di Padova",
+    "name": "Franco Cardin",
     "umi": true,
-    "surname": "Di Ruzza"
+    "path": "images/franco_cardin.jpg",
+    "affiliation": "Dipartimento di Matematica \"Tullio Levi-Civita\", Padova",
+    "homepage": "https://www.math.unipd.it/~cardin/"
   },
   {
-    "path": "wp-content/Foto.jpg",
-    "name": "Serena",
-    "description": "University of Western Australia",
-    "surname": "Dipierro"
+    "name": "Giulia Carigi",
+    "umi": false,
+    "path": "wp-content/14358738_10209321284143599_6011498606807990719_n.jpg"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Maximilian",
-    "surname": "Engel"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Peyman",
-    "description": "I am currenltly a postdoc at the University of Warwick. Before that I was a postdoc in Roma \"Tor Vergata\".",
-    "surname": "Eslami"
-  },
-  {
-    "path": "wp-content/2015-08-17-21.48.01-1.jpg",
-    "name": "Roberta",
-    "description": "Università di Firenze",
-    "surname": "Fabbri"
-  },
-  {
-    "path": "wp-content/07d1615.jpg",
-    "name": "Djiby",
-    "description": "I am currently a senior lecturer of mathematics at NYU Abu Dhabi. My research interests are in the longtime dynamics of PDEs mainly wave equations in unbouded domains. I am also interested in stochastic models in finance and insurance.",
-    "surname": "Fall"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Francesco",
-    "surname": "Fassò"
-  },
-  {
-    "path": "wp-content/aaa.jpg",
-    "name": "Anna",
-    "description": "PhD student at the University of Avignon (France).",
+    "name": "Carlo Carminati",
     "umi": true,
-    "surname": "Florio"
+    "path": "images/default-profile.svg"
   },
   {
-    "path": "wp-content/ffrascoli.jpg",
-    "name": "Federico",
-    "description": "Senior Lecturer at Swinburne University of Technology, in Melbourne. I am interested in applied bifurcation theory, mathematical biology and nonequilibrium statistical mechanics.",
-    "surname": "Frascoli"
+    "name": "Pablo D. Carrasco",
+    "umi": false,
+    "path": "images/default-profile.svg"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Stefano",
-    "description": "Professore Associato. Università di Pisa.",
+    "name": "Roberto Castorrini",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Alessandra Cauli",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Tullio Ceccherini-Silberstein",
+    "umi": false,
+    "path": "images/tullio_ceccherini-silberstein.jpg",
+    "affiliation": "Universita' del Sannio (Benevento)",
+    "homepage": "https://sites.google.com/view/tulliocs/homepage"
+  },
+  {
+    "name": "Francesco Cellarosi",
+    "umi": false,
+    "path": "images/cellarosi.jpg"
+  },
+  {
+    "name": "Alessandra Celletti",
     "umi": true,
-    "surname": "Galatolo"
+    "path": "images/alessandra_celletti.jpg",
+    "affiliation": "University of Rome Tor Vergata",
+    "homepage": "https://www.mat.uniroma2.it/~celletti/"
   },
   {
+    "name": "Nishant Chandgotia",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Daniele",
-    "description": "PhD student-Università di Bologna",
+    "affiliation": "Tata Institute of Fundamental Research - Centre for Applicable Mathematics",
+    "homepage": "https://nishantchandgotia.github.io/"
+  },
+  {
+    "name": "Anna Maria Cherubini",
     "umi": true,
-    "surname": "Galli"
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 del Salento",
+    "homepage": "https://www.unisalento.it/scheda-utente/-/people/anna.cherubini"
   },
   {
-    "path": "wp-content/IMG-20170107-WA0002.jpg",
-    "name": "Michele",
-    "description": "Università della Calabria,PhD Université de Provence (nowadays AMU) &amp; Università di Bologna. Research interests: Stochastic Processes and Random Fields with application to classical and quantum, equilibrium and non-equilibrium Statistical Mechanics, Interacting Particle Systems, Multi-Agent Dynamics, Mathematical Modeling of Disordered Media and Climate Systems.",
+    "name": "Imen Chouari",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Julia Codas",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "PhD Student at University of S\u00e3o Paulo "
+  },
+  {
+    "name": "Alessandro Della Corte",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 degli studi di Camerino "
+  },
+  {
+    "name": "Giampaolo Cristadoro",
     "umi": true,
-    "surname": "Gianfelice"
+    "path": "images/default-profile.svg"
   },
   {
-    "path": "wp-content/thomas19072012.jpg",
-    "name": "Thomas",
-    "description": "Thomas Gilbert holds a double position as a Chercheur Qualifié with F.R.S.- FNRS, Belgium (the equivalent of Consiglio Nazionale delle Ricerche, Italy) and as a Scientific Collaborator at the Université Libre de Bruxelles (ULB), where he is a permanent member of the Center for Nonlinear Phenomena and Complex Systems and teaches at the Physics Department in the fields of the physics of complex systems and stochastic processes.",
-    "surname": "Gilbert"
+    "name": "Alberto D'onofrio",
+    "umi": false,
+    "path": "images/default-profile.svg"
   },
   {
+    "name": "Karma Dajani",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Paolo",
-    "surname": "Giulietti",
-    "umi": true
+    "affiliation": "Utrecht University",
+    "homepage": "https://webspace.science.uu.nl/~kraai101/"
   },
   {
+    "name": "Mark Demers",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Eddaly",
-    "surname": "Guerra-Velasco"
+    "affiliation": "Fairfield University",
+    "homepage": "http://faculty.fairfield.edu/mdemers/"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Nicola",
-    "surname": "Guglielmi",
-    "umi": true
+    "name": "Serena Dipierro",
+    "umi": false,
+    "path": "wp-content/Foto.jpg"
   },
   {
+    "name": "Maximilian Engel",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Peyman Eslami",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Mirko Degli Esposti",
+    "affiliation": "Universit\u00e0 degli Studi di Bologna",
+    "umi": false,
+    "path": "wp-content/mirko.jpg"
+  },
+  {
+    "name": "Roberta Fabbri",
+    "umi": false,
+    "path": "wp-content/2015-08-17-21.48.01-1.jpg"
+  },
+  {
+    "name": "Djiby Fall",
+    "umi": false,
+    "path": "wp-content/07d1615.jpg"
+  },
+  {
+    "name": "Francesco Fass\u00f2",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Livio Flaminio",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Emanuele",
+    "affiliation": "University of Lille"
+  },
+  {
+    "name": "Anna Florio",
     "umi": true,
-    "surname": "Haus"
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e9 Paris Dauphine - PSL"
   },
   {
+    "name": "Federico Frascoli",
+    "umi": false,
+    "path": "wp-content/ffrascoli.jpg"
+  },
+  {
+    "name": "Sara Galasso",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 di Padova"
+  },
+  {
+    "name": "Stefano Galatolo",
+    "umi": true,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Daniele Galli",
+    "umi": true,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Michele Gianfelice",
+    "umi": true,
+    "path": "images/michele_gianfelice.jpg",
+    "affiliation": "University of Calabria, Department of Mathematics and Computer Science ",
+    "homepage": "https://www.mat.unical.it/~gianfelice/"
+  },
+  {
+    "name": "Thomas Gilbert",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e9 Libre de Bruxelles"
+  },
+  {
+    "name": "Paolo Giulietti",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 di Pisa"
+  },
+  {
+    "name": "Francesca Grassetti ",
+    "umi": false,
+    "path": "images/francesca_grassetti.jpg",
+    "affiliation": "Universit\u00e0 degli Studi di Urbino Carlo Bo",
+    "homepage": "https://www.researchgate.net/profile/Francesca-Grassetti"
+  },
+  {
+    "name": "Eddaly Guerra-Velasco",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Nicola Guglielmi",
+    "umi": true,
+    "path": "images/nicola_guglielmi.png",
+    "affiliation": "Gran Sasso Science Institute",
+    "homepage": "https://www.gssi.it/people/professors/lectures-maths/item/545-guglielmi-nicola"
+  },
+  {
+    "name": "Emanuele Haus",
+    "umi": true,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Thao Thuan Vu Ho",
+    "umi": false,
+    "path": "images/thao_thuan_vu_ho.jpg",
+    "affiliation": "Monash University",
+    "homepage": "https://www.researchgate.net/profile/Thao-Thuan-Vu-Ho"
+  },
+  {
+    "name": "Isidoros Iakovidis",
+    "umi": false,
     "path": "images/iakovidis.jpg",
-    "name": "Isidoros",
-    "description": "Università di Bologna",
-    "surname": "Iakovidis"
+    "affiliation": "University of Bologna",
+    "homepage": "https://www.unibo.it/sitoweb/isidoros.iakovidis2/en"
   },
   {
-    "path": "wp-content/IMG_4409.jpg",
-    "name": "Shamsa",
-    "description": "I am a doctoral student in Ergodic Theory from ASSMS, GC University Lahore.",
-    "surname": "Ishaq"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Stefano",
-    "description": "University of Camerino (Italy)",
-    "surname": "Isola"
-  },
-  {
-    "path": "wp-content/20314666_1433616590093093_550944191_o.jpg",
-    "name": "Tahar",
-    "description": "I am Assistant professor in applied mathematics at University of Sousse. My field of research is control theory and dynamical systems.",
-    "surname": "Khalifa"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Niloofar",
-    "surname": "Kiamari"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Georgie",
-    "description": "University of Bristol",
-    "surname": "Knight"
-  },
-  {
-    "path": "wp-content/IMG-20180227-WA0007.jpg",
-    "name": "Comlan Edmond",
-    "description": "Post doc at Roma Tre University",
-    "surname": "Koudjinan"
-  },
-  {
-    "path": "wp-content/zdjęcie1-—-kopia.jpg",
-    "name": "Hieronim",
-    "description": "PhD student at the AGH University of Science and Technology. Research intrests are topological and geometrical aspects of dynamical systems.",
-    "surname": "Kubica"
-  },
-  {
-    "path": "wp-content/crop3.jpg",
-    "name": "Marco",
-    "description": "Università di Bologna",
-    "umi": true,
-    "surname": "Lenci"
-  },
-  {
-    "path": "wp-content/liverani.jpg",
-    "name": "Carlangelo",
-    "description": "Università di Roma Tor Vergata\n\nhome page:  https://www.mat.uniroma2.it/~liverani/ \n\ngoogle scholar page:  https://scholar.google.com/citations?user=WhaV9vAAAAAJ \n\norcid page:  https://orcid.org/0000-0001-8683-4871",
-    "umi": true,
-    "surname": "Liverani"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Iacopo",
-    "surname": "Longo"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Stefano",
-    "description": "ICTP",
-    "umi": true,
-    "surname": "Luzzatto"
-  },
-  {
-    "path": "wp-content/FullSizeRender2.jpg",
-    "name": "Marta",
-    "description": "Universiteit Leiden, The Netherlands",
-    "surname": "Maggioni"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Chiara Cecilia",
-    "surname": "Maiocchi"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Giorgio",
-    "description": "Professor of Mathematical Physics at Università dell'Insubria, Como",
-    "surname": "Mantica"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Luigi",
-    "surname": "Marangio"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Luca",
-    "description": "Maître de conférences Université Paris 13",
-    "surname": "Marchese"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Stefano",
-    "description": "Scuola Normale Superiore, Pisa",
-    "surname": "Marmi"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Stefano",
-    "description": "Researcher at University of Pisa",
-    "surname": "Marò"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Leonardo",
-    "surname": "Masci"
-  },
-  {
-    "path": "wp-content/Me2.jpg",
-    "name": "Alberto",
-    "description": "Postdoc ResearcherDepartment of Mathematics \"Jean Leray\" (LMJL)University of Nantes",
-    "surname": "Maspero"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Guido",
-    "surname": "Mazzuca"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Marco",
-    "description": "PhD student in \"Mathematics, Physics and Applications for Engineering\" at \"Università degli Studi della Campania, L. Vanvitelli\".I work in mathematical physics, in particular I study complex systems using the description of the kinetic theory.",
-    "surname": "Menale"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Cristian",
-    "surname": "Mendico"
-  },
-  {
-    "path": "wp-content/fbprofile.jpg",
-    "name": "Milton",
-    "surname": "Minervino"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Maurizio",
-    "surname": "Monge"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Pietro",
-    "surname": "Monticone"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Sara",
-    "surname": "Munday"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Mimma",
-    "description": "Postdoctoral researcher at University of Pisa",
-    "surname": "Nardelli"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Isaia",
-    "surname": "Nisoli"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Simone",
-    "description": "University of Milano",
-    "umi": true,
-    "surname": "Paleari"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Liviana",
-    "surname": "Palmisano"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Roberto",
-    "surname": "Paoli"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Françoise",
-    "description": "Université de Brest\n\nhome page:  http://lmba.math.univ-brest.fr/perso/francoise.pene/",
-    "surname": "Pène"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Gabriella",
-    "surname": "Pinzari"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Habibeh",
-    "surname": "Pourmand"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Gaia",
-    "description": "Ph.D. Student at Università degli Studi dell'Insubria",
-    "surname": "Pozzoli"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Giuseppe",
-    "description": "Università di Roma Tor Vergata",
-    "surname": "Pucacco"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Jasmin",
-    "description": "https://www.math.univ-toulouse.fr/~jraissy/",
-    "umi": true,
-    "surname": "Raissy"
-  },
-  {
-    "path": "wp-content/pic6.jpg",
-    "name": "Davide",
-    "description": "Ph.D. Student at the University of Bristol",
-    "surname": "Ravotti"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Matteo",
-    "surname": "Ruggiero"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Luciana",
-    "surname": "Salgado"
-  },
-  {
-    "path": "wp-content/Foto_1.png",
-    "name": "Nicola",
-    "surname": "Sansonetto"
-  },
-  {
-    "path": "wp-content/fototessera_sansottera-1.jpg",
-    "name": "Marco",
-    "description": "See my webpage https://www.mat.unimi.it/users/sansotte/",
-    "surname": "Sansottera"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "David",
-    "surname": "Sauzin"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Tanja I.",
-    "umi": true,
-    "surname": "Schindler"
-  },
-  {
-    "path": "wp-content/seri-photo.jpg",
-    "name": "Marcello",
-    "description": "Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, University of Groningen. \n\n Website: https://academic.mseri.me",
+    "name": "Shamsa Ishaq",
     "umi": false,
-    "surname": "Seri"
+    "path": "wp-content/IMG_4409.jpg"
   },
   {
-    "path": "wp-content/silvestri_stefano.jpg",
-    "name": "Stefano",
-    "description": "Instructor at Butler University. I have obtained my PhD from Indiana University Purdue University Indianapolis (IUPUI) with Dr. Rodrigo Perez.My research interests lie in holomorphic dynamics, iterated function systems, fractal geometry, symbolic dynamics, and ergodic theory.",
-    "surname": "Silvestri"
-  },
-  {
+    "name": "Stefano Isola",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Lucia",
-    "surname": "Simonelli"
+    "affiliation": "Universit\u00e0 di Camerino"
   },
   {
+    "name": "Sakshi Jain",
+    "umi": false,
+    "path": "images/sakshi_jain.jpg",
+    "affiliation": "Monash University",
+    "homepage": "https://sites.google.com/view/sakshijain-math"
+  },
+  {
+    "name": "Tahar Khalifa",
+    "umi": false,
+    "path": "wp-content/20314666_1433616590093093_550944191_o.jpg"
+  },
+  {
+    "name": "Niloofar Kiamari",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Georgie Knight",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Comlan Edmond Koudjinan",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Matteo",
-    "description": "I am Senior Lecturer in Applied Mathematics at the Department of Mathematics, Physics and Electrical Engineering of Northumbria University, Newcastle, UK. After an MSc in Physics from the University of Rome \"La Sapienza\", Italy, I earned a Phd in Mathematical Physics in 2005 from SISSA-ISAS, Trieste, Italy, with the thesis \"The transition from regular to irregular motions, explained as travel on Riemann surfaces\", under the supervision of Francesco Calogero.I research in the theory of dynamical systems and integrable systems. In the theory of dynamical systems, I am one of the proponents of a mechanism to explain complex dynamics by means of an associated Riemann surface. I am currently preparing a research proposal aimed at investigating the appearance of slow chaos for a circular flow on a compact Riemann surface. In the theory of integrable systems, I have worked on the mathematical models of 1- and 2-dimensional ferromagnetic systems at the nanometre length-scale, featuring uni-axial and bi-axial anisotropy, and on the problem of linear stability of scalar and multi-component, nonlinear partial differential equations of integrable type.",
-    "surname": "Sommacal"
+    "affiliation": "IST AUSTRIA "
   },
   {
-    "path": "wp-content/caricaturamarco.jpg",
-    "name": "Alfonso",
-    "description": "Università degli studi di Roma \"Tor Vergata\"",
+    "name": "Comlan Edmond Koudjinan",
+    "umi": false,
+    "path": "wp-content/IMG-20180227-WA0007.jpg"
+  },
+  {
+    "name": "Hieronim Kubica",
+    "umi": false,
+    "path": "wp-content/zdj\u0119cie1-\u2014-kopia.jpg"
+  },
+  {
+    "name": "Bhanu Kumar",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Heidelberg University",
+    "homepage": "https://bhanukumar314.github.io/"
+  },
+  {
+    "name": "Laura Tedeschini Lalli",
     "umi": true,
-    "surname": "Sorrentino"
+    "path": "images/laura_tedeschini_lalli.jpg",
+    "affiliation": "in quiescenza (retired)",
+    "homepage": "https://www.formulas.it"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Mikko",
-    "surname": "Stenlund"
-  },
-  {
-    "path": "wp-content/fjss-2010.jpg",
-    "name": "Fernando",
-    "surname": "Sánchez-Salas"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Bertuel",
-    "surname": "Tangue"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Matteo",
-    "surname": "Tanzi"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Emanuele",
-    "surname": "Tassi"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Laura",
-    "description": "Università di Roma Tre",
+    "name": "Marco Lenci",
     "umi": true,
-    "surname": "Tedeschini Lalli"
+    "path": "images/marco_lenci.jpg",
+    "affiliation": "Universit\u00e0 di Bologna",
+    "homepage": "https://www.unibo.it/sitoweb/marco.lenci/en"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Damien",
-    "description": "Paris-Saclay University",
-    "surname": "Thomine"
+    "name": "Davi Lima",
+    "umi": false,
+    "path": "images/davi_lima.jpg",
+    "affiliation": "Univeraidade Federal de Alagoas",
+    "homepage": "https://sigaa.sig.ufal.br/sigaa/public/docente/portal.jsf?siape=2362244"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Michele",
-    "description": "I am mostly interested in studying group actions on manifolds, from the point of view of dynamical systems. I am currently Maitre de conferences at University of Burgundy, Dijon (France).",
-    "surname": "Triestino"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Cesare",
-    "surname": "Tronci"
-  },
-  {
-    "path": "images/default-profile.svg",
-    "name": "Corinna",
-    "description": "Universität Zürich",
-    "surname": "Ulcigrai"
-  },
-  {
-    "path": "wp-content/Vaienti.jpg",
-    "name": "Sandro",
-    "description": "Centre de Physique Théorique, Luminy &amp; Université de Toulon",
+    "name": "Carlangelo Liverani",
     "umi": true,
-    "surname": "Vaienti"
+    "path": "images/carlangelo_liverani.jpg",
+    "affiliation": "Roma Tor Vergata",
+    "homepage": "https://www.mat.uniroma2.it/~liverani/"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Enrico",
-    "description": "Università di Milano",
-    "surname": "Valdinoci"
+    "name": "Iacopo Longo",
+    "umi": false,
+    "path": "images/default-profile.svg"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Paulo",
-    "description": "https://sites.google.com/view/paulovarandas/",
-    "surname": "Varandas"
+    "name": "Stefano Luzzatto",
+    "umi": true,
+    "path": "images/stefano_luzzatto.jpg",
+    "affiliation": "Abdus Salam International Centre for Theoretical Physics (ICTP)",
+    "homepage": "https://stefanoluzzatto.net"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Andrea",
-    "description": "Avignon Université",
-    "surname": "Venturelli"
+    "name": "Marta Maggioni",
+    "umi": false,
+    "path": "wp-content/FullSizeRender2.jpg"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Denis",
-    "description": "Università di Roma Tor Vergata",
-    "surname": "Volk"
+    "name": "Gianluigi Del Magno",
+    "umi": false,
+    "path": "wp-content/delmagno.jpg"
   },
   {
-    "path": "images/default-profile.svg",
-    "name": "Federico",
-    "description": "Bernoulli Institute, University of Groningen",
-    "surname": "Zadra"
+    "name": "Chiara Cecilia Maiocchi",
+    "umi": false,
+    "path": "images/default-profile.svg"
   },
   {
+    "name": "Giorgio Mantica",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Luigi Marangio",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Luca Marchese",
+    "umi": false,
     "path": "images/default-profile.svg",
-    "name": "Marta",
-    "description": "Università di Padova",
-    "surname": "Zoppello"
+    "affiliation": "Universit\u00e0 di Bologna",
+    "homepage": "Professore associato"
+  },
+  {
+    "name": "Stefano Marmi",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Scuola Normale Superiore",
+    "homepage": "https://www.sns.it/it/persona/stefano-marmi"
+  },
+  {
+    "name": "Neemias Martins",
+    "umi": false,
+    "path": "images/neemias_martins.png",
+    "affiliation": "PhD Candidate at University of Campinas, Brazil",
+    "homepage": "neemias.org"
+  },
+  {
+    "name": "Habib Marzougui",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "Faculty of Science of Bizerte"
+  },
+  {
+    "name": "Stefano Mar\u00f2",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universidad de Oviedo"
+  },
+  {
+    "name": "Leonardo Masci",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "RWTH Aachen"
+  },
+  {
+    "name": "Alberto Maspero",
+    "umi": false,
+    "path": "wp-content/Me2.jpg"
+  },
+  {
+    "name": "Guido Mazzuca",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Marco Menale",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Cristian Mendico",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Eugen Mihailescu",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Institute of Mathematics of the Romanian Academy",
+    "homepage": "www.imar.ro/~mihailes"
+  },
+  {
+    "name": "Milton Minervino",
+    "umi": false,
+    "path": "wp-content/fbprofile.jpg"
+  },
+  {
+    "name": "Maurizio Monge",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Pietro Monticone",
+    "umi": false,
+    "path": "images/pietro_monticone.png",
+    "affiliation": "University of Trento",
+    "homepage": "https://github.com/pitmonticone"
+  },
+  {
+    "name": "Sara Munday ",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "John Cabot University"
+  },
+  {
+    "name": "Mimma Nardelli",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Alessandra Nardi",
+    "umi": false,
+    "path": "images/alessandra_nardi.jpg",
+    "affiliation": "PhD student at Universit\u00e0 di Padova "
+  },
+  {
+    "name": "Isaia Nisoli",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Simone Paleari",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 degli Studi di Milano - Dipartimento di Matematica",
+    "homepage": "https://www.unimi.it/it/ugov/person/simone-paleari"
+  },
+  {
+    "name": "Liviana Palmisano",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Yi Pan",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Institute of Science and Technology Austria"
+  },
+  {
+    "name": "Roberto Paoli",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Francesca Di Patti",
+    "umi": true,
+    "path": "images/francesca_di_patti.png",
+    "affiliation": "Dipartimento di Matematica e Informatica, Universit\u00e0 degli Studi di Firenze"
+  },
+  {
+    "name": "Tiziano Penati",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Dipartimento di Matematica \"F.Enriques\" - Milano"
+  },
+  {
+    "name": "Gabriella Pinzari",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Habibeh Pourmand",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Gaia Pozzoli",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "CY Cergy Paris Universit\u00e9, Department of Mathematics, CNRS UMR 8088",
+    "homepage": "https://sites.google.com/view/gaiapozzoli"
+  },
+  {
+    "name": "Giuseppe Pucacco",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Fran\u00e7oise P\u00e8ne",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Jasmin Raissy",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "Institut de Math\u00e9matiques de Bordeaux, Universit\u00e9 de Bordeaux"
+  },
+  {
+    "name": "Davide Ravotti",
+    "umi": false,
+    "path": "images/davide_ravotti.jpg",
+    "affiliation": "CNRS",
+    "homepage": "https://davideravotti.github.io/"
+  },
+  {
+    "name": "Bruno Alexandre Rodrigues ",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "State University of Maring\u00e1 "
+  },
+  {
+    "name": "Jos\u00e9 Lamas Rodr\u00edguez",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universitat Polit\u00e8cnica de Catalunya"
+  },
+  {
+    "name": "\u00d3scar Rodr\u00edguez",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universitat Polit\u00e8cnica de Catalunya"
+  },
+  {
+    "name": "Mattia Rossi",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Department of Mathematics - University of Genoa"
+  },
+  {
+    "name": "Matteo Ruggiero",
+    "umi": false,
+    "path": "images/matteo_ruggiero.jpg",
+    "affiliation": "Universit\u00e9 Paris Cit\u00e9 - IMJ-PRG",
+    "homepage": "https://webusers.imj-prg.fr/~matteo.ruggiero/"
+  },
+  {
+    "name": "Marks Ruziboev ",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Institute of Mathematics, Uzbek Academy of Sciences",
+    "homepage": "https://sites.google.com/site/markruziboevspers/home"
+  },
+  {
+    "name": "Sara Di Ruzza",
+    "umi": true,
+    "path": "images/sara_di_ruzza.jpg",
+    "affiliation": "Universit\u00e0 di Palermo",
+    "homepage": "https://www.unipa.it/persone/docenti/d/sara.diruzza saradiruzza.com"
+  },
+  {
+    "name": "Luciana Salgado",
+    "umi": false,
+    "path": "images/luciana_salgado.jpg",
+    "affiliation": "Universidade Federal do Rio de Janeiro",
+    "homepage": "www.im.ufrj.br/~lsalgado"
+  },
+  {
+    "name": "Slade Sanderson",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Utrecht University",
+    "homepage": "sladesanderson.wordpress.com"
+  },
+  {
+    "name": "Nicola Sansonetto",
+    "umi": false,
+    "path": "wp-content/Foto_1.png"
+  },
+  {
+    "name": "Marco Sansottera",
+    "umi": false,
+    "path": "wp-content/fototessera_sansottera-1.jpg"
+  },
+  {
+    "name": "David Sauzin",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Tanja Schindler",
+    "umi": true,
+    "path": "images/tanja_schindler.jpg",
+    "affiliation": "Jagiellonian University in Krakow and University of Exeter",
+    "homepage": "https://tanja-schindler.github.io/"
+  },
+  {
+    "name": "Bob Senyange",
+    "umi": false,
+    "path": "images/bob_senyange.jpg",
+    "affiliation": "Muni University (Uganda)"
+  },
+  {
+    "name": "Marcello Seri",
+    "umi": false,
+    "path": "wp-content/seri-photo.jpg",
+    "affiliation": "University of Gronigen",
+    "homepage": "https://academic.mseri.me"
+  },
+  {
+    "name": "Liliana Sofia Garrido da Silva",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "CMUP, University of Porto, Portugal"
+  },
+  {
+    "name": "Stefano Silvestri",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "O-Lab s.r.l.s.",
+    "homepage": "https://silvestri.stefano.github.io"
+  },
+  {
+    "name": "Lucia Simonelli",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Matteo Sommacal",
+    "umi": false,
+    "path": "images/matteo_sommacal.jpg",
+    "affiliation": "Northumbria University",
+    "homepage": "https://www.northumbria.ac.uk/about-us/our-staff/s/matteo-sommacal/"
+  },
+  {
+    "path": "images/alfonso_sorrentino.jpg",
+    "name": "Alfonso Sorrentino",
+    "affiliation": "Universit\u00e0 degli studi di Roma \"Tor Vergata\"",
+    "umi": true
+  },
+  {
+    "name": "Mikko Stenlund",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Fernando S\u00e1nchez-salas",
+    "umi": false,
+    "path": "wp-content/fjss-2010.jpg"
+  },
+  {
+    "name": "Bertuel Tangue",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Matteo Tanzi",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Emanuele Tassi",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "CNRS Laboratoire Lagrange"
+  },
+  {
+    "name": "Damien Thomine",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Aditya Thorat",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Tata Institute of Fundamental Research - Centre for Applicable Mathematics"
+  },
+  {
+    "name": "Michele Triestino ",
+    "umi": false,
+    "path": "images/michele_triestino.jpg",
+    "affiliation": "Universit\u00e9 de Bourgogne",
+    "homepage": "https://mtriestino.perso.math.cnrs.fr/"
+  },
+  {
+    "name": "Cesare Tronci",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Corinna Ulcigrai",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Sandro Vaienti",
+    "umi": true,
+    "path": "wp-content/Vaienti.jpg"
+  },
+  {
+    "name": "Enrico Valdinoci",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Lorenzo Valvo",
+    "umi": false,
+    "path": "images/lorenzo_valvo.png"
+  },
+  {
+    "name": "Paulo Varandas",
+    "umi": false,
+    "path": "images/paulo_varandas.jpg",
+    "affiliation": "UFBA & FCT/CMUP",
+    "homepage": "https://sites.google.com/view/paulovarandas/"
+  },
+  {
+    "name": "Andrea Venturelli",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Paul Verschueren",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Imperial College, London, UK"
+  },
+  {
+    "name": "Alessio Del Vigna",
+    "umi": false,
+    "path": "wp-content/Alessio.jpg"
+  },
+  {
+    "name": "Helder Vilarinho",
+    "umi": false,
+    "path": "images/helder_vilarinho.jpg",
+    "affiliation": "Universidade da Beira Interior, Portugal",
+    "homepage": "www.helder.ubi.pt"
+  },
+  {
+    "name": "Denis Volk",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "homepage": "https://github.com/dsvolk"
+  },
+  {
+    "name": "Federico Zadra",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Marta Zoppello",
+    "umi": false,
+    "path": "images/default-profile.svg"
   }
 ]
