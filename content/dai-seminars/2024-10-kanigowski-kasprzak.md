@@ -7,7 +7,8 @@ speaker = ["Adam Kanigowski", "Kosma Kasprzak"]
 start = "2024-10-01 16:00:00" 
 end = "2024-10-01 18:00:00" 
 title = "Adam Kanigowski (University of Maryland) and Kosma Kasprzak (Jagiellonian University, Krakow)" 
-abstract = ["""tba""", """tba""" ] +++
+abstract = ["""tba""", """tba""" ]
++++
 
 Speaker: Adam Kanigowski (University of Maryland),
 
