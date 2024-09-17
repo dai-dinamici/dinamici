@@ -1,6 +1,8 @@
 +++
-affiliation = ["University of Maryland","Jagiellonian University, Krakow"] categories = ["dai-seminar"] 
-date = "2024-09-16 14:39:00" zoom = "" 
+affiliation = ["University of Maryland","Jagiellonian University, Krakow"]
+categories = ["dai-seminar"] 
+date = "2024-09-16 14:39:00"
+zoom = "" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["tba", "tba"] 
 speaker = ["Adam Kanigowski", "Kosma Kasprzak"] 
