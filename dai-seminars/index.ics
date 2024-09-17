@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Adam Kanigowski 'tba' - Kosma Kasprzak 'tba'
+UID:2024-09-16 14:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240916T143900
+
+DTSTART:20241001T160000
+
+
+DTEND:20241001T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2024-10-kanigowski-kasprzak/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Tanja I. Schindler 'Properties and limit laws of dynamical systems with two infinite components' - Jon Aaronson 'Open problems in Infinite Ergodic Theory'
 UID:2024-05-26 17:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
