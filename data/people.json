@@ -116,6 +116,12 @@
     "path": "wp-content/IMG_8573-posta.jpeg"
   },
   {
+    "name": "Nicola Bertozzi",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 di Pisa"
+  },
+  {
     "name": "Tangue Ndawa Bertuel",
     "umi": false,
     "path": "images/default-profile.svg",
@@ -907,6 +913,12 @@
     "umi": false,
     "path": "images/default-profile.svg",
     "affiliation": "Tata Institute of Fundamental Research - Centre for Applicable Mathematics"
+  },
+  {
+    "name": "Sharvari Tikekar",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 di Pisa"
   },
   {
     "name": "Michele Triestino ",
