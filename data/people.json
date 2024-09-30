@@ -917,8 +917,9 @@
   {
     "name": "Sharvari Tikekar",
     "umi": false,
-    "path": "images/default-profile.svg",
-    "affiliation": "Università di Pisa"
+    "path": "images/sharvari_tikekar.jpg",
+    "affiliation": "Università di Pisa",
+    "homepage": "https://sharvaritik.github.io/"
   },
   {
     "name": "Michele Triestino ",
