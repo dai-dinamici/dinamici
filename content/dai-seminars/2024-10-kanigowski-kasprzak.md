@@ -2,7 +2,7 @@
 affiliation = ["University of Maryland","Jagiellonian University, Krakow"]
 categories = ["dai-seminar"] 
 date = "2024-09-16 14:39:00"
-zoom = "" 
+zoom = "https://univ-lille-fr.zoom.us/j/95130093232?pwd=U8j4u1gjbR5Zqwcvrkp39gI0OrqE4o.1" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["Ergodic Theorems along sparse subsets of the integers", "Ergodicity along square orbits in rigid dynamical systems"] 
 speaker = ["Adam Kanigowski", "Kosma Kasprzak"] 
