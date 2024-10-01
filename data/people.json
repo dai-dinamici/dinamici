@@ -140,13 +140,6 @@
     "path": "wp-content/Ale-2.jpg"
   },
   {
-    "name": "Irene De Blasi",
-    "umi": true,
-    "path": "images/irene_de_blasi.jpg",
-    "affiliation": "University of Turin",
-    "homepage": "https://sites.google.com/view/irenedeblasi?pli=1"
-  },
-  {
     "name": "Claudio Bonanno",
     "umi": true,
     "path": "images/claudio_bonanno.jpg",
@@ -247,11 +240,6 @@
     "path": "images/default-profile.svg"
   },
   {
-    "name": "Alessandra Cauli",
-    "umi": false,
-    "path": "images/default-profile.svg"
-  },
-  {
     "name": "Tullio Ceccherini-Silberstein",
     "umi": false,
     "path": "images/tullio_ceccherini-silberstein.jpg",
@@ -296,12 +284,6 @@
     "affiliation": "PhD Student at University of S\u00e3o Paulo "
   },
   {
-    "name": "Alessandro Della Corte",
-    "umi": false,
-    "path": "images/default-profile.svg",
-    "affiliation": "Universit\u00e0 degli studi di Camerino "
-  },
-  {
     "name": "Giampaolo Cristadoro",
     "umi": true,
     "path": "images/default-profile.svg"
@@ -319,6 +301,35 @@
     "homepage": "https://webspace.science.uu.nl/~kraai101/"
   },
   {
+    "name": "Irene De Blasi",
+    "umi": true,
+    "path": "images/irene_de_blasi.jpg",
+    "affiliation": "University of Turin",
+    "homepage": "https://sites.google.com/view/irenedeblasi?pli=1"
+  },
+  {
+    "name": "Mirko Degli Esposti",
+    "affiliation": "Universit\u00e0 degli Studi di Bologna",
+    "umi": false,
+    "path": "wp-content/mirko.jpg"
+  },
+  {
+    "name": "Alessandro Della Corte",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 degli studi di Camerino "
+  },
+  {
+    "name": "Gianluigi Del Magno",
+    "umi": false,
+    "path": "wp-content/delmagno.jpg"
+  },
+  {
+    "name": "Alessio Del Vigna",
+    "umi": false,
+    "path": "wp-content/Alessio.jpg"
+  },
+  {
     "name": "Mark Demers",
     "umi": false,
     "path": "images/default-profile.svg",
@@ -326,9 +337,22 @@
     "homepage": "http://faculty.fairfield.edu/mdemers/"
   },
   {
+    "name": "Francesca Di Patti",
+    "umi": true,
+    "path": "images/francesca_di_patti.png",
+    "affiliation": "Dipartimento di Matematica e Informatica, Universit\u00e0 degli Studi di Firenze"
+  },
+  {
     "name": "Serena Dipierro",
     "umi": false,
     "path": "wp-content/Foto.jpg"
+  },
+  {
+    "name": "Sara Di Ruzza",
+    "umi": true,
+    "path": "images/sara_di_ruzza.jpg",
+    "affiliation": "Universit\u00e0 di Palermo",
+    "homepage": "https://www.unipa.it/persone/docenti/d/sara.diruzza saradiruzza.com"
   },
   {
     "name": "Maximilian Engel",
@@ -341,15 +365,9 @@
     "path": "images/default-profile.svg"
   },
   {
-    "name": "Mirko Degli Esposti",
-    "affiliation": "Universit\u00e0 degli Studi di Bologna",
-    "umi": false,
-    "path": "wp-content/mirko.jpg"
-  },
-  {
     "name": "Roberta Fabbri",
     "umi": false,
-    "path": "wp-content/2015-08-17-21.48.01-1.jpg"
+    "path": "images/roberta_fabbri.jpg"
   },
   {
     "name": "Djiby Fall",
@@ -487,13 +505,8 @@
   {
     "name": "Comlan Edmond Koudjinan",
     "umi": false,
-    "path": "images/default-profile.svg",
-    "affiliation": "IST AUSTRIA "
-  },
-  {
-    "name": "Comlan Edmond Koudjinan",
-    "umi": false,
-    "path": "wp-content/IMG-20180227-WA0007.jpg"
+    "path": "wp-content/IMG-20180227-WA0007.jpg",
+    "affiliation": "IST AUSTRIA"
   },
   {
     "name": "Hieronim Kubica",
@@ -551,11 +564,6 @@
     "name": "Marta Maggioni",
     "umi": false,
     "path": "wp-content/FullSizeRender2.jpg"
-  },
-  {
-    "name": "Gianluigi Del Magno",
-    "umi": false,
-    "path": "wp-content/delmagno.jpg"
   },
   {
     "name": "Chiara Cecilia Maiocchi",
@@ -701,12 +709,6 @@
     "path": "images/default-profile.svg"
   },
   {
-    "name": "Francesca Di Patti",
-    "umi": true,
-    "path": "images/francesca_di_patti.png",
-    "affiliation": "Dipartimento di Matematica e Informatica, Universit\u00e0 degli Studi di Firenze"
-  },
-  {
     "name": "Tiziano Penati",
     "umi": false,
     "path": "images/default-profile.svg",
@@ -789,13 +791,6 @@
     "path": "images/default-profile.svg",
     "affiliation": "Institute of Mathematics, Uzbek Academy of Sciences",
     "homepage": "https://sites.google.com/site/markruziboevspers/home"
-  },
-  {
-    "name": "Sara Di Ruzza",
-    "umi": true,
-    "path": "images/sara_di_ruzza.jpg",
-    "affiliation": "Universit\u00e0 di Palermo",
-    "homepage": "https://www.unipa.it/persone/docenti/d/sara.diruzza saradiruzza.com"
   },
   {
     "name": "Luciana Salgado",
@@ -970,11 +965,6 @@
     "umi": false,
     "path": "images/default-profile.svg",
     "affiliation": "Imperial College, London, UK"
-  },
-  {
-    "name": "Alessio Del Vigna",
-    "umi": false,
-    "path": "wp-content/Alessio.jpg"
   },
   {
     "name": "Helder Vilarinho",
