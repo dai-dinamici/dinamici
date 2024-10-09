@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on DinAmicI</title><link>https://www.dinamici.org/posts/</link><description>Recent content in Posts on DinAmicI</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Wed, 09 Oct 2024 10:20:00 +0000</lastBuildDate><atom:link href="https://www.dinamici.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Postdoc position at KTH</title><link>https://www.dinamici.org/2024/10/postdoc-kth-2024-10/</link><pubDate>Tue, 01 Oct 2024 14:30:00 +0000</pubDate><guid>https://www.dinamici.org/2024/10/postdoc-kth-2024-10/</guid><description>&lt;p>KTH, Sweden, has opened a call for a two-year postdoc position in dynamical systems. Application deadline is Nov 1, and the start date can be negotiated (normally its Sept 2025).&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on DinAmicI</title><link>https://www.dinamici.org/posts/</link><description>Recent content in Posts on DinAmicI</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Wed, 09 Oct 2024 10:00:00 +0000</lastBuildDate><atom:link href="https://www.dinamici.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Mini-course on Computability and Computational Complexity Questions in Dynamics, SNS, Pisa</title><link>https://www.dinamici.org/2024/10/mini-course-computability-complexity-sns/</link><pubDate>Wed, 09 Oct 2024 10:00:00 +0000</pubDate><guid>https://www.dinamici.org/2024/10/mini-course-computability-complexity-sns/</guid><description>&lt;p>&lt;a href="https://www.utm.utoronto.ca/math-cs-stats/people/michael-yampolsky">Prof. Michael Yampolsky&lt;/a>
+(University of Toronto Mississauga) will give a series of 4 lectures on
+&lt;em>&amp;ldquo;Computability and Computational Complexity Questions in Dynamics&amp;rdquo;&lt;/em> at the Scuola Normale
+Superiore in Pisa. The lectures will take place on Thursdays October 24 and 31 and November
+7 and 14, at 4:30 pm in Aula Volterra, Piazza dei Cavalieri 7. Titles and abstracts follow.&lt;/p>
+&lt;p>&lt;strong>October 24:&lt;/strong> &lt;em>Computability and computational complexity in dynamics: can we trust
+numerical predictions of limiting behavior of orbits?&lt;/em>&lt;br>
+The development of the modern subject of dynamical systems went hand-in-hand with
+numerical modeling. However, the theoretical basis of such modeling has remained
+largely unexplored and offers exciting challenges. What can and cannot be computed
+about the behavior of a dynamical system? I will give an overview of some of the
+recent results and directions of study.&lt;/p>
+&lt;p>&lt;strong>October 31:&lt;/strong> &lt;em>Don’t believe your lying eyes: (non)-computability of Julia sets.&lt;/em>&lt;br>
+The talk will be a deep dive into the question of computability and computational
+complexity of Julia sets. Their fractal images are among the most-computed pictures
+in all of mathematics. But can we trust what these computations show? The results
+are surprising, and involve some beautiful complex analysis. The talk will be based
+on my work with M. Braverman, as well as more recent results obtained with A. Dudko,
+C. Rojas, and others.&lt;/p>
+&lt;p>&lt;strong>November 7:&lt;/strong> &lt;em>How to lose at Monte Carlo: computing statistical behavior of
+dynamical systems.&lt;/em>&lt;br>
+Introduced by Ulam and von Neumann in the 1940s, Monte Carlo technique remains the
+most ubiquitous tool for statistical modeling. Surprisingly, our recent work with
+C. Rojas shows that such modeling provably fails for some very simple dynamical
+systems. I will present this theorem and discuss the resulting mathematical challenges.&lt;/p>
+&lt;p>&lt;strong>November 14:&lt;/strong> &lt;em>Thurston versus Turing: algorithmic hardness of classifying finite
+dynamical systems.&lt;/em>&lt;br>
+Historically, the algorithmic aspects of classification problems have motivated
+much of the research in geometric topology (knot theory, classification of
+surfaces and 3-manifolds, etc). These questions are also very fruitful in
+dynamics. I will discuss the joint results with N. Selinger, K. Rafi and others
+on algorithmic decidability of Thurston equivalence and the connection with
+geometrization questions in dynamics.&lt;/p>
+&lt;p>For any questions, please contact &lt;a href="mailto:stefano.marmi@sns.it">Stefano Marmi&lt;/a>.&lt;/p></description></item><item><title>Postdoc position at KTH</title><link>https://www.dinamici.org/2024/10/postdoc-kth-2024-10/</link><pubDate>Tue, 01 Oct 2024 14:30:00 +0000</pubDate><guid>https://www.dinamici.org/2024/10/postdoc-kth-2024-10/</guid><description>&lt;p>KTH, Sweden, has opened a call for a two-year postdoc position in dynamical systems. Application deadline is Nov 1, and the start date can be negotiated (normally its Sept 2025).&lt;/p>
 &lt;p>&lt;strong>Deadline for application:&lt;/strong> Nov 1, 2024.&lt;/p>
 &lt;p>&lt;strong>All info and link to application form:&lt;/strong> &lt;a href="https://www.kth.se/lediga-jobb/757740?l=en">https://www.kth.se/lediga-jobb/757740?l=en&lt;/a>&lt;/p></description></item><item><title>XIX International Workshop on Geometry, Dynamics and Field Theory</title><link>https://www.dinamici.org/2024/09/xix-intl-workshop-on-geometry-dynamics-and-field-theory/</link><pubDate>Mon, 16 Sep 2024 10:00:42 +0200</pubDate><guid>https://www.dinamici.org/2024/09/xix-intl-workshop-on-geometry-dynamics-and-field-theory/</guid><description>&lt;p>The &lt;em>“19th International Young Researchers Workshop on Geometry, Dynamics and Field Theory”&lt;/em>, an activity of the GMC Network, will be held in Verona, Italy, from January 20 to 22, 2025.&lt;/p>
 &lt;p>The workshop will offer three mini-courses, contributed talks and a poster session.&lt;/p>
