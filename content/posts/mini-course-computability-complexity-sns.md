@@ -1,6 +1,6 @@
 +++
 categories = ["events", "news"]
-date = "2024-10-09 10:20:00"
+date = "2024-10-09 10:00:00"
 title = "Mini-course on Computability and Computational Complexity Questions in Dynamics, SNS, Pisa"
 +++
 
