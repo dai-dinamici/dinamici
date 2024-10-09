@@ -8,10 +8,7 @@ title = "Mini-course on "Computability and Computational Complexity Questions in
 (University of Toronto Mississauga) will give a series of 4 lectures on 
 _"Computability and Computational Complexity Questions in Dynamics"_ at the Scuola Normale 
 Superiore in Pisa. The lectures will take place on Thursdays October 24 and 31 and November 
-7 and 14, at 4:30 pm in Aula Volterra, Piazza dei Cavalieri 7. The titles and abstracts of 
-the 4 lectures are given below. 
-
-For any questions, contact [Stefano Marmi](mailto:stefano.marmi@sns.it).
+7 and 14, at 4:30 pm in Aula Volterra, Piazza dei Cavalieri 7. Titles and abstracts follow.
 
 **October 24:** _Computability and computational complexity in dynamics: can we trust 
 numerical predictions of limiting behavior of orbits?_  
@@ -44,3 +41,5 @@ surfaces and 3-manifolds, etc). These questions are also very fruitful in
 dynamics. I will discuss the joint results with N. Selinger, K. Rafi and others 
 on algorithmic decidability of Thurston equivalence and the connection with 
 geometrization questions in dynamics. 
+
+For any questions, please contact [Stefano Marmi](mailto:stefano.marmi@sns.it).
