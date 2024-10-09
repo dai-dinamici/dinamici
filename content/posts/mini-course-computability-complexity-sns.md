@@ -1,6 +1,7 @@
 +++
+categories = ["events", "news"]
+date = "2024-10-09 10:20:00"
 title = "Mini-course on "Computability and Computational Complexity Questions in Dynamics", SNS, Pisa"
-date = "2024-10-09T10:00:42+02:00"
 +++
 
 [Prof. Michael Yampolsky](https://www.utm.utoronto.ca/math-cs-stats/people/michael-yampolsky) 
