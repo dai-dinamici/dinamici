@@ -8,7 +8,12 @@ title = "Mini-course on Computability and Computational Complexity Questions in 
 (University of Toronto Mississauga) will give a series of 4 lectures on 
 _"Computability and Computational Complexity Questions in Dynamics"_ at the Scuola Normale 
 Superiore in Pisa. The lectures will take place on Thursdays October 24 and 31 and November 
-7 and 14, at 4:30 pm in Aula Volterra, Piazza dei Cavalieri 7. Titles and abstracts follow.
+7 and 14, at 4:30 pm in Aula Volterra, 
+[Piazza dei Cavalieri 7](https://maps.app.goo.gl/2JtjDBxzoJVmZwCn7). They can be also joined 
+on Zoom at the address 
+<https://us02web.zoom.us/j/87207701292?pwd=cS85dXl0WC9udDhJNmkrd3FQVDJhdz09>.
+
+Titles and abstracts follow.
 
 **October 24:** _Computability and computational complexity in dynamics: can we trust 
 numerical predictions of limiting behavior of orbits?_  
