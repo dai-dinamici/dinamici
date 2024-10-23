@@ -716,6 +716,11 @@
     "affiliation": "Dipartimento di Matematica \"F.Enriques\" - Milano"
   },
   {
+    "name": "Fran\u00e7oise P\u00e8ne",
+    "umi": false,
+    "path": "images/default-profile.svg"
+  },
+  {
     "name": "Gabriella Pinzari",
     "umi": false,
     "path": "images/default-profile.svg"
@@ -738,11 +743,6 @@
     "path": "images/default-profile.svg"
   },
   {
-    "name": "Fran\u00e7oise P\u00e8ne",
-    "umi": false,
-    "path": "images/default-profile.svg"
-  },
-  {
     "name": "Jasmin Raissy",
     "umi": true,
     "path": "images/default-profile.svg",
@@ -754,6 +754,12 @@
     "path": "images/davide_ravotti.jpg",
     "affiliation": "CNRS",
     "homepage": "https://davideravotti.github.io/"
+  },
+  {
+    "name": "Francesca Rindi",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Università di Pisa"
   },
   {
     "name": "Bruno Alexandre Rodrigues ",
