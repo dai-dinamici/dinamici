@@ -9,9 +9,12 @@ title = "Mini-course on Computability and Computational Complexity Questions in 
 _"Computability and Computational Complexity Questions in Dynamics"_ at the Scuola Normale 
 Superiore in Pisa. The lectures will take place on Thursdays October 24 and 31 and November 
 7 and 14, at 4:30 pm in Aula Volterra, 
-[Piazza dei Cavalieri 7](https://maps.app.goo.gl/2JtjDBxzoJVmZwCn7). They can be also joined 
-on Zoom at the address 
-<https://us02web.zoom.us/j/87207701292?pwd=cS85dXl0WC9udDhJNmkrd3FQVDJhdz09>.
+[Piazza dei Cavalieri 7](https://maps.app.goo.gl/2JtjDBxzoJVmZwCn7). 
+
+The lectures can be also joined on Zoom at the address 
+<https://us02web.zoom.us/j/87262876317?pwd=VGUbIqzr97BVYmaj7a4vor7kamJgG1.1>
+and will be recorded and uploaded in the following folder:
+<https://drive.google.com/drive/folders/1RTwM6WP6b_hE5ac-cpkbEuftzpNRahMv?usp=share_link>.
 
 Titles and abstracts follow.
 
