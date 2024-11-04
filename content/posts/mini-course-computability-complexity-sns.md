@@ -13,8 +13,8 @@ Superiore in Pisa. The lectures will take place on Thursdays October 24 and 31 a
 
 The lectures can be also joined on Zoom at the address 
 <https://us02web.zoom.us/j/87262876317?pwd=VGUbIqzr97BVYmaj7a4vor7kamJgG1.1>
-and will be recorded and uploaded in the following folder:
-<https://drive.google.com/drive/folders/1RTwM6WP6b_hE5ac-cpkbEuftzpNRahMv?usp=share_link>.
+and will be recorded and uploaded to the following folder:
+<https://drive.google.com/drive/folders/1RTwM6WP6b_hE5ac-cpkbEuftzpNRahMv>.
 
 Titles and abstracts follow.
 
