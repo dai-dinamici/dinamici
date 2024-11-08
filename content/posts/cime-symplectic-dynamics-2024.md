@@ -1,7 +1,7 @@
 +++
 categories = ["news", "events"]
 date = "2024-11-08 10:30:00"
-title = "CIME summer school on "Symplectic Dynamics and Topology""
+title = "CIME summer school on Symplectic Dynamics and Topology"
 +++
 
 This is an announcement for the *CIME summer school* on **"Symplectic Dynamics and Topology"**, which will take place on *June 16-20, 2025*, in Cetraro (Italy).
