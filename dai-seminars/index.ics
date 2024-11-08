@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Jacopo De Simoi 'TBA' - Carlangelo Liverani 'TBA'
+UID:2024-11-08 08:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241108T083900
+
+DTSTART:20241203T160000
+
+
+DTEND:20241203T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2024-12-desimoi-liverani/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Adam Kanigowski 'Ergodic Theorems along sparse subsets of the integers' - Kosma Kasprzak 'Ergodicity along square orbits in rigid dynamical systems'
 UID:2024-09-16 14:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
