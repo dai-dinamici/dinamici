@@ -12,7 +12,7 @@ title = "Jacopo De Simoi (University of Toronto) and Carlangelo Liverani (Univer
 abstract = [""".""",""".""" ]
 +++
 
-Speaker: Jacopo De Simoi (University of Toronto),
+Speaker: Jacopo De Simoi (University of Toronto)
 
 Title: TBA
 
