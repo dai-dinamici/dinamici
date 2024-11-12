@@ -1,6 +1,6 @@
 +++
 title = "Assemblea Gruppo UMI 2024"
-date = "2024-11-98 09:30:00"
+date = "2024-11-11 09:30:00"
 categories = ["news", "events"]
 +++
 
