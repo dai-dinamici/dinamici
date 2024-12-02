@@ -2,7 +2,7 @@
 affiliation = ["University of Toronto","Università di Roma Tor Vergata"]
 categories = ["dai-seminar"] 
 date = "2024-11-08 08:39:00"
-zoom = "" 
+zoom = "https://univ-lille-fr.zoom.us/j/96229806449?pwd=ksYSbsC9xUJ2sAh8t5TebzN6nmsfZ2.1" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["Statistical properties of some mostly expanding fast-slow partially hyperbolic systems", "Some open problems and considerations at the intersection of partially hyperbolic systems, randomness, and statistical mechanics"] 
 speaker = ["Jacopo De Simoi", "Carlangelo Liverani"] 
