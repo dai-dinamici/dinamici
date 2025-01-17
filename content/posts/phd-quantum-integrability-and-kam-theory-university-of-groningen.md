@@ -1,6 +1,6 @@
 +++
 categories = ["news", "open-positions"]
-date = "2025-01-17 11:30:00"
+date = "2025-01-17 11:31:00"
 title = "PhD position in quantum integrability and KAM theory at the University of Groningen"
 +++
 
