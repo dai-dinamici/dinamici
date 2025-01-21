@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Lai-Sang Young 'TBA' - Kevin K. Lin 'TBA'
+UID:2025-01-21 08:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250121T083900
+
+DTSTART:20250204T160000
+
+
+DTEND:20250204T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2025-02-young-lin/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Jacopo De Simoi 'Statistical properties of some mostly expanding fast-slow partially hyperbolic systems' - Carlangelo Liverani 'Some open problems and considerations at the intersection of partially hyperbolic systems, randomness, and statistical mechanics'
 UID:2024-11-08 08:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
