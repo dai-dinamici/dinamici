@@ -6,7 +6,7 @@ title = "Master Class in dynamical systems 2025 at KTH Stockholm"
 
 The [Department of Mathematics at KTH](https://www.kth.se/math) *(Royal Institute of 
 Technology)* announces their third Master Class in Dynamical Systems, which will be 
-held in Stockholm **from May 13 to May 23, 2025**.
+held in Stockholm **from May 19 to May 23, 2025**.
 
 Minicourses will be taught by: **Giovanni Forni and Anton Zorich, Kathryn Mann, Florian Richter**.
 
