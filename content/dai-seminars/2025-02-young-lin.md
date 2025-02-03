@@ -2,7 +2,7 @@
 affiliation = ["CIMS, New York University","University of Arizona"]
 categories = ["dai-seminar"] 
 date = "2025-01-21 08:39:00"
-zoom = "" 
+zoom = "https://unibo.zoom.us/j/85373722849?pwd=wC4ILVfKgETH1qSWnJFqA5YrTaBFEo.1" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["Dynamics of the visual system", "Coarse-grained modeling of the primary visual cortex"] 
 speaker = ["Lai-Sang Young", "Kevin K. Lin"] 
