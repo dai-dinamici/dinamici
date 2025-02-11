@@ -296,6 +296,12 @@
     "homepage": "https://webspace.science.uu.nl/~kraai101/"
   },
   {
+    "name": "Veronica Danesi",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "University of Rome Tor Vergata"
+  },
+  {
     "name": "Irene De Blasi",
     "umi": true,
     "path": "images/irene_de_blasi.jpg",
